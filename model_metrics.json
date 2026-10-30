@@ -1,0 +1,9 @@
+{
+    "model": "Logistic Regression",
+    "accuracy": 0.7236180904522613,
+    "roc_auc": 0.6640175300889586,
+    "average_precision": 0.40424348148371037,
+    "training_records": 1589,
+    "testing_records": 398,
+    "threshold": 0.5
+}

@@ -1,0 +1,13 @@
+
+{
+    "risk_thresholds": {
+        "ship_as_is": 0.20,
+        "ship_after_confirmation": 0.35,
+        "nudge_to_prepaid": 0.60
+    },
+    "repeat_rto_limit": 2,
+    "first_time_customer_protection": true,
+    "auto_cancel_enabled": false,
+    "prepaid_discount": 20,
+    "currency": "INR"
+}

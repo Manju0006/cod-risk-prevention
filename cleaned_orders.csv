@@ -1,0 +1,1988 @@
+order_id,order_datetime,order_value,num_items,customer_prior_orders,customer_prior_rto,order_hour,order_month,order_dayofweek,city,state,utm_source,courier,rto
+KT100193,2026-06-18 15:34:00,349,1,0,0,15,6,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101714,2026-07-26 09:36:00,898,2,0,0,9,7,6,Indore,Madhya Pradesh,meta_ads,BlueDart,0
+KT100452,2026-05-29 22:37:00,449,1,0,0,22,5,4,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101753,2026-06-29 12:46:00,699,1,0,0,12,6,0,Lucknow,Uttar Pradesh,direct,Xpressbees,1
+KT100195,2026-05-13 14:15:00,499,1,0,0,14,5,2,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100437,2026-08-18 02:01:00,1547,3,0,0,2,8,1,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100629,2026-07-20 09:24:00,798,2,0,0,9,7,0,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100424,2026-05-26 04:00:00,748,2,0,0,4,5,1,Jaipur,Rajasthan,google_ads,Ecom Express,0
+KT101612,2026-05-12 03:54:00,1996,4,3,0,3,5,1,Kolkata,West Bengal,meta_ads,Ecom Express,0
+KT100580,2026-06-30 22:00:00,499,1,0,0,22,6,1,Darbhanga,Bihar,direct,Shadowfax,0
+KT100529,2026-06-28 13:40:00,1197,3,1,0,13,6,6,Patna,Bihar,instagram_organic,Ecom Express,1
+KT100641,2026-09-17 03:45:00,1297,3,0,0,3,9,3,Bengaluru,Karnataka,influencer,Ecom Express,0
+KT100225,2026-05-09 02:23:00,449,1,1,0,2,5,5,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT100319,2026-06-29 13:30:00,1347,3,0,0,13,6,0,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101375,2026-07-07 05:32:00,299,1,1,0,5,7,1,Pune,Maharashtra,influencer,Delhivery,0
+KT100552,2026-08-15 12:59:00,2199,3,1,0,12,8,5,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT100662,2026-05-24 16:32:00,449,1,0,0,16,5,6,Kolkata,West Bengal,google_ads,Ecom Express,0
+KT100333,2026-05-08 18:56:00,599,1,0,0,18,5,4,Bengaluru,Karnataka,direct,Delhivery,0
+KT100528,2026-08-12 19:14:00,948,2,0,0,19,8,2,Lucknow,Uttar Pradesh,instagram_organic,Delhivery,0
+KT101941,2026-07-14 04:32:00,998,2,0,0,4,7,1,Gorakhpur,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101336,2026-04-29 13:52:00,499,1,0,0,13,4,2,Delhi,Delhi,google_ads,Ecom Express,0
+KT101834,2026-07-20 07:41:00,898,2,0,0,7,7,0,Indore,Madhya Pradesh,meta_ads,BlueDart,0
+KT101370,2026-06-13 22:29:00,599,1,0,0,22,6,5,Bengaluru,Karnataka,google_ads,Shadowfax,1
+KT100821,2026-07-04 02:58:00,299,1,0,0,2,7,5,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT101374,2026-09-10 10:47:00,349,1,0,0,10,9,3,Kota,Rajasthan,meta_ads,Shadowfax,1
+KT100072,2026-04-16 16:02:00,499,1,0,0,16,4,3,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101116,2026-07-31 17:10:00,1447,3,0,0,17,7,4,Hyderabad,Telangana,meta_ads,Delhivery,1
+KT101413,2026-09-27 15:11:00,1546,4,0,0,15,9,6,Lucknow,Uttar Pradesh,meta_ads,Delhivery,0
+KT101049,2026-05-05 01:36:00,1247,3,0,0,1,5,1,Hyderabad,Telangana,meta_ads,BlueDart,0
+KT101325,2026-07-28 00:24:00,1899,4,1,0,0,7,1,Delhi,Delhi,influencer,Delhivery,0
+KT101397,2026-08-20 16:37:00,349,1,4,0,16,8,3,Delhi,Delhi,meta_ads,BlueDart,0
+KT101499,2026-07-27 12:15:00,349,1,0,0,12,7,0,Pune,Maharashtra,influencer,Ecom Express,0
+KT100472,2026-06-11 14:41:00,998,2,0,0,14,6,3,Bengaluru,Karnataka,instagram_organic,Xpressbees,0
+KT100085,2026-05-24 23:37:00,1297,3,0,0,23,5,6,Patna,Bihar,google_ads,Ecom Express,0
+KT101608,2026-04-03 19:02:00,699,1,0,0,19,4,4,Bengaluru,Karnataka,instagram_organic,Shadowfax,1
+KT101821,2026-05-18 09:11:00,598,2,1,0,9,5,0,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100392,2026-08-15 22:10:00,449,1,0,0,22,8,5,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT101654,2026-09-04 08:10:00,399,1,0,0,8,9,4,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100741,2026-05-13 17:37:00,449,1,0,0,17,5,2,Nagaon,Assam,whatsapp_broadcast,Ecom Express,1
+KT101416,2026-08-02 18:56:00,599,1,0,0,18,8,6,Hyderabad,Telangana,whatsapp_broadcast,Xpressbees,0
+KT100082,2026-09-19 15:33:00,449,1,0,0,15,9,5,Mumbai,Maharashtra,direct,Shadowfax,0
+KT100952,2026-04-27 03:54:00,599,1,0,0,3,4,0,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,1
+KT100781,2026-06-27 02:46:00,349,1,0,0,2,6,5,Patna,Bihar,meta_ads,Delhivery,0
+KT100215,2026-08-04 16:16:00,499,1,0,0,16,8,1,Jaipur,Rajasthan,whatsapp_broadcast,Shadowfax,0
+KT101795,2026-06-08 11:07:00,349,1,0,0,11,6,0,Kolkata,West Bengal,meta_ads,Xpressbees,0
+KT100257,2026-04-25 19:48:00,1048,2,0,0,19,4,5,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101582,2026-06-11 17:43:00,1048,2,0,0,17,6,3,Delhi,Delhi,meta_ads,Delhivery,0
+KT100442,2026-07-22 18:36:00,299,1,4,2,18,7,2,Jaipur,Rajasthan,google_ads,BlueDart,1
+KT101046,2026-05-18 05:07:00,1347,3,0,0,5,5,0,Hyderabad,Telangana,google_ads,Shadowfax,0
+KT100167,2026-04-23 23:24:00,349,1,0,0,23,4,3,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100337,2026-09-27 19:30:00,2499,1,0,0,19,9,6,Pune,Maharashtra,google_ads,Shadowfax,1
+KT100519,2026-04-06 07:46:00,1198,2,5,0,7,4,0,Lucknow,Uttar Pradesh,instagram_organic,Delhivery,0
+KT101377,2026-05-10 15:26:00,349,1,0,0,15,5,6,Delhi,Delhi,instagram_organic,Xpressbees,1
+KT100324,2026-08-20 05:20:00,948,2,1,0,5,8,3,Indore,Madhya Pradesh,instagram_organic,Delhivery,0
+KT101081,2026-05-02 22:02:00,1297,3,0,0,22,5,5,Chennai,Tamil Nadu,google_ads,Ecom Express,0
+KT100062,2026-08-15 23:46:00,1197,3,0,0,23,8,5,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT101519,2026-08-02 11:36:00,1098,2,0,0,11,8,6,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT100434,2026-06-05 21:45:00,349,1,0,0,21,6,4,Delhi,Delhi,influencer,Shadowfax,0
+KT100708,2026-04-11 04:51:00,449,1,0,0,4,4,5,Hyderabad,Telangana,direct,Delhivery,0
+KT100772,2026-05-19 10:22:00,998,2,0,0,10,5,1,Gorakhpur,Uttar Pradesh,instagram_organic,Delhivery,1
+KT100112,2026-09-29 20:17:00,1198,2,0,0,20,9,1,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT101527,2026-06-18 10:52:00,598,2,0,0,10,6,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101640,2026-09-11 14:39:00,748,2,0,0,14,9,4,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100329,2026-04-17 14:10:00,599,1,0,0,14,4,4,Kolkata,West Bengal,whatsapp_broadcast,Xpressbees,1
+KT101243,2026-05-14 07:42:00,998,2,0,0,7,5,3,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101363,2026-06-27 17:46:00,798,2,4,0,17,6,5,Kolkata,West Bengal,direct,Delhivery,0
+KT101407,2026-07-11 03:25:00,948,2,0,0,3,7,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100829,2026-04-04 14:01:00,599,1,0,0,14,4,5,Kolkata,West Bengal,whatsapp_broadcast,BlueDart,0
+KT101025,2026-05-15 15:59:00,1048,2,0,0,15,5,4,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100198,2026-08-03 01:56:00,1198,2,0,0,1,8,0,Pune,Maharashtra,direct,Ecom Express,0
+KT101114,2026-08-04 02:48:00,349,1,0,0,2,8,1,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT100080,2026-06-28 00:30:00,449,1,1,0,0,6,6,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT100289,2026-06-17 22:38:00,399,1,0,0,22,6,2,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100346,2026-09-13 20:57:00,1398,2,0,0,20,9,6,Bengaluru,Karnataka,direct,Delhivery,0
+KT101878,2026-06-15 02:34:00,449,1,0,0,2,6,0,Kota,Rajasthan,direct,Shadowfax,0
+KT100345,2026-09-04 21:28:00,2999,1,0,0,21,9,4,Chennai,Tamil Nadu,meta_ads,Xpressbees,1
+KT100740,2026-07-27 01:12:00,898,2,0,0,1,7,0,Delhi,Delhi,influencer,Delhivery,0
+KT100454,2026-07-23 10:06:00,1597,3,0,0,10,7,3,Delhi,Delhi,meta_ads,Xpressbees,0
+KT101566,2026-08-23 09:33:00,1796,4,1,0,9,8,6,Lucknow,Uttar Pradesh,google_ads,Shadowfax,0
+KT101098,2026-06-01 12:40:00,699,1,0,0,12,6,0,Mumbai,Maharashtra,google_ads,Ecom Express,0
+KT101810,2026-09-27 07:45:00,499,1,1,0,7,9,6,Kolkata,West Bengal,direct,Shadowfax,1
+KT101278,2026-06-04 18:49:00,1397,3,0,0,18,6,3,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100520,2026-06-30 06:53:00,2999,1,0,0,6,6,1,Delhi,Delhi,meta_ads,Xpressbees,0
+KT100616,2026-05-02 06:24:00,998,2,0,0,6,5,5,Mumbai,Maharashtra,instagram_organic,Shadowfax,0
+KT100891,2026-09-10 11:31:00,599,1,5,0,11,9,3,Hyderabad,Telangana,google_ads,Xpressbees,0
+KT101118,2026-09-17 12:29:00,449,1,0,0,12,9,3,Delhi,Delhi,meta_ads,Ecom Express,1
+KT101109,2026-08-25 05:51:00,1647,3,2,0,5,8,1,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,0
+KT100932,2026-07-29 10:53:00,1497,3,0,0,10,7,2,Kota,Rajasthan,google_ads,Xpressbees,1
+KT100995,2026-06-16 19:46:00,1048,2,0,0,19,6,1,Hyderabad,Telangana,meta_ads,BlueDart,1
+KT101822,2026-09-05 21:37:00,299,1,4,1,21,9,5,Jaipur,Rajasthan,instagram_organic,Shadowfax,1
+KT100350,2026-08-24 02:08:00,499,1,0,0,2,8,0,Gorakhpur,Uttar Pradesh,meta_ads,Xpressbees,0
+KT101742,2026-04-06 02:37:00,848,2,0,0,2,4,0,Indore,Madhya Pradesh,meta_ads,Ecom Express,0
+KT100685,2026-07-27 02:01:00,1497,3,2,2,2,7,0,Pune,Maharashtra,google_ads,BlueDart,0
+KT100265,2026-07-13 12:52:00,2199,3,0,0,12,7,0,Patna,Bihar,meta_ads,Delhivery,0
+KT100799,2026-05-15 20:31:00,499,1,0,0,20,5,4,Kota,Rajasthan,influencer,Shadowfax,0
+KT150088,2026-05-25 15:07:00,798,2,5,0,15,5,0,Mumbai,Maharashtra,meta_ads,Shadowfax,1
+KT100839,2026-08-05 08:10:00,1797,3,0,0,8,8,2,Kolkata,West Bengal,google_ads,Shadowfax,0
+KT101411,2026-06-01 12:51:00,948,2,0,0,12,6,0,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100448,2026-04-04 23:43:00,399,1,3,0,23,4,5,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101491,2026-04-25 19:39:00,1896,4,0,0,19,4,5,Hyderabad,Telangana,meta_ads,Delhivery,1
+KT100906,2026-09-13 23:40:00,349,1,0,0,23,9,6,Bengaluru,Karnataka,instagram_organic,Xpressbees,1
+KT100924,2026-07-01 03:08:00,1497,3,0,0,3,7,2,Delhi,Delhi,meta_ads,Shadowfax,0
+KT100651,2026-07-01 20:13:00,898,2,3,0,20,7,2,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100901,2026-06-28 10:16:00,1198,2,0,0,10,6,6,Mumbai,Maharashtra,direct,Shadowfax,0
+KT101668,2026-08-12 13:45:00,399,1,0,0,13,8,2,Chennai,Tamil Nadu,meta_ads,Delhivery,1
+KT101849,2026-08-15 15:51:00,1697,3,0,0,15,8,5,Delhi,Delhi,meta_ads,Ecom Express,0
+KT101672,2026-09-11 07:16:00,449,1,0,0,7,9,4,Lucknow,Uttar Pradesh,whatsapp_broadcast,Shadowfax,0
+KT100680,2026-04-01 16:33:00,1098,2,0,0,16,4,2,Kolkata,West Bengal,meta_ads,Shadowfax,0
+KT101415,2026-06-10 03:43:00,748,2,0,0,3,6,2,Hyderabad,Telangana,meta_ads,Delhivery,1
+KT101790,2026-07-31 07:18:00,1447,3,3,1,7,7,4,Darbhanga,Bihar,instagram_organic,Xpressbees,1
+KT101949,2026-07-23 03:13:00,499,1,0,0,3,7,3,Bengaluru,Karnataka,meta_ads,Shadowfax,1
+KT101460,2026-06-06 14:17:00,499,1,4,0,14,6,5,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100594,2026-06-25 01:28:00,1946,4,0,0,1,6,3,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT101437,2026-08-23 16:02:00,499,1,0,0,16,8,6,Gorakhpur,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100654,2026-05-30 17:14:00,499,1,0,0,17,5,5,Mumbai,Maharashtra,google_ads,Xpressbees,0
+KT100170,2026-06-13 14:10:00,898,2,0,0,14,6,5,Darbhanga,Bihar,whatsapp_broadcast,Xpressbees,1
+KT101515,2026-04-18 08:00:00,1198,2,0,0,8,4,5,Delhi,Delhi,whatsapp_broadcast,Xpressbees,0
+KT100516,2026-07-14 06:15:00,1697,3,0,0,6,7,1,Pune,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100767,2026-06-11 05:29:00,2999,3,0,0,5,6,3,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100450,2026-08-19 08:14:00,499,1,4,0,8,8,2,Indore,Madhya Pradesh,google_ads,Shadowfax,1
+KT100525,2026-08-20 00:50:00,1746,4,0,0,0,8,3,Bengaluru,Karnataka,instagram_organic,Xpressbees,1
+KT101473,2026-07-17 05:42:00,449,1,0,0,5,7,4,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT101009,2026-08-27 21:57:00,599,1,0,0,21,8,3,Lucknow,Uttar Pradesh,influencer,Delhivery,0
+KT101917,2026-06-29 07:21:00,349,1,2,0,7,6,0,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT101170,2026-07-28 16:03:00,499,1,0,0,16,7,1,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT100480,2026-09-26 17:03:00,499,1,0,0,17,9,5,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT100609,2026-09-15 17:44:00,699,1,0,0,17,9,1,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT101841,2026-09-24 06:32:00,449,1,0,0,6,9,3,Jaipur,Rajasthan,influencer,Delhivery,0
+KT100383,2026-07-05 19:21:00,699,1,0,0,19,7,6,Bengaluru,Karnataka,direct,Delhivery,1
+KT101337,2026-08-26 08:25:00,748,2,3,0,8,8,2,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT100615,2026-09-22 05:46:00,1048,2,2,0,5,9,1,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100418,2026-08-30 06:15:00,998,2,0,0,6,8,6,Hyderabad,Telangana,influencer,Ecom Express,0
+KT101591,2026-04-16 23:11:00,349,1,3,2,23,4,3,Indore,Madhya Pradesh,meta_ads,Ecom Express,1
+KT101298,2026-04-28 10:24:00,599,1,0,0,10,4,1,Delhi,Delhi,meta_ads,Ecom Express,0
+KT100828,2026-07-06 16:54:00,698,2,3,0,16,7,0,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT100902,2026-08-07 11:47:00,1247,3,3,2,11,8,4,Mumbai,Maharashtra,influencer,Shadowfax,0
+KT101749,2026-06-08 16:48:00,1497,3,0,0,16,6,0,Chennai,Tamil Nadu,meta_ads,Xpressbees,0
+KT101607,2026-09-03 20:43:00,648,2,4,0,20,9,3,Kota,Rajasthan,whatsapp_broadcast,Xpressbees,0
+KT100895,2026-08-24 09:19:00,898,2,3,0,9,8,0,Lucknow,Uttar Pradesh,meta_ads,Ecom Express,1
+KT101379,2026-07-15 07:15:00,699,1,0,0,7,7,2,Chennai,Tamil Nadu,direct,BlueDart,1
+KT101340,2026-08-03 15:39:00,1097,3,1,1,15,8,0,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101484,2026-09-12 19:45:00,1496,4,0,0,19,9,5,Kolkata,West Bengal,google_ads,Shadowfax,0
+KT100066,2026-07-06 12:05:00,299,1,0,0,12,7,0,Pune,Maharashtra,direct,Xpressbees,0
+KT101680,2026-06-08 17:49:00,1148,2,1,1,17,6,0,Mumbai,Maharashtra,direct,Xpressbees,0
+KT101244,2026-08-29 21:22:00,948,2,4,1,21,8,5,Bareilly,Uttar Pradesh,meta_ads,Delhivery,0
+KT100053,2026-05-22 04:15:00,1647,3,0,0,4,5,4,Delhi,Delhi,meta_ads,Shadowfax,1
+KT100099,2026-06-15 15:26:00,299,1,0,0,15,6,0,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT100148,2026-06-12 11:20:00,1148,2,0,0,11,6,4,Chennai,Tamil Nadu,influencer,Xpressbees,0
+KT100684,2026-07-26 00:00:00,848,2,0,0,0,7,6,Delhi,Delhi,meta_ads,Delhivery,0
+KT100710,2026-05-17 19:49:00,0,1,0,0,19,5,6,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101674,2026-05-05 01:13:00,1297,3,4,0,1,5,1,Pune,Maharashtra,whatsapp_broadcast,Xpressbees,0
+KT100279,2026-07-26 21:09:00,1897,3,0,0,21,7,6,Bengaluru,Karnataka,meta_ads,Delhivery,1
+KT100074,2026-04-24 12:24:00,2199,2,0,0,12,4,4,Indore,Madhya Pradesh,meta_ads,Ecom Express,0
+KT100302,2026-06-04 17:22:00,499,1,0,0,17,6,3,Chennai,Tamil Nadu,direct,Xpressbees,0
+KT100384,2026-05-15 09:19:00,798,2,2,0,9,5,4,Delhi,Delhi,whatsapp_broadcast,Xpressbees,0
+KT100515,2026-07-30 01:32:00,699,1,0,0,1,7,3,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT101684,2026-08-04 17:23:00,449,1,0,0,17,8,1,Kota,Rajasthan,google_ads,Xpressbees,0
+KT101757,2026-04-18 08:18:00,1697,3,0,0,8,4,5,Kota,Rajasthan,meta_ads,BlueDart,1
+KT100491,2026-08-06 19:14:00,299,1,0,0,19,8,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100689,2026-09-11 13:53:00,349,1,0,0,13,9,4,Bengaluru,Karnataka,influencer,Xpressbees,0
+KT100670,2026-04-03 19:00:00,2499,1,0,0,19,4,4,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101604,2026-08-05 11:30:00,699,1,0,0,11,8,2,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101533,2026-09-26 05:38:00,299,1,0,0,5,9,5,Hyderabad,Telangana,direct,Shadowfax,0
+KT100632,2026-07-03 01:10:00,1696,4,5,2,1,7,4,Bengaluru,Karnataka,google_ads,Delhivery,1
+KT100219,2026-08-06 06:42:00,599,1,0,0,6,8,3,Delhi,Delhi,google_ads,Shadowfax,1
+KT101657,2026-08-29 15:51:00,998,2,0,0,15,8,5,Patna,Bihar,whatsapp_broadcast,Shadowfax,1
+KT101852,2026-06-07 21:10:00,1298,2,0,0,21,6,6,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100937,2026-06-12 05:41:00,399,1,5,0,5,6,4,Bareilly,Uttar Pradesh,direct,Xpressbees,1
+KT100796,2026-08-20 08:56:00,1547,3,2,0,8,8,3,Indore,Madhya Pradesh,meta_ads,Ecom Express,1
+KT101138,2026-07-12 20:37:00,1846,4,1,0,20,7,6,Mumbai,Maharashtra,direct,Delhivery,0
+KT101619,2026-09-08 13:20:00,1347,3,0,0,13,9,1,Delhi,Delhi,meta_ads,Delhivery,0
+KT101053,2026-06-07 10:25:00,499,1,0,0,10,6,6,Bareilly,Uttar Pradesh,influencer,Delhivery,1
+KT101881,2026-08-02 14:41:00,499,1,0,0,14,8,6,Bengaluru,Karnataka,instagram_organic,Xpressbees,0
+KT100325,2026-07-06 08:42:00,349,1,2,0,8,7,0,Kolkata,West Bengal,whatsapp_broadcast,Ecom Express,0
+KT101067,2026-07-03 18:13:00,599,1,0,0,18,7,4,Pune,Maharashtra,direct,Delhivery,0
+KT100088,2026-05-25 15:04:00,798,2,5,0,15,5,0,Mumbai,Maharashtra,meta_ads,Shadowfax,1
+KT101242,2026-06-29 01:55:00,599,1,3,0,1,6,0,Gorakhpur,Uttar Pradesh,whatsapp_broadcast,Ecom Express,0
+KT100510,2026-05-04 09:29:00,449,1,2,0,9,5,0,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT100857,2026-06-28 10:24:00,848,2,0,0,10,6,6,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100366,2026-08-11 23:47:00,399,1,1,0,23,8,1,Mumbai,Maharashtra,instagram_organic,Xpressbees,0
+KT101428,2026-08-29 04:18:00,2499,1,0,0,4,8,5,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101859,2026-06-08 01:39:00,1048,2,0,0,1,6,0,Kolkata,West Bengal,influencer,Delhivery,0
+KT100929,2026-09-22 18:28:00,998,2,0,0,18,9,1,Hyderabad,Telangana,instagram_organic,Delhivery,0
+KT101356,2026-04-11 07:04:00,699,1,0,0,7,4,5,Darbhanga,Bihar,google_ads,Xpressbees,1
+KT101303,2026-09-04 20:53:00,299,1,0,0,20,9,4,Gorakhpur,Uttar Pradesh,meta_ads,Xpressbees,0
+KT101152,2026-04-23 01:25:00,1098,2,0,0,1,4,3,Kolkata,West Bengal,meta_ads,BlueDart,1
+KT100281,2026-09-10 05:05:00,499,1,0,0,5,9,3,Mumbai,Maharashtra,influencer,Xpressbees,1
+KT100977,2026-08-25 19:48:00,848,2,0,0,19,8,1,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100692,2026-04-04 06:19:00,1048,2,0,0,6,4,5,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT100039,2026-04-14 04:10:00,699,1,0,0,4,4,1,Mumbai,Maharashtra,instagram_organic,Delhivery,1
+KT100406,2026-07-02 14:47:00,1896,4,0,0,14,7,3,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT101946,2026-05-17 12:12:00,798,2,0,0,12,5,6,Delhi,Delhi,google_ads,Delhivery,1
+KT101249,2026-09-21 18:40:00,748,2,0,0,18,9,0,Patna,Bihar,meta_ads,Delhivery,1
+KT100153,2026-06-14 03:40:00,399,1,0,0,3,6,6,Delhi,Delhi,meta_ads,Delhivery,0
+KT100145,2026-08-02 11:39:00,798,2,0,0,11,8,6,Mumbai,Maharashtra,influencer,Shadowfax,0
+KT100500,2026-06-11 10:54:00,1497,3,0,0,10,6,3,Kota,Rajasthan,instagram_organic,Delhivery,0
+KT101511,2026-09-30 06:52:00,499,1,0,0,6,9,2,Hyderabad,Telangana,meta_ads,Xpressbees,1
+KT101166,2026-09-21 10:44:00,399,1,0,0,10,9,0,Delhi,Delhi,google_ads,Xpressbees,0
+KT100620,2026-06-02 20:50:00,898,2,0,0,20,6,1,Darbhanga,Bihar,instagram_organic,Xpressbees,1
+KT101843,2026-06-21 17:52:00,399,1,2,0,17,6,6,Chennai,Tamil Nadu,instagram_organic,Shadowfax,0
+KT101091,2026-07-21 12:19:00,1298,2,0,0,12,7,1,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101335,2026-06-11 16:53:00,499,1,0,0,16,6,3,Kota,Rajasthan,google_ads,Shadowfax,1
+KT101860,2026-07-13 17:18:00,1048,2,0,0,17,7,0,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101444,2026-09-24 02:33:00,798,2,2,1,2,9,3,Hyderabad,Telangana,direct,Delhivery,0
+KT101641,2026-06-17 06:24:00,1098,2,0,0,6,6,2,Mumbai,Maharashtra,instagram_organic,Shadowfax,0
+KT100453,2026-05-08 08:20:00,299,1,0,0,8,5,4,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101056,2026-09-06 09:38:00,948,2,0,0,9,9,6,Guwahati,Assam,meta_ads,Delhivery,1
+KT101440,2026-08-26 16:28:00,798,2,0,0,16,8,2,Delhi,Delhi,google_ads,Delhivery,0
+KT101954,2026-05-11 02:28:00,449,1,0,0,2,5,0,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100854,2026-06-20 03:15:00,898,2,1,0,3,6,5,Bengaluru,Karnataka,direct,Shadowfax,0
+KT100602,2026-04-30 02:51:00,898,2,0,0,2,4,3,Sagar,Madhya Pradesh,meta_ads,Xpressbees,0
+KT101718,2026-08-19 03:22:00,1098,2,0,0,3,8,2,Delhi,Delhi,direct,Xpressbees,0
+KT101791,2026-07-13 06:01:00,599,1,0,0,6,7,0,Jaipur,Rajasthan,direct,Ecom Express,0
+KT100886,2026-08-26 16:19:00,648,2,0,0,16,8,2,Kolkata,West Bengal,meta_ads,Ecom Express,0
+KT100287,2026-05-16 15:46:00,499,1,0,0,15,5,5,Gorakhpur,Uttar Pradesh,whatsapp_broadcast,Delhivery,1
+KT101596,2026-08-02 21:50:00,699,1,0,0,21,8,6,Jaipur,Rajasthan,meta_ads,Xpressbees,1
+KT150843,2026-08-04 04:56:00,349,1,0,0,4,8,1,Pune,Maharashtra,meta_ads,BlueDart,0
+KT101301,2026-08-12 21:07:00,299,1,0,0,21,8,2,Hyderabad,Telangana,meta_ads,BlueDart,1
+KT100690,2026-08-07 05:46:00,699,1,5,1,5,8,4,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT100700,2026-08-11 09:02:00,599,1,0,0,9,8,1,Delhi,Delhi,whatsapp_broadcast,Xpressbees,0
+KT101750,2026-07-23 15:02:00,1247,3,0,0,15,7,3,Guwahati,Assam,instagram_organic,Ecom Express,1
+KT101451,2026-05-13 06:48:00,848,2,0,0,6,5,2,Gorakhpur,Uttar Pradesh,google_ads,Ecom Express,0
+KT101196,2026-08-04 19:44:00,699,1,0,0,19,8,1,Chennai,Tamil Nadu,google_ads,Xpressbees,1
+KT101137,2026-09-22 15:18:00,998,2,3,0,15,9,1,Delhi,Delhi,meta_ads,Shadowfax,0
+KT101239,2026-06-15 12:02:00,1347,3,4,2,12,6,0,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT100777,2026-04-26 07:50:00,1297,3,0,0,7,4,6,Darbhanga,Bihar,direct,Xpressbees,1
+KT100161,2026-05-15 15:52:00,1098,2,0,0,15,5,4,Patna,Bihar,meta_ads,Xpressbees,0
+KT101352,2026-09-15 15:24:00,948,2,0,0,15,9,1,Lucknow,Uttar Pradesh,whatsapp_broadcast,Delhivery,0
+KT101766,2026-08-02 07:03:00,948,2,0,0,7,8,6,Bareilly,Uttar Pradesh,meta_ads,Delhivery,0
+KT101636,2026-07-03 16:04:00,2999,1,0,0,16,7,4,Patna,Bihar,instagram_organic,Xpressbees,0
+KT101662,2026-06-13 18:15:00,1198,2,1,0,18,6,5,Delhi,Delhi,google_ads,Ecom Express,0
+KT101556,2026-09-29 00:17:00,948,2,2,0,0,9,1,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101163,2026-04-30 15:37:00,1397,3,0,0,15,4,3,Hyderabad,Telangana,instagram_organic,Ecom Express,0
+KT101646,2026-06-26 07:51:00,699,1,0,0,7,6,4,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100526,2026-09-28 18:39:00,2499,1,0,0,18,9,0,Indore,Madhya Pradesh,google_ads,BlueDart,0
+KT100316,2026-08-24 15:02:00,1647,3,0,0,15,8,0,Delhi,Delhi,direct,Ecom Express,0
+KT101043,2026-06-03 22:17:00,599,1,0,0,22,6,2,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT100239,2026-08-07 01:51:00,1597,3,1,0,1,8,4,Patna,Bihar,meta_ads,BlueDart,0
+KT101288,2026-04-29 20:00:00,748,2,0,0,20,4,2,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT100723,2026-07-26 20:53:00,1197,3,0,0,20,7,6,Mumbai,Maharashtra,direct,Shadowfax,0
+KT100187,2026-09-12 08:48:00,699,1,0,0,8,9,5,Bengaluru,Karnataka,instagram_organic,Delhivery,1
+KT100731,2026-09-23 03:46:00,1347,3,0,0,3,9,2,Bareilly,Uttar Pradesh,whatsapp_broadcast,Ecom Express,1
+KT100024,2026-05-13 09:38:00,1098,2,0,0,9,5,2,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT100940,2026-04-14 18:17:00,1048,2,0,0,18,4,1,Gorakhpur,Uttar Pradesh,influencer,BlueDart,1
+KT101353,2026-06-09 05:47:00,1247,3,0,0,5,6,1,Chennai,Tamil Nadu,whatsapp_broadcast,Xpressbees,0
+KT100936,2026-06-30 07:55:00,1397,3,0,0,7,6,1,Mumbai,Maharashtra,influencer,Delhivery,0
+KT101257,2026-04-01 20:06:00,1546,4,0,0,20,4,2,Lucknow,Uttar Pradesh,influencer,Delhivery,0
+KT101443,2026-09-21 08:57:00,948,2,2,0,8,9,0,Chennai,Tamil Nadu,direct,Ecom Express,0
+KT100948,2026-06-11 03:28:00,2999,1,0,0,3,6,3,Kota,Rajasthan,whatsapp_broadcast,Shadowfax,0
+KT151111,2026-08-30 22:58:00,997,3,0,0,22,8,6,Delhi,Delhi,whatsapp_broadcast,Ecom Express,0
+KT100830,2026-05-23 07:20:00,599,1,0,0,7,5,5,Gorakhpur,Uttar Pradesh,direct,Shadowfax,1
+KT101595,2026-08-25 21:06:00,449,1,0,0,21,8,1,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT101302,2026-06-18 19:15:00,699,1,0,0,19,6,3,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT102002,2026-09-06 10:05:00,299,1,0,0,10,9,6,Madhubani,Bihar,meta_ads,Shadowfax,1
+KT101124,2026-07-04 18:21:00,2096,4,0,0,18,7,5,Delhi,Delhi,meta_ads,Delhivery,1
+KT100721,2026-06-22 18:38:00,499,1,5,1,18,6,0,Mumbai,Maharashtra,instagram_organic,Delhivery,1
+KT100203,2026-08-12 20:21:00,1897,3,0,0,20,8,2,Patna,Bihar,meta_ads,Delhivery,1
+KT101103,2026-06-30 04:47:00,699,1,0,0,4,6,1,Kolkata,West Bengal,direct,Ecom Express,0
+KT101290,2026-09-12 18:27:00,449,1,3,0,18,9,5,Chennai,Tamil Nadu,whatsapp_broadcast,BlueDart,0
+KT101222,2026-06-30 14:26:00,1597,3,0,0,14,6,1,Hyderabad,Telangana,direct,Ecom Express,1
+KT101734,2026-05-28 18:34:00,349,1,0,0,18,5,3,Delhi,Delhi,direct,Ecom Express,0
+KT100496,2026-08-01 00:06:00,1646,4,2,0,0,8,5,Darbhanga,Bihar,instagram_organic,BlueDart,1
+KT101522,2026-09-30 08:12:00,499,1,0,0,8,9,2,Darbhanga,Bihar,direct,Shadowfax,0
+KT100531,2026-09-09 16:12:00,1148,2,0,0,16,9,2,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101054,2026-06-13 15:08:00,998,2,0,0,15,6,5,Bareilly,Uttar Pradesh,meta_ads,Delhivery,0
+KT100090,2026-04-22 07:35:00,748,2,0,0,7,4,2,Bengaluru,Karnataka,direct,Shadowfax,0
+KT100849,2026-07-04 19:52:00,798,2,3,0,19,7,5,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT101279,2026-04-12 11:07:00,1148,2,0,0,11,4,6,Delhi,Delhi,google_ads,Xpressbees,1
+KT100270,2026-04-12 14:01:00,748,2,4,0,14,4,6,Mumbai,Maharashtra,google_ads,Xpressbees,0
+KT100015,2026-08-22 19:20:00,349,1,0,0,19,8,5,Jaipur,Rajasthan,direct,Xpressbees,0
+KT100840,2026-04-07 22:51:00,399,1,0,0,22,4,1,Kolkata,West Bengal,direct,Ecom Express,0
+KT101122,2026-07-07 20:12:00,898,2,0,0,20,7,1,Delhi,Delhi,google_ads,Delhivery,0
+KT101086,2026-05-21 02:18:00,2446,4,0,0,2,5,3,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT101102,2026-09-02 03:31:00,599,1,0,0,3,9,2,Mumbai,Maharashtra,direct,Shadowfax,0
+KT100479,2026-09-13 22:04:00,748,2,0,0,22,9,6,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101295,2026-06-03 13:54:00,1247,3,0,0,13,6,2,Patna,Bihar,meta_ads,Xpressbees,1
+KT100596,2026-05-17 11:51:00,748,2,0,0,11,5,6,Delhi,Delhi,google_ads,BlueDart,0
+KT100597,2026-09-24 18:07:00,1996,4,2,2,18,9,3,Indore,Madhya Pradesh,influencer,Xpressbees,1
+KT100106,2026-07-24 01:16:00,1697,3,0,0,1,7,4,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100114,2026-05-27 11:14:00,349,1,0,0,11,5,2,Jaipur,Rajasthan,meta_ads,Ecom Express,0
+KT101253,2026-08-16 10:28:00,1796,4,0,0,10,8,6,Mumbai,Maharashtra,influencer,Xpressbees,0
+KT101820,2026-08-27 22:24:00,399,1,4,0,22,8,3,Delhi,Delhi,meta_ads,Delhivery,1
+KT101567,2026-06-18 09:25:00,449,1,0,0,9,6,3,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT100958,2026-05-09 06:50:00,2499,1,0,0,6,5,5,Pune,Maharashtra,meta_ads,Shadowfax,1
+KT101417,2026-07-25 00:49:00,599,1,0,0,0,7,5,Gorakhpur,Uttar Pradesh,meta_ads,BlueDart,1
+KT101313,2026-08-17 00:10:00,1197,3,5,0,0,8,0,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT101227,2026-07-08 03:53:00,898,2,0,0,3,7,2,Indore,Madhya Pradesh,meta_ads,Xpressbees,0
+KT101711,2026-04-23 08:41:00,848,2,0,0,8,4,3,Lucknow,Uttar Pradesh,influencer,Ecom Express,0
+KT101171,2026-09-15 00:15:00,699,1,0,0,0,9,1,Nagaon,Assam,influencer,Delhivery,1
+KT100035,2026-04-01 08:54:00,499,1,0,0,8,4,2,Darbhanga,Bihar,instagram_organic,Shadowfax,0
+KT101546,2026-08-01 12:21:00,449,1,0,0,12,8,5,Pune,Maharashtra,influencer,Ecom Express,0
+KT100226,2026-09-21 06:26:00,1647,3,1,0,6,9,0,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT100635,2026-07-22 04:50:00,648,2,0,0,4,7,2,Gorakhpur,Uttar Pradesh,meta_ads,BlueDart,1
+KT100381,2026-06-11 04:36:00,349,1,0,0,4,6,3,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT100173,2026-04-10 02:49:00,998,2,0,0,2,4,4,Hyderabad,Telangana,whatsapp_broadcast,Shadowfax,1
+KT100540,2026-05-21 04:22:00,1198,2,0,0,4,5,3,Kolkata,West Bengal,whatsapp_broadcast,Delhivery,0
+KT100076,2026-09-30 02:05:00,449,1,0,0,2,9,2,Patna,Bihar,google_ads,Xpressbees,1
+KT100190,2026-05-22 19:25:00,748,2,1,0,19,5,4,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101768,2026-05-11 12:51:00,1347,3,0,0,12,5,0,Delhi,Delhi,direct,Delhivery,0
+KT100712,2026-05-10 02:32:00,1846,4,0,0,2,5,6,Gorakhpur,Uttar Pradesh,instagram_organic,BlueDart,1
+KT101874,2026-08-18 21:30:00,499,1,1,0,21,8,1,Darbhanga,Bihar,meta_ads,Delhivery,0
+KT101555,2026-05-26 10:19:00,699,1,0,0,10,5,1,Patna,Bihar,google_ads,Xpressbees,0
+KT101733,2026-04-19 02:11:00,698,2,2,0,2,4,6,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100132,2026-06-28 06:26:00,948,2,0,0,6,6,6,Darbhanga,Bihar,meta_ads,Delhivery,1
+KT101494,2026-09-03 02:03:00,399,1,0,0,2,9,3,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT101481,2026-06-17 09:44:00,449,1,0,0,9,6,2,Pune,Maharashtra,whatsapp_broadcast,Delhivery,1
+KT101601,2026-07-28 22:09:00,997,3,0,0,22,7,1,Kolkata,West Bengal,influencer,Delhivery,0
+KT100889,2026-06-17 03:50:00,349,1,0,0,3,6,2,Bengaluru,Karnataka,meta_ads,Ecom Express,1
+KT100862,2026-04-27 13:38:00,399,1,0,0,13,4,0,Indore,Madhya Pradesh,meta_ads,Delhivery,1
+KT101121,2026-05-06 11:17:00,1098,2,3,1,11,5,2,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT100201,2026-09-06 01:23:00,399,1,0,0,1,9,6,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT100451,2026-05-11 10:40:00,599,1,0,0,10,5,0,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT101659,2026-05-26 03:11:00,299,1,0,0,3,5,1,Jaipur,Rajasthan,instagram_organic,Delhivery,0
+KT101899,2026-06-19 20:55:00,449,1,0,0,20,6,4,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100738,2026-08-18 01:41:00,399,1,0,0,1,8,1,Bareilly,Uttar Pradesh,meta_ads,Xpressbees,1
+KT100008,2026-04-18 19:04:00,1297,3,0,0,19,4,5,Guwahati,Assam,google_ads,Shadowfax,1
+KT100044,2026-09-17 12:08:00,2396,4,0,0,12,9,3,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100423,2026-08-08 22:41:00,2199,4,0,0,22,8,5,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT100131,2026-08-28 01:44:00,1297,3,0,0,1,8,4,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT100585,2026-04-01 11:52:00,1697,3,0,0,11,4,2,Sagar,Madhya Pradesh,whatsapp_broadcast,Delhivery,1
+KT101078,2026-06-05 16:53:00,1497,3,0,0,16,6,4,Mumbai,Maharashtra,instagram_organic,BlueDart,0
+KT101703,2026-09-13 03:33:00,1347,3,0,0,3,9,6,Bengaluru,Karnataka,instagram_organic,Shadowfax,0
+KT101030,2026-05-01 20:09:00,1797,3,0,0,20,5,4,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,1
+KT100116,2026-06-22 16:12:00,1397,3,2,0,16,6,0,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101111,2026-08-30 22:54:00,997,3,0,0,22,8,6,Delhi,Delhi,whatsapp_broadcast,Ecom Express,0
+KT100567,2026-08-30 08:50:00,998,2,4,0,8,8,6,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100653,2026-05-16 05:54:00,1697,3,1,0,5,5,5,Lucknow,Uttar Pradesh,google_ads,Xpressbees,0
+KT100214,2026-06-09 20:25:00,699,1,0,0,20,6,1,Chennai,Tamil Nadu,whatsapp_broadcast,Ecom Express,0
+KT100973,2026-07-26 20:28:00,798,2,0,0,20,7,6,Delhi,Delhi,meta_ads,Shadowfax,0
+KT101571,2026-07-21 20:49:00,599,1,0,0,20,7,1,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT100154,2026-07-30 05:12:00,1048,2,0,0,5,7,3,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT101309,2026-06-30 08:59:00,449,1,3,1,8,6,1,Delhi,Delhi,direct,Delhivery,0
+KT100737,2026-07-30 04:02:00,1497,3,0,0,4,7,3,Guwahati,Assam,direct,Delhivery,0
+KT100238,2026-09-16 14:08:00,299,1,0,0,14,9,2,Sagar,Madhya Pradesh,instagram_organic,Shadowfax,1
+KT101168,2026-07-31 06:13:00,449,1,0,0,6,7,4,Patna,Bihar,meta_ads,BlueDart,1
+KT100578,2026-05-29 23:48:00,399,1,0,0,23,5,4,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT100476,2026-08-20 11:53:00,748,2,5,0,11,8,3,Jaipur,Rajasthan,direct,Delhivery,0
+KT101069,2026-09-17 00:24:00,399,1,0,0,0,9,3,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT101812,2026-08-21 12:45:00,698,2,0,0,12,8,4,Patna,Bihar,meta_ads,Shadowfax,0
+KT100682,2026-09-18 00:04:00,1198,2,0,0,0,9,4,Kolkata,West Bengal,meta_ads,BlueDart,0
+KT100899,2026-08-14 19:27:00,1048,2,1,0,19,8,4,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT101806,2026-05-30 11:12:00,449,1,3,0,11,5,5,Hyderabad,Telangana,meta_ads,BlueDart,0
+KT101563,2026-08-18 01:12:00,698,2,0,0,1,8,1,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101187,2026-06-09 15:51:00,1647,3,4,0,15,6,1,Jaipur,Rajasthan,instagram_organic,Xpressbees,0
+KT100593,2026-06-15 06:56:00,1098,2,0,0,6,6,0,Pune,Maharashtra,instagram_organic,Shadowfax,0
+KT100428,2026-09-03 01:35:00,1596,4,1,0,1,9,3,Patna,Bihar,meta_ads,Xpressbees,0
+KT101911,2026-07-09 06:06:00,449,1,2,0,6,7,3,Bengaluru,Karnataka,whatsapp_broadcast,Xpressbees,0
+KT101509,2026-06-19 17:23:00,947,3,2,1,17,6,4,Darbhanga,Bihar,meta_ads,Delhivery,0
+KT101470,2026-04-01 07:07:00,699,1,0,0,7,4,2,Delhi,Delhi,google_ads,Xpressbees,0
+KT100551,2026-05-25 15:45:00,948,2,0,0,15,5,0,Lucknow,Uttar Pradesh,influencer,Xpressbees,1
+KT100204,2026-08-26 04:28:00,1198,2,0,0,4,8,2,Kota,Rajasthan,whatsapp_broadcast,Delhivery,1
+KT101459,2026-08-14 04:24:00,798,2,0,0,4,8,4,Sagar,Madhya Pradesh,instagram_organic,Xpressbees,1
+KT101208,2026-07-20 04:51:00,1247,3,0,0,4,7,0,Bengaluru,Karnataka,influencer,Ecom Express,0
+KT100194,2026-04-25 14:39:00,1546,4,1,0,14,4,5,Darbhanga,Bihar,meta_ads,Ecom Express,1
+KT101554,2026-09-25 23:47:00,399,1,0,0,23,9,4,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101673,2026-09-23 17:16:00,1198,2,1,1,17,9,2,Lucknow,Uttar Pradesh,meta_ads,BlueDart,0
+KT101430,2026-04-02 12:47:00,399,1,4,1,12,4,3,Chennai,Tamil Nadu,direct,Xpressbees,0
+KT100495,2026-05-27 14:15:00,1247,3,0,0,14,5,2,Delhi,Delhi,meta_ads,Xpressbees,1
+KT100715,2026-05-05 13:25:00,299,1,1,2,13,5,1,Hyderabad,Telangana,meta_ads,Xpressbees,1
+KT100752,2026-06-07 20:42:00,349,1,0,0,20,6,6,Kolkata,West Bengal,meta_ads,Xpressbees,0
+KT101155,2026-08-16 08:39:00,1297,3,0,0,8,8,6,Pune,Maharashtra,direct,Delhivery,0
+KT101393,2026-06-15 20:49:00,599,1,0,0,20,6,0,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101713,2026-04-01 02:10:00,699,1,2,0,2,4,2,Mumbai,Maharashtra,instagram_organic,Xpressbees,0
+KT101943,2026-09-07 10:13:00,699,1,0,0,10,9,0,Lucknow,Uttar Pradesh,meta_ads,BlueDart,0
+KT101562,2026-08-10 20:49:00,399,1,0,0,20,8,0,Mumbai,Maharashtra,influencer,Shadowfax,0
+KT101421,2026-07-17 20:12:00,499,1,0,0,20,7,4,Mumbai,Maharashtra,google_ads,Xpressbees,1
+KT101235,2026-09-19 12:49:00,599,1,5,1,12,9,5,Pune,Maharashtra,instagram_organic,Shadowfax,0
+KT101948,2026-06-15 17:59:00,399,1,0,0,17,6,0,Lucknow,Uttar Pradesh,direct,Shadowfax,0
+KT101547,2026-04-04 07:49:00,1997,3,0,0,7,4,5,Patna,Bihar,meta_ads,BlueDart,1
+KT100391,2026-09-10 10:06:00,399,1,3,0,10,9,3,Hyderabad,Telangana,whatsapp_broadcast,Delhivery,0
+KT100378,2026-08-01 12:02:00,1148,2,0,0,12,8,5,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100341,2026-08-22 04:05:00,399,1,0,0,4,8,5,Pune,Maharashtra,google_ads,Delhivery,1
+KT100118,2026-09-09 00:19:00,599,1,0,0,0,9,2,Lucknow,Uttar Pradesh,influencer,Delhivery,1
+KT100487,2026-09-20 15:07:00,998,2,3,0,15,9,6,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT101431,2026-08-10 20:18:00,299,1,0,0,20,8,0,Jaipur,Rajasthan,meta_ads,Xpressbees,1
+KT101082,2026-06-10 04:37:00,1298,2,0,0,4,6,2,Pune,Maharashtra,instagram_organic,Shadowfax,0
+KT100393,2026-05-31 12:58:00,1297,3,0,0,12,5,6,Lucknow,Uttar Pradesh,whatsapp_broadcast,Ecom Express,0
+KT100492,2026-04-19 09:49:00,1597,3,0,0,9,4,6,Delhi,Delhi,direct,Ecom Express,0
+KT100964,2026-05-18 19:26:00,948,2,0,0,19,5,0,Delhi,Delhi,influencer,Delhivery,0
+KT100705,2026-05-28 03:55:00,948,2,0,0,3,5,3,Hyderabad,Telangana,whatsapp_broadcast,Delhivery,0
+KT100912,2026-04-18 04:56:00,1447,3,0,0,4,4,5,Lucknow,Uttar Pradesh,direct,BlueDart,0
+KT101358,2026-09-15 20:19:00,499,1,0,0,20,9,1,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT101351,2026-04-29 08:02:00,399,1,0,0,8,4,2,Patna,Bihar,instagram_organic,Shadowfax,0
+KT101844,2026-05-13 06:43:00,1098,2,0,0,6,5,2,Kota,Rajasthan,whatsapp_broadcast,Delhivery,0
+KT101403,2026-06-04 20:38:00,2999,3,0,0,20,6,3,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT100144,2026-05-26 18:17:00,1198,2,2,0,18,5,1,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT100263,2026-07-31 08:37:00,449,1,0,0,8,7,4,Bareilly,Uttar Pradesh,direct,Shadowfax,0
+KT101517,2026-05-08 15:43:00,1098,2,1,1,15,5,4,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101037,2026-07-17 18:42:00,1447,3,0,0,18,7,4,Mumbai,Maharashtra,google_ads,Delhivery,0
+KT100612,2026-07-11 09:54:00,399,1,0,0,9,7,5,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT100135,2026-07-03 16:00:00,449,1,0,0,16,7,4,Mumbai,Maharashtra,whatsapp_broadcast,Ecom Express,1
+KT101944,2026-04-09 22:55:00,299,1,0,0,22,4,3,Sagar,Madhya Pradesh,instagram_organic,Delhivery,0
+KT100511,2026-07-17 03:05:00,399,1,0,0,3,7,4,Jaipur,Rajasthan,google_ads,BlueDart,0
+KT100444,2026-07-30 12:24:00,399,1,4,0,12,7,3,Pune,Maharashtra,whatsapp_broadcast,BlueDart,0
+KT100870,2026-04-24 18:16:00,499,1,5,1,18,4,4,Mumbai,Maharashtra,instagram_organic,Shadowfax,1
+KT101273,2026-04-14 22:59:00,1148,2,1,0,22,4,1,Delhi,Delhi,influencer,Xpressbees,0
+KT100913,2026-09-23 10:17:00,748,2,0,0,10,9,2,Delhi,Delhi,meta_ads,Delhivery,0
+KT100117,2026-05-19 05:58:00,449,1,0,0,5,5,1,Hyderabad,Telangana,instagram_organic,Shadowfax,1
+KT100419,2026-06-05 03:40:00,1298,2,0,0,3,6,4,Mumbai,Maharashtra,influencer,Delhivery,1
+KT100816,2026-06-14 05:27:00,349,1,0,0,5,6,6,Pune,Maharashtra,instagram_organic,Xpressbees,0
+KT101950,2026-08-19 15:32:00,998,2,0,0,15,8,2,Bengaluru,Karnataka,whatsapp_broadcast,Shadowfax,1
+KT101181,2026-05-25 05:18:00,1746,4,0,0,5,5,0,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT101115,2026-06-14 20:06:00,1697,3,0,0,20,6,6,Delhi,Delhi,whatsapp_broadcast,Xpressbees,1
+KT101287,2026-09-21 11:20:00,599,1,2,1,11,9,0,Lucknow,Uttar Pradesh,influencer,Ecom Express,0
+KT100586,2026-08-22 06:27:00,349,1,0,0,6,8,5,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT101223,2026-08-17 17:54:00,2999,2,0,0,17,8,0,Darbhanga,Bihar,meta_ads,Xpressbees,1
+KT101455,2026-09-24 12:55:00,499,1,0,0,12,9,3,Delhi,Delhi,influencer,Shadowfax,1
+KT101699,2026-04-20 20:37:00,1097,3,4,1,20,4,0,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT101762,2026-05-06 18:50:00,299,1,0,0,18,5,2,Pune,Maharashtra,meta_ads,BlueDart,0
+KT101360,2026-05-27 11:20:00,299,1,2,0,11,5,2,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100942,2026-05-04 00:55:00,598,2,0,0,0,5,0,Delhi,Delhi,direct,Xpressbees,0
+KT101507,2026-09-27 01:09:00,2999,3,3,0,1,9,6,Delhi,Delhi,google_ads,Delhivery,0
+KT100092,2026-08-29 20:48:00,2396,4,0,0,20,8,5,Bengaluru,Karnataka,meta_ads,Ecom Express,1
+KT100595,2026-06-15 22:28:00,699,1,0,0,22,6,0,Delhi,Delhi,meta_ads,Delhivery,1
+KT100610,2026-07-27 05:56:00,1098,2,0,0,5,7,0,Bengaluru,Karnataka,instagram_organic,Xpressbees,0
+KT101813,2026-05-03 08:24:00,699,1,0,0,8,5,6,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT101729,2026-09-12 02:20:00,349,1,0,0,2,9,5,Jaipur,Rajasthan,direct,BlueDart,1
+KT101896,2026-08-29 04:23:00,948,2,0,0,4,8,5,Delhi,Delhi,meta_ads,Shadowfax,0
+KT101272,2026-04-05 04:47:00,1048,2,0,0,4,4,6,Hyderabad,Telangana,instagram_organic,Shadowfax,0
+KT101900,2026-08-27 11:52:00,1596,4,0,0,11,8,3,Delhi,Delhi,influencer,Xpressbees,0
+KT100016,2026-07-14 10:34:00,599,1,0,0,10,7,1,Mumbai,Maharashtra,direct,Xpressbees,0
+KT101498,2026-08-02 21:02:00,1048,2,1,0,21,8,6,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT101344,2026-04-13 00:02:00,449,1,0,0,0,4,0,Mumbai,Maharashtra,google_ads,Shadowfax,0
+KT100811,2026-04-06 05:45:00,1097,3,0,0,5,4,0,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101154,2026-09-16 16:55:00,2346,4,0,0,16,9,2,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT100421,2026-09-13 14:54:00,399,1,0,0,14,9,6,Mumbai,Maharashtra,instagram_organic,Ecom Express,0
+KT101767,2026-04-06 21:26:00,699,1,0,0,21,4,0,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT100664,2026-04-26 16:45:00,349,1,3,0,16,4,6,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100259,2026-06-25 19:19:00,499,1,0,0,19,6,3,Chennai,Tamil Nadu,instagram_organic,Shadowfax,0
+KT100338,2026-04-25 03:19:00,1596,4,0,0,3,4,5,Delhi,Delhi,direct,Shadowfax,0
+KT100957,2026-05-12 07:36:00,1547,3,0,0,7,5,1,Hyderabad,Telangana,direct,Xpressbees,1
+KT101501,2026-06-27 11:16:00,449,1,0,0,11,6,5,Mumbai,Maharashtra,influencer,Xpressbees,0
+KT100197,2026-04-14 20:23:00,349,1,0,0,20,4,1,Sagar,Madhya Pradesh,google_ads,Shadowfax,1
+KT101209,2026-09-18 01:10:00,1298,2,3,0,1,9,4,Darbhanga,Bihar,instagram_organic,Ecom Express,1
+KT101623,2026-05-07 05:56:00,1697,3,5,0,5,5,3,Delhi,Delhi,meta_ads,Xpressbees,0
+KT101901,2026-04-11 22:25:00,1148,2,2,0,22,4,5,Nagaon,Assam,instagram_organic,Shadowfax,0
+KT100853,2026-06-20 16:25:00,699,1,0,0,16,6,5,Delhi,Delhi,meta_ads,Shadowfax,1
+KT101558,2026-09-08 12:32:00,1098,2,1,0,12,9,1,Pune,Maharashtra,google_ads,Shadowfax,0
+KT100542,2026-09-20 16:52:00,399,1,0,0,16,9,6,Mumbai,Maharashtra,google_ads,Ecom Express,0
+KT100537,2026-07-11 14:48:00,1497,3,0,0,14,7,5,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100353,2026-04-03 07:26:00,449,1,0,0,7,4,4,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT101311,2026-08-27 20:54:00,1397,3,0,0,20,8,3,Gorakhpur,Uttar Pradesh,whatsapp_broadcast,Xpressbees,1
+KT101851,2026-04-11 07:34:00,1098,2,5,0,7,4,5,Guwahati,Assam,meta_ads,Shadowfax,1
+KT101495,2026-09-01 21:48:00,499,1,1,0,21,9,1,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT101364,2026-09-01 06:51:00,1198,2,0,0,6,9,1,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT101615,2026-07-01 01:54:00,648,2,0,0,1,7,2,Pune,Maharashtra,google_ads,Xpressbees,0
+KT101838,2026-04-23 00:07:00,1546,4,0,0,0,4,3,Delhi,Delhi,influencer,Ecom Express,0
+KT100650,2026-04-27 07:00:00,1297,3,0,0,7,4,0,Hyderabad,Telangana,direct,Delhivery,0
+KT100286,2026-06-15 07:31:00,699,1,0,0,7,6,0,Bengaluru,Karnataka,google_ads,Xpressbees,1
+KT151852,2026-06-07 21:13:00,1298,2,0,0,21,6,6,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101496,2026-09-08 05:32:00,299,1,0,0,5,9,1,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT101880,2026-06-30 05:12:00,998,2,0,0,5,6,1,Nagaon,Assam,google_ads,Xpressbees,1
+KT101087,2026-04-02 09:51:00,898,2,0,0,9,4,3,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT100920,2026-07-13 14:29:00,1298,2,0,0,14,7,0,Indore,Madhya Pradesh,influencer,BlueDart,0
+KT100013,2026-06-24 19:20:00,499,1,0,0,19,6,2,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT101304,2026-04-19 15:52:00,698,2,5,2,15,4,6,Chennai,Tamil Nadu,direct,Delhivery,1
+KT100642,2026-06-12 12:47:00,299,1,0,0,12,6,4,Kolkata,West Bengal,whatsapp_broadcast,Delhivery,1
+KT100570,2026-08-13 14:38:00,399,1,0,0,14,8,3,Kota,Rajasthan,google_ads,Delhivery,1
+KT100761,2026-05-07 13:05:00,299,1,0,0,13,5,3,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT100535,2026-08-17 07:56:00,898,2,2,0,7,8,0,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101255,2026-07-18 09:49:00,1547,3,5,0,9,7,5,Hyderabad,Telangana,meta_ads,Ecom Express,1
+KT101215,2026-07-14 23:12:00,449,1,2,0,23,7,1,Indore,Madhya Pradesh,google_ads,Delhivery,0
+KT100490,2026-05-05 09:53:00,449,1,0,0,9,5,1,Delhi,Delhi,instagram_organic,Delhivery,0
+KT101252,2026-04-14 16:55:00,349,1,0,0,16,4,1,Chennai,Tamil Nadu,google_ads,Delhivery,1
+KT100060,2026-09-22 20:51:00,1297,3,0,0,20,9,1,Hyderabad,Telangana,whatsapp_broadcast,Xpressbees,0
+KT100894,2026-04-26 23:55:00,699,1,1,2,23,4,6,Darbhanga,Bihar,influencer,Xpressbees,1
+KT100284,2026-07-21 22:01:00,848,2,4,1,22,7,1,Darbhanga,Bihar,meta_ads,Xpressbees,1
+KT101408,2026-04-05 16:42:00,499,1,0,0,16,4,6,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT101306,2026-04-23 10:49:00,1148,2,0,0,10,4,3,Jaipur,Rajasthan,instagram_organic,Xpressbees,0
+KT100809,2026-09-01 04:53:00,998,2,1,0,4,9,1,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT100351,2026-09-15 00:02:00,399,1,0,0,0,9,1,Kota,Rajasthan,meta_ads,Delhivery,0
+KT101907,2026-05-21 13:37:00,1048,2,0,0,13,5,3,Chennai,Tamil Nadu,instagram_organic,Ecom Express,0
+KT101837,2026-07-22 17:21:00,399,1,0,0,17,7,2,Hyderabad,Telangana,google_ads,Delhivery,0
+KT101474,2026-08-15 08:30:00,499,1,0,0,8,8,5,Patna,Bihar,meta_ads,Xpressbees,0
+KT101928,2026-07-26 21:07:00,399,1,0,0,21,7,6,Hyderabad,Telangana,influencer,Ecom Express,1
+KT101405,2026-09-15 11:21:00,349,1,0,0,11,9,1,Delhi,Delhi,instagram_organic,Ecom Express,0
+KT100824,2026-07-18 10:28:00,499,1,0,0,10,7,5,Kolkata,West Bengal,meta_ads,Ecom Express,1
+KT101920,2026-06-01 09:53:00,1247,3,0,0,9,6,0,Pune,Maharashtra,influencer,Ecom Express,1
+KT100041,2026-06-25 05:04:00,1197,3,0,0,5,6,3,Bengaluru,Karnataka,whatsapp_broadcast,Xpressbees,0
+KT100484,2026-05-08 20:59:00,1147,3,1,0,20,5,4,Patna,Bihar,meta_ads,Delhivery,1
+KT101180,2026-05-18 01:53:00,898,2,3,0,1,5,0,Delhi,Delhi,meta_ads,BlueDart,0
+KT101378,2026-04-18 18:14:00,848,2,0,0,18,4,5,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100095,2026-07-28 11:37:00,1846,4,0,0,11,7,1,Kolkata,West Bengal,influencer,Shadowfax,0
+KT100643,2026-08-31 19:17:00,299,1,0,0,19,8,0,Kolkata,West Bengal,meta_ads,Delhivery,1
+KT100753,2026-09-22 04:13:00,1597,3,0,0,4,9,1,Pune,Maharashtra,meta_ads,Delhivery,0
+KT100694,2026-08-29 20:24:00,349,1,0,0,20,8,5,Kolkata,West Bengal,meta_ads,Delhivery,1
+KT101600,2026-07-21 11:55:00,499,1,5,1,11,7,1,Delhi,Delhi,direct,Delhivery,0
+KT100172,2026-09-16 15:29:00,499,1,0,0,15,9,2,Delhi,Delhi,meta_ads,BlueDart,0
+KT101772,2026-07-29 06:07:00,1397,3,0,0,6,7,2,Mumbai,Maharashtra,direct,Ecom Express,0
+KT101158,2026-08-02 02:23:00,1497,3,0,0,2,8,6,Pune,Maharashtra,instagram_organic,Shadowfax,0
+KT101281,2026-04-24 14:07:00,748,2,0,0,14,4,4,Darbhanga,Bihar,whatsapp_broadcast,BlueDart,0
+KT102000,2026-04-07 23:17:00,1796,4,0,0,23,4,1,Madhubani,Bihar,meta_ads,Xpressbees,1
+KT100904,2026-09-12 10:42:00,699,1,0,0,10,9,5,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100435,2026-04-11 21:59:00,748,2,0,0,21,4,5,Kolkata,West Bengal,instagram_organic,Xpressbees,0
+KT101942,2026-07-30 02:03:00,1098,2,0,0,2,7,3,Patna,Bihar,influencer,Delhivery,0
+KT100493,2026-06-23 23:45:00,2999,1,0,0,23,6,1,Pune,Maharashtra,google_ads,Delhivery,0
+KT101653,2026-09-27 19:35:00,1797,3,2,1,19,9,6,Bengaluru,Karnataka,direct,Ecom Express,1
+KT101924,2026-07-21 05:04:00,648,2,0,0,5,7,1,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT101689,2026-07-30 15:12:00,1098,2,0,0,15,7,3,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT101503,2026-04-21 16:00:00,499,1,0,0,16,4,1,Lucknow,Uttar Pradesh,instagram_organic,Ecom Express,0
+KT101655,2026-04-04 21:24:00,349,1,0,0,21,4,5,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101342,2026-06-22 00:58:00,299,1,0,0,0,6,0,Kota,Rajasthan,influencer,BlueDart,0
+KT101064,2026-08-19 04:07:00,948,2,0,0,4,8,2,Gorakhpur,Uttar Pradesh,direct,Shadowfax,0
+KT101254,2026-07-04 06:29:00,848,2,0,0,6,7,5,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100663,2026-09-16 10:47:00,599,1,0,0,10,9,2,Kolkata,West Bengal,meta_ads,Xpressbees,1
+KT101113,2026-07-11 01:41:00,2096,4,3,1,1,7,5,Pune,Maharashtra,meta_ads,Delhivery,1
+KT100308,2026-04-29 15:10:00,1298,2,0,0,15,4,2,Jaipur,Rajasthan,meta_ads,Ecom Express,0
+KT100681,2026-04-22 17:27:00,798,2,0,0,17,4,2,Bengaluru,Karnataka,instagram_organic,Delhivery,1
+KT100657,2026-05-23 01:21:00,798,2,5,0,1,5,5,Gorakhpur,Uttar Pradesh,meta_ads,Ecom Express,0
+KT101038,2026-08-21 06:40:00,698,2,0,0,6,8,4,Chennai,Tamil Nadu,direct,Ecom Express,0
+KT151434,2026-05-18 17:02:00,1398,2,0,0,17,5,0,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT100447,2026-05-19 22:07:00,599,1,0,0,22,5,1,Chennai,Tamil Nadu,direct,Delhivery,0
+KT100566,2026-07-22 00:34:00,299,1,1,0,0,7,2,Patna,Bihar,meta_ads,BlueDart,0
+KT100433,2026-09-19 08:56:00,598,2,0,0,8,9,5,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT100900,2026-08-17 23:13:00,1397,3,0,0,23,8,0,Chennai,Tamil Nadu,direct,Shadowfax,0
+KT100218,2026-04-13 09:36:00,1198,2,0,0,9,4,0,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT101648,2026-06-04 09:50:00,2096,4,0,0,9,6,3,Patna,Bihar,influencer,Delhivery,1
+KT100192,2026-05-22 05:35:00,599,1,2,0,5,5,4,Lucknow,Uttar Pradesh,google_ads,Shadowfax,1
+KT101773,2026-06-05 13:39:00,1697,3,0,0,13,6,4,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100404,2026-07-14 11:41:00,1298,2,0,0,11,7,1,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100703,2026-09-03 03:31:00,648,2,1,1,3,9,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100573,2026-05-02 19:08:00,1696,4,0,0,19,5,5,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,1
+KT101914,2026-06-22 17:41:00,699,1,1,0,17,6,0,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT100872,2026-05-23 10:52:00,698,2,0,0,10,5,5,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT100191,2026-07-09 08:09:00,1198,2,0,0,8,7,3,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT101715,2026-08-25 20:36:00,699,1,0,0,20,8,1,Chennai,Tamil Nadu,google_ads,Delhivery,1
+KT101321,2026-07-29 23:16:00,599,1,1,0,23,7,2,Patna,Bihar,direct,BlueDart,0
+KT100029,2026-07-07 10:40:00,349,1,0,0,10,7,1,Gorakhpur,Uttar Pradesh,meta_ads,Delhivery,1
+KT101541,2026-07-04 13:23:00,399,1,0,0,13,7,5,Bengaluru,Karnataka,direct,BlueDart,0
+KT100105,2026-08-17 08:42:00,299,1,0,0,8,8,0,Lucknow,Uttar Pradesh,direct,Delhivery,0
+KT100934,2026-08-24 09:00:00,1446,4,0,0,9,8,0,Lucknow,Uttar Pradesh,meta_ads,Ecom Express,1
+KT100774,2026-06-08 11:27:00,399,1,0,0,11,6,0,Indore,Madhya Pradesh,whatsapp_broadcast,Shadowfax,0
+KT101062,2026-07-03 23:45:00,1198,2,0,0,23,7,4,Kolkata,West Bengal,google_ads,Delhivery,1
+KT100230,2026-06-22 04:01:00,1697,3,4,0,4,6,0,Chennai,Tamil Nadu,meta_ads,Xpressbees,0
+KT101119,2026-06-04 22:00:00,699,1,0,0,22,6,3,Delhi,Delhi,google_ads,Xpressbees,0
+KT101263,2026-04-09 12:41:00,1347,3,3,0,12,4,3,Guwahati,Assam,whatsapp_broadcast,Ecom Express,0
+KT100634,2026-08-27 23:51:00,399,1,0,0,23,8,3,Pune,Maharashtra,influencer,Xpressbees,0
+KT101184,2026-05-14 13:28:00,299,1,2,0,13,5,3,Darbhanga,Bihar,instagram_organic,Ecom Express,1
+KT101816,2026-07-28 20:28:00,1547,3,3,0,20,7,1,Delhi,Delhi,meta_ads,Xpressbees,0
+KT100582,2026-09-24 19:03:00,349,1,0,0,19,9,3,Indore,Madhya Pradesh,meta_ads,Delhivery,1
+KT101576,2026-07-27 19:50:00,399,1,0,0,19,7,0,Mumbai,Maharashtra,influencer,Delhivery,0
+KT100282,2026-06-01 11:42:00,299,1,0,0,11,6,0,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT101870,2026-07-02 06:23:00,349,1,5,2,6,7,3,Bengaluru,Karnataka,meta_ads,Ecom Express,1
+KT100054,2026-09-29 07:22:00,499,1,0,0,7,9,1,Delhi,Delhi,whatsapp_broadcast,Ecom Express,0
+KT100502,2026-08-24 22:55:00,848,2,4,0,22,8,0,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT100317,2026-07-29 20:34:00,399,1,0,0,20,7,2,Hyderabad,Telangana,direct,Delhivery,0
+KT101632,2026-06-21 10:12:00,748,2,0,0,10,6,6,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT101439,2026-09-03 10:38:00,399,1,0,0,10,9,3,Pune,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100468,2026-09-15 05:49:00,798,2,0,0,5,9,1,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT101951,2026-08-07 02:21:00,499,1,5,0,2,8,4,Delhi,Delhi,meta_ads,BlueDart,0
+KT101805,2026-08-17 21:27:00,748,2,0,0,21,8,0,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100315,2026-06-01 06:39:00,848,2,0,0,6,6,0,Jaipur,Rajasthan,whatsapp_broadcast,Xpressbees,1
+KT100283,2026-05-30 19:31:00,1896,4,0,0,19,5,5,Jaipur,Rajasthan,meta_ads,Ecom Express,0
+KT101676,2026-07-11 12:33:00,1547,3,0,0,12,7,5,Jaipur,Rajasthan,influencer,Shadowfax,1
+KT101419,2026-09-13 15:50:00,299,1,0,0,15,9,6,Guwahati,Assam,direct,Xpressbees,0
+KT101224,2026-04-09 22:33:00,1447,3,0,0,22,4,3,Delhi,Delhi,google_ads,BlueDart,0
+KT101136,2026-05-02 03:59:00,699,1,0,0,3,5,5,Gorakhpur,Uttar Pradesh,google_ads,Xpressbees,1
+KT100624,2026-08-27 20:21:00,1899,2,2,0,20,8,3,Patna,Bihar,meta_ads,Delhivery,0
+KT100982,2026-05-03 07:17:00,2246,4,0,0,7,5,6,Delhi,Delhi,meta_ads,Delhivery,1
+KT100793,2026-08-08 21:05:00,299,1,0,0,21,8,5,Chennai,Tamil Nadu,google_ads,Xpressbees,0
+KT100561,2026-08-14 21:22:00,948,2,0,0,21,8,4,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100405,2026-04-16 03:03:00,648,2,0,0,3,4,3,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT101361,2026-04-17 21:44:00,998,2,0,0,21,4,4,Lucknow,Uttar Pradesh,instagram_organic,Xpressbees,0
+KT100063,2026-05-18 00:47:00,998,2,0,0,0,5,0,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100827,2026-06-11 04:12:00,898,2,0,0,4,6,3,Delhi,Delhi,direct,Delhivery,0
+KT151461,2026-06-02 19:10:00,499,1,0,0,19,6,1,Gorakhpur,Uttar Pradesh,google_ads,Ecom Express,0
+KT100485,2026-08-22 08:03:00,898,2,5,0,8,8,5,Patna,Bihar,meta_ads,Xpressbees,0
+KT100649,2026-08-15 03:24:00,299,1,0,0,3,8,5,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101740,2026-06-26 13:14:00,599,1,0,0,13,6,4,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT101679,2026-06-03 06:04:00,948,2,3,0,6,6,2,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101947,2026-06-10 10:07:00,599,1,1,0,10,6,2,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100833,2026-04-01 09:54:00,499,1,0,0,9,4,2,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT100398,2026-06-18 15:45:00,1597,3,0,0,15,6,3,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT101738,2026-07-02 17:13:00,2097,3,0,0,17,7,3,Bengaluru,Karnataka,influencer,Xpressbees,0
+KT100928,2026-09-28 20:48:00,699,1,3,0,20,9,0,Sagar,Madhya Pradesh,meta_ads,Ecom Express,1
+KT100006,2026-09-20 20:41:00,1197,3,3,1,20,9,6,Kolkata,West Bengal,meta_ads,BlueDart,0
+KT100355,2026-04-22 01:17:00,1897,3,0,0,1,4,2,Guwahati,Assam,meta_ads,Xpressbees,0
+KT100732,2026-06-15 21:59:00,1447,3,0,0,21,6,0,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT100915,2026-08-18 07:49:00,449,1,0,0,7,8,1,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT101836,2026-06-18 22:30:00,399,1,0,0,22,6,3,Jaipur,Rajasthan,whatsapp_broadcast,Delhivery,0
+KT100926,2026-06-17 04:23:00,2146,4,0,0,4,6,2,Hyderabad,Telangana,whatsapp_broadcast,Delhivery,0
+KT100347,2026-07-30 19:42:00,449,1,5,0,19,7,3,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT100206,2026-06-29 09:28:00,449,1,0,0,9,6,0,Bengaluru,Karnataka,whatsapp_broadcast,Xpressbees,0
+KT101135,2026-07-28 01:44:00,399,1,0,0,1,7,1,Delhi,Delhi,meta_ads,Delhivery,1
+KT100768,2026-09-15 15:07:00,299,1,0,0,15,9,1,Delhi,Delhi,whatsapp_broadcast,Shadowfax,0
+KT100558,2026-08-14 20:57:00,449,1,3,2,20,8,4,Lucknow,Uttar Pradesh,whatsapp_broadcast,Shadowfax,0
+KT101890,2026-06-06 18:54:00,349,1,0,0,18,6,5,Delhi,Delhi,instagram_organic,Shadowfax,1
+KT100728,2026-06-06 19:33:00,1198,2,2,0,19,6,5,Delhi,Delhi,direct,Xpressbees,0
+KT101475,2026-05-03 13:05:00,349,1,0,0,13,5,6,Kolkata,West Bengal,meta_ads,BlueDart,0
+KT100334,2026-08-30 16:32:00,599,1,0,0,16,8,6,Delhi,Delhi,meta_ads,Ecom Express,1
+KT101938,2026-09-21 21:43:00,449,1,0,0,21,9,0,Bareilly,Uttar Pradesh,meta_ads,Xpressbees,1
+KT100049,2026-09-12 05:53:00,1097,3,0,0,5,9,5,Bengaluru,Karnataka,direct,Ecom Express,0
+KT101482,2026-07-11 17:26:00,1148,2,0,0,17,7,5,Indore,Madhya Pradesh,influencer,Delhivery,0
+KT101526,2026-09-29 13:11:00,349,1,0,0,13,9,1,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101551,2026-04-20 16:08:00,299,1,5,2,16,4,0,Delhi,Delhi,influencer,Shadowfax,1
+KT101549,2026-06-06 17:48:00,0,1,5,0,17,6,5,Delhi,Delhi,meta_ads,Shadowfax,0
+KT101736,2026-06-14 02:37:00,1098,2,0,0,2,6,6,Chennai,Tamil Nadu,instagram_organic,Ecom Express,1
+KT101630,2026-04-18 19:30:00,399,1,0,0,19,4,5,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT100592,2026-08-21 18:13:00,399,1,0,0,18,8,4,Hyderabad,Telangana,direct,Delhivery,0
+KT100865,2026-09-01 08:22:00,1098,2,0,0,8,9,1,Delhi,Delhi,meta_ads,Xpressbees,0
+KT101939,2026-07-24 18:30:00,898,2,0,0,18,7,4,Sagar,Madhya Pradesh,meta_ads,Delhivery,1
+KT101486,2026-08-28 10:06:00,998,2,0,0,10,8,4,Kolkata,West Bengal,whatsapp_broadcast,Shadowfax,0
+KT101871,2026-09-22 01:07:00,449,1,0,0,1,9,1,Indore,Madhya Pradesh,whatsapp_broadcast,Delhivery,0
+KT101274,2026-06-12 04:08:00,2046,4,0,0,4,6,4,Sagar,Madhya Pradesh,whatsapp_broadcast,Shadowfax,0
+KT101755,2026-08-02 11:26:00,1048,2,0,0,11,8,6,Jaipur,Rajasthan,direct,Ecom Express,0
+KT101275,2026-04-05 23:50:00,699,1,0,0,23,4,6,Bengaluru,Karnataka,whatsapp_broadcast,Xpressbees,0
+KT101832,2026-06-24 22:31:00,299,1,3,0,22,6,2,Kolkata,West Bengal,google_ads,Xpressbees,1
+KT101573,2026-08-05 17:57:00,449,1,0,0,17,8,2,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,1
+KT100436,2026-04-15 03:43:00,699,1,5,0,3,4,2,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT101345,2026-04-21 02:32:00,299,1,1,1,2,4,1,Indore,Madhya Pradesh,meta_ads,Shadowfax,0
+KT101846,2026-07-21 23:42:00,499,1,0,0,23,7,1,Pune,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100946,2026-06-28 13:21:00,1098,2,0,0,13,6,6,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100301,2026-04-04 21:35:00,1497,3,0,0,21,4,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101764,2026-09-23 16:22:00,848,2,5,0,16,9,2,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT101228,2026-08-06 02:33:00,1996,4,2,2,2,8,3,Patna,Bihar,meta_ads,Xpressbees,1
+KT101232,2026-07-29 02:12:00,299,1,0,0,2,7,2,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT100240,2026-04-27 17:02:00,998,2,0,0,17,4,0,Kolkata,West Bengal,influencer,Xpressbees,0
+KT101371,2026-06-26 19:22:00,998,2,0,0,19,6,4,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101240,2026-09-14 22:14:00,848,2,0,0,22,9,0,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100893,2026-04-22 20:32:00,449,1,0,0,20,4,2,Bengaluru,Karnataka,meta_ads,Ecom Express,1
+KT100676,2026-05-17 06:58:00,599,1,0,0,6,5,6,Delhi,Delhi,instagram_organic,Xpressbees,1
+KT100814,2026-08-10 11:26:00,1198,2,1,0,11,8,0,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT100668,2026-08-26 13:36:00,499,1,0,0,13,8,2,Sagar,Madhya Pradesh,whatsapp_broadcast,Delhivery,0
+KT101784,2026-08-18 02:08:00,1347,3,0,0,2,8,1,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT101724,2026-07-25 13:32:00,748,2,0,0,13,7,5,Kolkata,West Bengal,meta_ads,Ecom Express,1
+KT100875,2026-07-14 13:54:00,499,1,0,0,13,7,1,Jaipur,Rajasthan,whatsapp_broadcast,Shadowfax,1
+KT101110,2026-05-23 02:58:00,349,1,2,0,2,5,5,Indore,Madhya Pradesh,instagram_organic,Shadowfax,0
+KT101458,2026-05-31 12:31:00,1247,3,0,0,12,5,6,Bengaluru,Karnataka,instagram_organic,BlueDart,0
+KT101167,2026-05-03 19:17:00,449,1,1,1,19,5,6,Jaipur,Rajasthan,influencer,Shadowfax,0
+KT101505,2026-08-04 09:03:00,2199,1,3,2,9,8,1,Bengaluru,Karnataka,whatsapp_broadcast,Ecom Express,1
+KT100122,2026-07-13 07:05:00,1697,3,0,0,7,7,0,Jaipur,Rajasthan,influencer,Xpressbees,1
+KT101584,2026-07-13 10:48:00,1197,3,0,0,10,7,0,Kolkata,West Bengal,influencer,Ecom Express,0
+KT101723,2026-09-01 22:25:00,1696,4,0,0,22,9,1,Delhi,Delhi,direct,Shadowfax,0
+KT100633,2026-05-21 08:26:00,997,3,0,0,8,5,3,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101026,2026-07-28 18:42:00,1996,4,0,0,18,7,1,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT101599,2026-08-10 06:57:00,798,2,0,0,6,8,0,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101034,2026-09-13 04:17:00,349,1,0,0,4,9,6,Bengaluru,Karnataka,influencer,Xpressbees,1
+KT101479,2026-09-04 17:11:00,1597,3,1,0,17,9,4,Patna,Bihar,google_ads,Shadowfax,0
+KT100546,2026-04-09 16:13:00,349,1,0,0,16,4,3,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT100790,2026-05-21 23:40:00,1148,2,0,0,23,5,3,Hyderabad,Telangana,google_ads,Xpressbees,1
+KT100166,2026-09-30 00:02:00,798,2,3,0,0,9,2,Guwahati,Assam,google_ads,Delhivery,0
+KT100372,2026-06-26 04:02:00,898,2,0,0,4,6,4,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,1
+KT100213,2026-07-14 09:54:00,1048,2,0,0,9,7,1,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT101744,2026-08-28 21:58:00,1098,2,0,0,21,8,4,Nagaon,Assam,influencer,Xpressbees,1
+KT100688,2026-06-09 19:18:00,599,1,0,0,19,6,1,Gorakhpur,Uttar Pradesh,meta_ads,BlueDart,1
+KT100955,2026-04-06 01:17:00,1398,2,0,0,1,4,0,Sagar,Madhya Pradesh,whatsapp_broadcast,Delhivery,0
+KT101088,2026-08-08 17:22:00,349,1,0,0,17,8,5,Darbhanga,Bihar,google_ads,Shadowfax,0
+KT100260,2026-07-02 01:01:00,449,1,2,0,1,7,3,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT100477,2026-05-15 07:17:00,599,1,3,0,7,5,4,Kolkata,West Bengal,direct,Delhivery,0
+KT101585,2026-04-23 15:25:00,898,2,0,0,15,4,3,Sagar,Madhya Pradesh,meta_ads,Ecom Express,0
+KT101214,2026-09-26 13:07:00,948,2,0,0,13,9,5,Bengaluru,Karnataka,whatsapp_broadcast,Xpressbees,0
+KT101280,2026-08-30 14:38:00,1647,3,4,1,14,8,6,Nagaon,Assam,instagram_organic,Shadowfax,0
+KT101671,2026-06-11 01:57:00,349,1,0,0,1,6,3,Bareilly,Uttar Pradesh,google_ads,Xpressbees,0
+KT151241,2026-04-21 01:28:00,1796,4,0,0,1,4,1,Chennai,Tamil Nadu,google_ads,Ecom Express,1
+KT100652,2026-04-08 03:40:00,798,2,0,0,3,4,2,Patna,Bihar,direct,Ecom Express,1
+KT100866,2026-05-19 10:41:00,299,1,0,0,10,5,1,Kolkata,West Bengal,google_ads,Ecom Express,1
+KT100504,2026-04-29 22:00:00,1197,3,0,0,22,4,2,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT101536,2026-04-30 00:15:00,1197,3,0,0,0,4,3,Gorakhpur,Uttar Pradesh,instagram_organic,Xpressbees,0
+KT100760,2026-06-14 02:24:00,1497,3,0,0,2,6,6,Nagaon,Assam,meta_ads,Delhivery,0
+KT151955,2026-07-14 16:56:00,1298,2,0,0,16,7,1,Lucknow,Uttar Pradesh,meta_ads,Delhivery,1
+KT100040,2026-07-20 05:08:00,1297,3,0,0,5,7,0,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101040,2026-06-23 11:36:00,2199,1,0,0,11,6,1,Delhi,Delhi,meta_ads,Delhivery,1
+KT101436,2026-06-18 07:50:00,399,1,0,0,7,6,3,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101251,2026-05-22 21:55:00,848,2,0,0,21,5,4,Lucknow,Uttar Pradesh,direct,Shadowfax,0
+KT101359,2026-05-13 19:24:00,648,2,0,0,19,5,2,Gorakhpur,Uttar Pradesh,whatsapp_broadcast,Shadowfax,1
+KT101424,2026-07-24 00:19:00,299,1,2,0,0,7,4,Sagar,Madhya Pradesh,meta_ads,Ecom Express,1
+KT100975,2026-06-15 21:46:00,2296,4,0,0,21,6,0,Bareilly,Uttar Pradesh,direct,Delhivery,0
+KT100216,2026-07-10 08:31:00,599,1,0,0,8,7,4,Chennai,Tamil Nadu,meta_ads,BlueDart,1
+KT100801,2026-04-27 00:00:00,499,1,0,0,0,4,0,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100996,2026-09-27 16:23:00,1297,3,0,0,16,9,6,Nagaon,Assam,instagram_organic,Delhivery,0
+KT100798,2026-08-20 02:02:00,449,1,0,0,2,8,3,Mumbai,Maharashtra,instagram_organic,Ecom Express,0
+KT100474,2026-05-01 23:46:00,449,1,0,0,23,5,4,Chennai,Tamil Nadu,instagram_organic,Shadowfax,0
+KT100368,2026-06-21 13:25:00,1398,2,0,0,13,6,6,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100669,2026-05-21 00:41:00,698,2,0,0,0,5,3,Pune,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101589,2026-07-10 19:55:00,1547,3,0,0,19,7,4,Indore,Madhya Pradesh,direct,Shadowfax,0
+KT101667,2026-09-12 04:30:00,449,1,5,0,4,9,5,Kolkata,West Bengal,whatsapp_broadcast,Shadowfax,1
+KT101779,2026-07-20 06:16:00,1048,2,0,0,6,7,0,Hyderabad,Telangana,google_ads,Delhivery,0
+KT100749,2026-09-09 17:07:00,299,1,0,0,17,9,2,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101323,2026-05-03 22:31:00,1347,3,0,0,22,5,6,Delhi,Delhi,meta_ads,Delhivery,0
+KT100530,2026-04-08 05:30:00,1098,2,0,0,5,4,2,Darbhanga,Bihar,influencer,Delhivery,1
+KT101465,2026-06-20 04:51:00,299,1,0,0,4,6,5,Indore,Madhya Pradesh,instagram_organic,Delhivery,0
+KT100978,2026-09-13 00:30:00,449,1,3,0,0,9,6,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT101801,2026-08-30 08:49:00,897,3,3,0,8,8,6,Sagar,Madhya Pradesh,meta_ads,Delhivery,0
+KT101089,2026-09-15 02:35:00,449,1,0,0,2,9,1,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT100778,2026-05-19 13:24:00,599,1,0,0,13,5,1,Chennai,Tamil Nadu,direct,Xpressbees,0
+KT101213,2026-08-04 21:57:00,798,2,0,0,21,8,1,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT101959,2026-05-18 09:49:00,1398,2,0,0,9,5,0,Sagar,Madhya Pradesh,instagram_organic,Xpressbees,1
+KT101033,2026-05-28 01:13:00,998,2,4,0,1,5,3,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101931,2026-06-23 09:09:00,1148,2,0,0,9,6,1,Mumbai,Maharashtra,instagram_organic,Ecom Express,0
+KT101147,2026-08-06 02:23:00,898,2,0,0,2,8,3,Bengaluru,Karnataka,influencer,Delhivery,0
+KT100151,2026-06-28 15:34:00,699,1,4,0,15,6,6,Jaipur,Rajasthan,meta_ads,Ecom Express,0
+KT100757,2026-05-19 16:42:00,698,2,0,0,16,5,1,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT101193,2026-09-08 09:24:00,998,2,3,0,9,9,1,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT100174,2026-09-29 09:12:00,998,2,4,0,9,9,1,Guwahati,Assam,influencer,Ecom Express,1
+KT100276,2026-08-19 06:15:00,1048,2,0,0,6,8,2,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT100842,2026-09-04 17:13:00,1447,3,0,0,17,9,4,Jaipur,Rajasthan,google_ads,Xpressbees,0
+KT100984,2026-04-02 08:23:00,2199,2,0,0,8,4,3,Bengaluru,Karnataka,google_ads,Shadowfax,0
+KT100440,2026-06-21 14:15:00,1647,3,0,0,14,6,6,Delhi,Delhi,meta_ads,Delhivery,1
+KT100494,2026-08-08 08:33:00,2199,3,0,0,8,8,5,Jaipur,Rajasthan,instagram_organic,Shadowfax,1
+KT101743,2026-08-12 15:08:00,898,2,0,0,15,8,2,Sagar,Madhya Pradesh,meta_ads,Shadowfax,0
+KT100365,2026-05-27 23:04:00,798,2,0,0,23,5,2,Lucknow,Uttar Pradesh,whatsapp_broadcast,Delhivery,1
+KT101207,2026-09-05 10:51:00,1098,2,0,0,10,9,5,Pune,Maharashtra,meta_ads,Shadowfax,1
+KT100971,2026-07-18 13:39:00,848,2,0,0,13,7,5,Delhi,Delhi,direct,Ecom Express,1
+KT100025,2026-08-04 02:30:00,599,1,0,0,2,8,1,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101794,2026-05-25 07:36:00,699,1,0,0,7,5,0,Kota,Rajasthan,google_ads,BlueDart,0
+KT100026,2026-07-22 22:31:00,998,2,5,1,22,7,2,Mumbai,Maharashtra,instagram_organic,Shadowfax,0
+KT101068,2026-04-20 02:14:00,1298,2,0,0,2,4,0,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100183,2026-08-19 01:00:00,1846,4,0,0,1,8,2,Mumbai,Maharashtra,direct,BlueDart,1
+KT101327,2026-05-03 23:04:00,699,1,0,0,23,5,6,Darbhanga,Bihar,meta_ads,BlueDart,0
+KT101130,2026-04-17 06:32:00,599,1,0,0,6,4,4,Sagar,Madhya Pradesh,whatsapp_broadcast,Ecom Express,1
+KT100714,2026-08-15 05:22:00,499,1,0,0,5,8,5,Indore,Madhya Pradesh,direct,Shadowfax,0
+KT101175,2026-07-13 14:43:00,399,1,0,0,14,7,0,Indore,Madhya Pradesh,direct,Delhivery,0
+KT101292,2026-04-21 04:14:00,798,2,0,0,4,4,1,Jaipur,Rajasthan,influencer,Xpressbees,0
+KT100017,2026-09-07 17:01:00,699,1,0,0,17,9,0,Sagar,Madhya Pradesh,meta_ads,Ecom Express,0
+KT100298,2026-08-01 21:17:00,699,1,5,0,21,8,5,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100251,2026-07-28 19:18:00,848,2,0,0,19,7,1,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT101225,2026-04-01 14:40:00,349,1,1,0,14,4,2,Indore,Madhya Pradesh,meta_ads,Shadowfax,0
+KT100068,2026-05-31 09:56:00,599,1,5,0,9,5,6,Bengaluru,Karnataka,meta_ads,Delhivery,1
+KT100786,2026-05-06 20:01:00,299,1,1,0,20,5,2,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100735,2026-08-30 19:42:00,1048,2,0,0,19,8,6,Hyderabad,Telangana,google_ads,Xpressbees,0
+KT101212,2026-05-27 21:19:00,599,1,5,0,21,5,2,Darbhanga,Bihar,google_ads,Ecom Express,0
+KT101316,2026-06-11 06:37:00,599,1,1,0,6,6,3,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100478,2026-09-20 15:27:00,449,1,0,0,15,9,6,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101884,2026-04-13 11:40:00,349,1,0,0,11,4,0,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100938,2026-09-19 18:55:00,349,1,2,0,18,9,5,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT100914,2026-08-12 07:12:00,1347,3,1,1,7,8,2,Bareilly,Uttar Pradesh,direct,Xpressbees,1
+KT101453,2026-05-17 11:57:00,1697,3,3,0,11,5,6,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT100611,2026-06-25 06:23:00,1447,3,0,0,6,6,3,Sagar,Madhya Pradesh,meta_ads,Delhivery,0
+KT101035,2026-08-12 07:29:00,1098,2,4,0,7,8,2,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT101258,2026-05-16 22:29:00,1397,3,5,1,22,5,5,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101731,2026-09-12 13:42:00,1447,3,0,0,13,9,5,Mumbai,Maharashtra,direct,Delhivery,0
+KT100756,2026-09-05 10:10:00,699,1,0,0,10,9,5,Mumbai,Maharashtra,meta_ads,Delhivery,1
+KT101956,2026-05-15 07:09:00,1547,3,0,0,7,5,4,Patna,Bihar,direct,Delhivery,1
+KT100818,2026-06-17 13:55:00,698,2,0,0,13,6,2,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101958,2026-04-28 09:09:00,898,2,0,0,9,4,1,Delhi,Delhi,google_ads,Shadowfax,0
+KT100565,2026-04-22 07:23:00,0,2,0,0,7,4,2,Chennai,Tamil Nadu,google_ads,Xpressbees,0
+KT100445,2026-06-21 16:57:00,1747,3,1,0,16,6,6,Hyderabad,Telangana,influencer,Ecom Express,1
+KT101669,2026-08-04 21:27:00,948,2,0,0,21,8,1,Nagaon,Assam,meta_ads,Ecom Express,0
+KT100411,2026-04-10 01:38:00,2999,2,0,0,1,4,4,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101299,2026-04-09 13:35:00,2999,2,0,0,13,4,3,Chennai,Tamil Nadu,whatsapp_broadcast,BlueDart,1
+KT101472,2026-04-21 17:32:00,1398,2,0,0,17,4,1,Jaipur,Rajasthan,meta_ads,Ecom Express,0
+KT100318,2026-07-31 06:03:00,998,2,4,0,6,7,4,Guwahati,Assam,direct,Delhivery,0
+KT101759,2026-09-11 08:27:00,1946,4,0,0,8,9,4,Patna,Bihar,google_ads,BlueDart,1
+KT100058,2026-05-06 10:59:00,1098,2,0,0,10,5,2,Darbhanga,Bihar,direct,Delhivery,0
+KT101201,2026-08-13 00:56:00,1547,3,0,0,0,8,3,Sagar,Madhya Pradesh,influencer,Xpressbees,0
+KT100637,2026-08-05 12:47:00,2096,4,0,0,12,8,2,Delhi,Delhi,influencer,Delhivery,0
+KT100379,2026-08-18 08:54:00,1398,2,3,1,8,8,1,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT101732,2026-08-23 12:24:00,798,2,5,0,12,8,6,Delhi,Delhi,google_ads,Delhivery,0
+KT100098,2026-08-28 18:16:00,399,1,0,0,18,8,4,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100304,2026-06-07 23:08:00,349,1,0,0,23,6,6,Darbhanga,Bihar,direct,Delhivery,1
+KT100103,2026-05-17 19:20:00,2999,1,0,0,19,5,6,Chennai,Tamil Nadu,whatsapp_broadcast,Xpressbees,0
+KT100377,2026-06-28 23:27:00,399,1,4,0,23,6,6,Indore,Madhya Pradesh,meta_ads,Xpressbees,1
+KT100820,2026-08-18 06:13:00,449,1,0,0,6,8,1,Indore,Madhya Pradesh,meta_ads,Delhivery,1
+KT101695,2026-08-26 19:14:00,449,1,0,0,19,8,2,Jaipur,Rajasthan,google_ads,Xpressbees,0
+KT100792,2026-06-16 14:25:00,1098,2,2,1,14,6,1,Mumbai,Maharashtra,instagram_organic,Delhivery,1
+KT101597,2026-09-05 03:41:00,449,1,0,0,3,9,5,Delhi,Delhi,google_ads,Shadowfax,0
+KT100110,2026-05-19 14:13:00,699,1,0,0,14,5,1,Jaipur,Rajasthan,direct,Xpressbees,1
+KT100389,2026-09-24 19:15:00,748,2,0,0,19,9,3,Nagaon,Assam,instagram_organic,BlueDart,0
+KT101427,2026-04-29 12:45:00,698,2,3,2,12,4,2,Kolkata,West Bengal,meta_ads,Xpressbees,1
+KT100661,2026-07-22 23:37:00,499,1,0,0,23,7,2,Delhi,Delhi,meta_ads,Delhivery,0
+KT100093,2026-06-09 16:04:00,1797,3,0,0,16,6,1,Patna,Bihar,direct,Delhivery,1
+KT100589,2026-04-27 17:22:00,399,1,0,0,17,4,0,Sagar,Madhya Pradesh,whatsapp_broadcast,BlueDart,1
+KT100001,2026-07-06 02:35:00,898,2,0,0,2,7,0,Nagaon,Assam,google_ads,Xpressbees,0
+KT101394,2026-09-16 02:01:00,449,1,5,0,2,9,2,Delhi,Delhi,influencer,BlueDart,0
+KT100314,2026-07-01 04:44:00,898,2,0,0,4,7,2,Hyderabad,Telangana,direct,Delhivery,0
+KT101226,2026-06-27 08:27:00,798,2,0,0,8,6,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101467,2026-07-15 14:43:00,699,1,3,0,14,7,2,Mumbai,Maharashtra,direct,Delhivery,0
+KT100057,2026-07-13 11:02:00,349,1,0,0,11,7,0,Hyderabad,Telangana,whatsapp_broadcast,Shadowfax,0
+KT100910,2026-08-15 17:13:00,1398,2,0,0,17,8,5,Delhi,Delhi,instagram_organic,Shadowfax,1
+KT101835,2026-07-01 08:10:00,1298,2,0,0,8,7,2,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101932,2026-05-16 00:49:00,948,2,0,0,0,5,5,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100907,2026-05-13 07:13:00,499,1,0,0,7,5,2,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101649,2026-06-22 09:32:00,848,2,0,0,9,6,0,Pune,Maharashtra,instagram_organic,Xpressbees,0
+KT100726,2026-09-21 00:30:00,699,1,5,1,0,9,0,Sagar,Madhya Pradesh,whatsapp_broadcast,Delhivery,0
+KT100825,2026-08-10 10:13:00,399,1,2,0,10,8,0,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100697,2026-09-26 09:25:00,349,1,0,0,9,9,5,Kota,Rajasthan,meta_ads,BlueDart,0
+KT101031,2026-09-19 16:08:00,898,2,0,0,16,9,5,Indore,Madhya Pradesh,direct,Shadowfax,1
+KT100129,2026-04-03 03:42:00,349,1,0,0,3,4,4,Kota,Rajasthan,meta_ads,Xpressbees,1
+KT101728,2026-05-05 06:08:00,2999,2,0,0,6,5,1,Indore,Madhya Pradesh,instagram_organic,Delhivery,1
+KT101406,2026-05-01 09:44:00,299,1,0,0,9,5,4,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,0
+KT101543,2026-05-22 15:35:00,349,1,0,0,15,5,4,Chennai,Tamil Nadu,influencer,Shadowfax,0
+KT100269,2026-07-10 22:02:00,499,1,3,1,22,7,4,Sagar,Madhya Pradesh,influencer,Shadowfax,1
+KT151867,2026-07-12 19:37:00,848,2,0,0,19,7,6,Delhi,Delhi,google_ads,Shadowfax,0
+KT100359,2026-06-20 16:45:00,349,1,0,0,16,6,5,Kolkata,West Bengal,influencer,Delhivery,0
+KT100328,2026-06-29 22:35:00,798,2,0,0,22,6,0,Bareilly,Uttar Pradesh,google_ads,Xpressbees,1
+KT100245,2026-08-22 16:49:00,499,1,0,0,16,8,5,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101384,2026-08-26 15:40:00,349,1,0,0,15,8,2,Kolkata,West Bengal,whatsapp_broadcast,Delhivery,1
+KT101927,2026-09-16 08:31:00,998,2,0,0,8,9,2,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT101540,2026-06-27 05:54:00,1197,3,1,0,5,6,5,Chennai,Tamil Nadu,whatsapp_broadcast,Shadowfax,0
+KT101300,2026-06-15 01:11:00,699,1,0,0,1,6,0,Kota,Rajasthan,instagram_organic,Xpressbees,1
+KT100376,2026-08-09 14:27:00,1048,2,0,0,14,8,6,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT100720,2026-06-05 14:36:00,848,2,0,0,14,6,4,Hyderabad,Telangana,instagram_organic,Delhivery,0
+KT101368,2026-04-29 22:47:00,499,1,0,0,22,4,2,Pune,Maharashtra,instagram_organic,Xpressbees,1
+KT101697,2026-04-08 23:03:00,2046,4,0,0,23,4,2,Delhi,Delhi,whatsapp_broadcast,Shadowfax,0
+KT101346,2026-08-06 08:04:00,399,1,0,0,8,8,3,Guwahati,Assam,meta_ads,Shadowfax,1
+KT101557,2026-08-01 04:55:00,449,1,1,0,4,8,5,Kolkata,West Bengal,meta_ads,Shadowfax,0
+KT100675,2026-07-14 03:31:00,2146,4,5,1,3,7,1,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101150,2026-09-22 17:21:00,1098,2,0,0,17,9,1,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT100860,2026-04-12 08:03:00,499,1,0,0,8,4,6,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101177,2026-07-08 02:34:00,948,2,5,0,2,7,2,Delhi,Delhi,influencer,Shadowfax,0
+KT101925,2026-04-08 15:14:00,699,1,0,0,15,4,2,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100266,2026-09-16 11:21:00,798,2,4,1,11,9,2,Jaipur,Rajasthan,direct,Delhivery,1
+KT100646,2026-04-25 20:02:00,1397,3,0,0,20,4,5,Pune,Maharashtra,meta_ads,BlueDart,0
+KT101172,2026-07-11 18:43:00,349,1,0,0,18,7,5,Kota,Rajasthan,meta_ads,Delhivery,0
+KT101005,2026-07-30 06:03:00,1148,2,0,0,6,7,3,Lucknow,Uttar Pradesh,whatsapp_broadcast,Xpressbees,1
+KT100045,2026-08-31 12:09:00,1996,4,4,0,12,8,0,Jaipur,Rajasthan,direct,Shadowfax,0
+KT101898,2026-08-02 09:10:00,599,1,0,0,9,8,6,Delhi,Delhi,meta_ads,Xpressbees,0
+KT101256,2026-09-12 19:30:00,2046,4,0,0,19,9,5,Patna,Bihar,whatsapp_broadcast,Delhivery,1
+KT100666,2026-06-28 03:06:00,1899,3,0,0,3,6,6,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT100427,2026-05-16 05:01:00,599,1,0,0,5,5,5,Indore,Madhya Pradesh,influencer,Shadowfax,1
+KT101128,2026-06-18 09:08:00,399,1,3,0,9,6,3,Pune,Maharashtra,whatsapp_broadcast,Xpressbees,1
+KT100356,2026-06-13 17:29:00,898,2,0,0,17,6,5,Sagar,Madhya Pradesh,instagram_organic,Ecom Express,0
+KT100395,2026-06-01 05:30:00,699,1,0,0,5,6,0,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,1
+KT101751,2026-04-06 03:15:00,648,2,0,0,3,4,0,Gorakhpur,Uttar Pradesh,meta_ads,Delhivery,1
+KT100100,2026-08-28 07:10:00,898,2,3,0,7,8,4,Darbhanga,Bihar,meta_ads,Xpressbees,1
+KT100299,2026-04-03 13:30:00,299,1,0,0,13,4,4,Kota,Rajasthan,google_ads,BlueDart,0
+KT100672,2026-08-26 13:13:00,299,1,1,2,13,8,2,Patna,Bihar,direct,Shadowfax,1
+KT100751,2026-08-30 10:19:00,449,1,0,0,10,8,6,Delhi,Delhi,google_ads,Delhivery,0
+KT100506,2026-09-24 03:17:00,698,2,0,0,3,9,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100548,2026-05-16 05:57:00,748,2,0,0,5,5,5,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT101366,2026-05-06 19:59:00,299,1,0,0,19,5,2,Kota,Rajasthan,meta_ads,Delhivery,0
+KT100514,2026-04-26 14:50:00,349,1,0,0,14,4,6,Bareilly,Uttar Pradesh,instagram_organic,Shadowfax,0
+KT101510,2026-05-05 15:23:00,1198,2,0,0,15,5,1,Sagar,Madhya Pradesh,meta_ads,Delhivery,1
+KT101211,2026-08-03 19:43:00,1197,3,0,0,19,8,0,Pune,Maharashtra,direct,Delhivery,0
+KT101003,2026-04-21 21:14:00,798,2,0,0,21,4,1,Mumbai,Maharashtra,direct,BlueDart,0
+KT100917,2026-07-10 14:00:00,349,1,0,0,14,7,4,Delhi,Delhi,influencer,Shadowfax,0
+KT100951,2026-06-03 21:36:00,598,2,0,0,21,6,2,Kolkata,West Bengal,meta_ads,Delhivery,1
+KT100352,2026-07-20 15:19:00,399,1,0,0,15,7,0,Jaipur,Rajasthan,direct,BlueDart,0
+KT100992,2026-06-15 13:05:00,1098,2,0,0,13,6,0,Delhi,Delhi,meta_ads,Delhivery,0
+KT101864,2026-07-31 00:42:00,1048,2,0,0,0,7,4,Nagaon,Assam,meta_ads,Shadowfax,0
+KT100843,2026-08-04 04:54:00,349,1,0,0,4,8,1,Pune,Maharashtra,meta_ads,BlueDart,0
+KT101489,2026-07-03 07:19:00,1198,2,3,0,7,7,4,Delhi,Delhi,meta_ads,Xpressbees,0
+KT101912,2026-04-06 09:10:00,299,1,0,0,9,4,0,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT101700,2026-05-17 16:28:00,1697,3,0,0,16,5,6,Patna,Bihar,influencer,Shadowfax,1
+KT101957,2026-05-09 14:16:00,1297,3,0,0,14,5,5,Patna,Bihar,instagram_organic,Xpressbees,1
+KT100295,2026-08-20 15:51:00,1447,3,0,0,15,8,3,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,0
+KT101826,2026-08-15 04:28:00,299,1,0,0,4,8,5,Delhi,Delhi,whatsapp_broadcast,Xpressbees,0
+KT100823,2026-09-13 22:13:00,848,2,0,0,22,9,6,Lucknow,Uttar Pradesh,instagram_organic,Shadowfax,0
+KT100644,2026-08-14 07:35:00,1048,2,0,0,7,8,4,Bengaluru,Karnataka,whatsapp_broadcast,Shadowfax,0
+KT101140,2026-05-20 11:35:00,748,2,0,0,11,5,2,Delhi,Delhi,whatsapp_broadcast,Shadowfax,0
+KT100538,2026-07-27 01:44:00,1048,2,0,0,1,7,0,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100648,2026-09-06 13:27:00,1197,3,0,0,13,9,6,Delhi,Delhi,influencer,Delhivery,0
+KT101074,2026-07-25 20:37:00,599,1,0,0,20,7,5,Gorakhpur,Uttar Pradesh,instagram_organic,Ecom Express,1
+KT101387,2026-05-30 17:26:00,399,1,0,0,17,5,5,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT101687,2026-09-09 19:15:00,798,2,0,0,19,9,2,Guwahati,Assam,whatsapp_broadcast,Shadowfax,0
+KT101802,2026-05-05 11:53:00,1098,2,0,0,11,5,1,Sagar,Madhya Pradesh,direct,Shadowfax,1
+KT101014,2026-08-27 12:43:00,449,1,0,0,12,8,3,Lucknow,Uttar Pradesh,instagram_organic,BlueDart,0
+KT101560,2026-08-24 00:56:00,1147,3,0,0,0,8,0,Hyderabad,Telangana,meta_ads,Shadowfax,1
+KT100374,2026-06-19 22:12:00,1098,2,5,0,22,6,4,Hyderabad,Telangana,direct,Xpressbees,0
+KT100180,2026-07-26 09:43:00,1347,3,0,0,9,7,6,Pune,Maharashtra,direct,Ecom Express,1
+KT100667,2026-06-25 17:55:00,798,2,0,0,17,6,3,Darbhanga,Bihar,google_ads,Xpressbees,0
+KT100291,2026-08-18 05:27:00,349,1,0,0,5,8,1,Bengaluru,Karnataka,google_ads,Xpressbees,0
+KT100999,2026-08-27 22:13:00,449,1,0,0,22,8,3,Kota,Rajasthan,meta_ads,BlueDart,1
+KT101616,2026-06-12 08:44:00,1298,2,0,0,8,6,4,Patna,Bihar,instagram_organic,Xpressbees,0
+KT100831,2026-06-19 12:34:00,1048,2,0,0,12,6,4,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT100414,2026-05-31 05:25:00,1098,2,0,0,5,5,6,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT101217,2026-07-05 12:39:00,948,2,0,0,12,7,6,Pune,Maharashtra,direct,Delhivery,0
+KT100101,2026-08-05 17:19:00,699,1,1,0,17,8,2,Jaipur,Rajasthan,influencer,Delhivery,1
+KT100467,2026-05-03 18:55:00,699,1,0,0,18,5,6,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,1
+KT100278,2026-07-05 12:31:00,599,1,0,0,12,7,6,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100007,2026-05-13 13:31:00,499,1,0,0,13,5,2,Guwahati,Assam,meta_ads,Delhivery,0
+KT100746,2026-07-14 05:15:00,449,1,0,0,5,7,1,Delhi,Delhi,meta_ads,Shadowfax,1
+KT100963,2026-09-04 18:04:00,499,1,0,0,18,9,4,Sagar,Madhya Pradesh,influencer,Ecom Express,1
+KT101638,2026-06-12 05:53:00,1198,2,0,0,5,6,4,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT100010,2026-04-01 10:49:00,648,2,2,1,10,4,2,Jaipur,Rajasthan,meta_ads,Ecom Express,1
+KT100224,2026-08-11 22:49:00,798,2,0,0,22,8,1,Delhi,Delhi,meta_ads,Delhivery,0
+KT101036,2026-05-23 23:28:00,798,2,2,0,23,5,5,Jaipur,Rajasthan,influencer,Ecom Express,0
+KT100212,2026-08-08 22:30:00,399,1,0,0,22,8,5,Delhi,Delhi,instagram_organic,Xpressbees,0
+KT101776,2026-08-20 04:12:00,598,2,0,0,4,8,3,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT100970,2026-09-15 16:14:00,798,2,3,0,16,9,1,Kolkata,West Bengal,meta_ads,Ecom Express,0
+KT100210,2026-05-01 07:08:00,699,1,0,0,7,5,4,Lucknow,Uttar Pradesh,meta_ads,BlueDart,1
+KT101863,2026-06-23 22:25:00,499,1,2,1,22,6,1,Bareilly,Uttar Pradesh,meta_ads,Shadowfax,1
+KT101331,2026-05-10 12:25:00,1646,4,0,0,12,5,6,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101518,2026-08-26 22:14:00,399,1,0,0,22,8,2,Chennai,Tamil Nadu,meta_ads,Xpressbees,0
+KT101922,2026-06-17 18:08:00,1098,2,0,0,18,6,2,Mumbai,Maharashtra,google_ads,Xpressbees,0
+KT100159,2026-09-11 18:22:00,1098,2,0,0,18,9,4,Lucknow,Uttar Pradesh,whatsapp_broadcast,Shadowfax,0
+KT100518,2026-05-25 03:19:00,1996,4,0,0,3,5,0,Chennai,Tamil Nadu,instagram_organic,Shadowfax,0
+KT101080,2026-04-01 07:01:00,2999,1,0,0,7,4,2,Hyderabad,Telangana,meta_ads,Ecom Express,1
+KT100280,2026-09-26 09:00:00,399,1,0,0,9,9,5,Indore,Madhya Pradesh,direct,Shadowfax,0
+KT100848,2026-09-05 18:34:00,898,2,4,0,18,9,5,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100880,2026-04-21 09:38:00,599,1,0,0,9,4,1,Pune,Maharashtra,google_ads,Shadowfax,0
+KT101666,2026-05-05 12:48:00,1447,3,0,0,12,5,1,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT101134,2026-07-17 08:17:00,299,1,2,1,8,7,4,Darbhanga,Bihar,whatsapp_broadcast,Ecom Express,1
+KT100658,2026-05-15 15:34:00,449,1,0,0,15,5,4,Hyderabad,Telangana,whatsapp_broadcast,Shadowfax,0
+KT100810,2026-05-02 07:37:00,898,2,3,0,7,5,5,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT100267,2026-07-25 20:57:00,2046,4,0,0,20,7,5,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT100202,2026-06-14 14:39:00,599,1,0,0,14,6,6,Patna,Bihar,instagram_organic,Delhivery,1
+KT100272,2026-06-01 06:05:00,1098,2,1,0,6,6,0,Hyderabad,Telangana,google_ads,BlueDart,0
+KT100743,2026-04-06 21:28:00,499,1,0,0,21,4,0,Nagaon,Assam,meta_ads,Ecom Express,0
+KT101445,2026-08-01 06:35:00,1197,3,0,0,6,8,5,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101186,2026-07-26 20:38:00,299,1,0,0,20,7,6,Pune,Maharashtra,meta_ads,Delhivery,0
+KT100527,2026-05-28 09:49:00,599,1,4,0,9,5,3,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100413,2026-05-27 16:08:00,1148,2,0,0,16,5,2,Delhi,Delhi,google_ads,BlueDart,1
+KT100461,2026-09-21 12:01:00,1397,3,4,0,12,9,0,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT101041,2026-07-29 06:24:00,399,1,0,0,6,7,2,Patna,Bihar,direct,Shadowfax,0
+KT101873,2026-08-24 02:16:00,699,1,0,0,2,8,0,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100590,2026-09-04 10:56:00,798,2,0,0,10,9,4,Sagar,Madhya Pradesh,meta_ads,Xpressbees,0
+KT100469,2026-04-17 02:16:00,748,2,0,0,2,4,4,Hyderabad,Telangana,direct,Delhivery,1
+KT100261,2026-07-04 11:42:00,599,1,5,1,11,7,5,Delhi,Delhi,meta_ads,Ecom Express,0
+KT100604,2026-06-19 01:42:00,948,2,2,0,1,6,4,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT101000,2026-05-05 22:08:00,948,2,0,0,22,5,1,Patna,Bihar,meta_ads,Delhivery,0
+KT101686,2026-07-09 19:30:00,1297,3,0,0,19,7,3,Kolkata,West Bengal,whatsapp_broadcast,Ecom Express,0
+KT100249,2026-07-16 00:55:00,399,1,0,0,0,7,3,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101029,2026-07-07 22:41:00,2096,4,5,1,22,7,1,Darbhanga,Bihar,whatsapp_broadcast,Shadowfax,1
+KT101105,2026-04-13 02:17:00,2097,3,0,0,2,4,0,Pune,Maharashtra,google_ads,Shadowfax,0
+KT101021,2026-06-08 08:51:00,299,1,2,0,8,6,0,Lucknow,Uttar Pradesh,direct,Delhivery,0
+KT100725,2026-09-11 10:54:00,798,2,5,0,10,9,4,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT101869,2026-07-17 12:26:00,399,1,0,0,12,7,4,Darbhanga,Bihar,meta_ads,Delhivery,0
+KT100683,2026-08-31 09:00:00,599,1,4,0,9,8,0,Hyderabad,Telangana,direct,Delhivery,0
+KT100429,2026-09-28 05:32:00,848,2,1,0,5,9,0,Kolkata,West Bengal,influencer,BlueDart,0
+KT101464,2026-08-08 05:34:00,1899,1,5,0,5,8,5,Hyderabad,Telangana,meta_ads,Ecom Express,1
+KT100640,2026-06-06 19:32:00,1347,3,5,0,19,6,5,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT101688,2026-08-16 13:28:00,798,2,0,0,13,8,6,Kota,Rajasthan,google_ads,Delhivery,1
+KT101319,2026-05-19 03:28:00,648,2,0,0,3,5,1,Mumbai,Maharashtra,direct,Delhivery,1
+KT100271,2026-06-11 05:10:00,798,2,0,0,5,6,3,Pune,Maharashtra,direct,Ecom Express,0
+KT100089,2026-09-12 21:09:00,1547,3,1,0,21,9,5,Indore,Madhya Pradesh,direct,Delhivery,0
+KT101765,2026-07-20 00:30:00,1447,3,5,1,0,7,0,Delhi,Delhi,instagram_organic,Delhivery,0
+KT100656,2026-07-02 09:38:00,1497,3,4,0,9,7,3,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT101605,2026-04-13 12:42:00,898,2,0,0,12,4,0,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100360,2026-09-25 07:28:00,449,1,0,0,7,9,4,Nagaon,Assam,meta_ads,Xpressbees,0
+KT100018,2026-04-06 19:09:00,1048,2,1,0,19,4,0,Hyderabad,Telangana,google_ads,Delhivery,0
+KT100625,2026-06-18 09:34:00,798,2,0,0,9,6,3,Pune,Maharashtra,instagram_organic,Xpressbees,0
+KT100087,2026-04-12 03:40:00,599,1,0,0,3,4,6,Indore,Madhya Pradesh,google_ads,Shadowfax,1
+KT101909,2026-05-07 20:57:00,299,1,0,0,20,5,3,Lucknow,Uttar Pradesh,influencer,Shadowfax,0
+KT100158,2026-04-04 06:41:00,848,2,0,0,6,4,5,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101525,2026-08-12 16:29:00,1048,2,0,0,16,8,2,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100075,2026-04-20 09:10:00,449,1,0,0,9,4,0,Hyderabad,Telangana,direct,Delhivery,0
+KT101059,2026-09-08 04:20:00,1796,4,0,0,4,9,1,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100717,2026-04-15 15:27:00,399,1,0,0,15,4,2,Hyderabad,Telangana,direct,Delhivery,0
+KT101553,2026-05-18 05:04:00,748,2,0,0,5,5,0,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT101157,2026-05-05 06:45:00,998,2,5,1,6,5,1,Pune,Maharashtra,instagram_organic,BlueDart,0
+KT100253,2026-07-23 21:07:00,2999,1,0,0,21,7,3,Patna,Bihar,google_ads,Delhivery,0
+KT101876,2026-09-21 16:41:00,2999,1,0,0,16,9,0,Hyderabad,Telangana,direct,Delhivery,0
+KT101090,2026-04-08 08:29:00,1547,3,0,0,8,4,2,Bengaluru,Karnataka,influencer,Delhivery,0
+KT100547,2026-04-18 16:13:00,798,2,0,0,16,4,5,Bareilly,Uttar Pradesh,whatsapp_broadcast,Shadowfax,1
+KT101892,2026-04-25 10:42:00,848,2,0,0,10,4,5,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100571,2026-04-25 12:21:00,998,2,0,0,12,4,5,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT100873,2026-08-30 18:21:00,1097,3,0,0,18,8,6,Mumbai,Maharashtra,whatsapp_broadcast,BlueDart,1
+KT100120,2026-05-17 03:25:00,449,1,0,0,3,5,6,Patna,Bihar,meta_ads,Ecom Express,1
+KT100108,2026-07-17 03:26:00,499,1,5,0,3,7,4,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT100911,2026-09-18 00:42:00,349,1,2,1,0,9,4,Pune,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT100137,2026-04-30 15:43:00,798,2,0,0,15,4,3,Bengaluru,Karnataka,direct,Xpressbees,0
+KT100673,2026-04-13 15:00:00,1197,3,4,0,15,4,0,Pune,Maharashtra,meta_ads,Delhivery,0
+KT100587,2026-08-31 07:08:00,1547,3,2,0,7,8,0,Hyderabad,Telangana,influencer,BlueDart,0
+KT100645,2026-09-10 03:56:00,848,2,0,0,3,9,3,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100509,2026-05-29 18:17:00,699,1,3,2,18,5,4,Delhi,Delhi,meta_ads,Xpressbees,1
+KT101827,2026-05-25 08:25:00,1899,2,0,0,8,5,0,Kolkata,West Bengal,influencer,Delhivery,1
+KT101395,2026-05-17 09:33:00,798,2,0,0,9,5,6,Indore,Madhya Pradesh,direct,Ecom Express,0
+KT101205,2026-04-27 22:39:00,1298,2,4,0,22,4,0,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT100892,2026-06-29 02:18:00,1747,3,0,0,2,6,0,Delhi,Delhi,influencer,Delhivery,0
+KT101052,2026-04-11 17:44:00,2499,2,4,1,17,4,5,Hyderabad,Telangana,meta_ads,Shadowfax,1
+KT101320,2026-04-14 21:36:00,1047,3,3,0,21,4,1,Kota,Rajasthan,whatsapp_broadcast,Delhivery,0
+KT100976,2026-07-01 16:36:00,1048,2,0,0,16,7,2,Darbhanga,Bihar,meta_ads,Xpressbees,0
+KT100188,2026-09-15 18:25:00,1197,3,0,0,18,9,1,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT100897,2026-06-16 21:53:00,599,1,0,0,21,6,1,Pune,Maharashtra,influencer,Xpressbees,0
+KT101746,2026-06-26 04:22:00,349,1,0,0,4,6,4,Delhi,Delhi,whatsapp_broadcast,Shadowfax,0
+KT101552,2026-07-04 22:11:00,399,1,2,0,22,7,5,Delhi,Delhi,meta_ads,BlueDart,0
+KT101609,2026-06-16 18:24:00,698,2,0,0,18,6,1,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT150219,2026-08-06 06:44:00,599,1,0,0,6,8,3,Delhi,Delhi,google_ads,Shadowfax,1
+KT101840,2026-05-15 18:29:00,399,1,1,1,18,5,4,Kolkata,West Bengal,meta_ads,Shadowfax,0
+KT101808,2026-05-26 14:57:00,698,2,0,0,14,5,1,Delhi,Delhi,meta_ads,Delhivery,0
+KT101799,2026-08-29 11:20:00,449,1,0,0,11,8,5,Chennai,Tamil Nadu,instagram_organic,Xpressbees,0
+KT101173,2026-08-01 18:40:00,499,1,0,0,18,8,5,Bengaluru,Karnataka,influencer,Xpressbees,1
+KT101506,2026-09-24 07:22:00,1397,3,0,0,7,9,3,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT100228,2026-07-20 09:57:00,299,1,0,0,9,7,0,Indore,Madhya Pradesh,whatsapp_broadcast,Shadowfax,1
+KT101013,2026-04-18 06:13:00,648,2,0,0,6,4,5,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100945,2026-04-21 08:24:00,349,1,0,0,8,4,1,Pune,Maharashtra,meta_ads,Delhivery,1
+KT100877,2026-04-22 19:41:00,997,3,5,1,19,4,2,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101238,2026-07-03 01:33:00,948,2,0,0,1,7,4,Delhi,Delhi,meta_ads,Shadowfax,1
+KT100363,2026-04-25 07:19:00,349,1,0,0,7,4,5,Bareilly,Uttar Pradesh,instagram_organic,BlueDart,1
+KT101500,2026-07-26 07:13:00,599,1,0,0,7,7,6,Gorakhpur,Uttar Pradesh,whatsapp_broadcast,Delhivery,1
+KT101471,2026-06-09 20:46:00,848,2,0,0,20,6,1,Delhi,Delhi,instagram_organic,Delhivery,1
+KT101528,2026-09-29 03:50:00,599,1,0,0,3,9,1,Kolkata,West Bengal,direct,Ecom Express,0
+KT100186,2026-06-11 08:08:00,798,2,0,0,8,6,3,Pune,Maharashtra,meta_ads,Delhivery,0
+KT151001,2026-07-17 06:59:00,399,1,2,0,6,7,4,Mumbai,Maharashtra,influencer,Shadowfax,0
+KT101569,2026-09-12 21:10:00,1296,4,0,0,21,9,5,Pune,Maharashtra,instagram_organic,Ecom Express,0
+KT100065,2026-05-23 22:37:00,2096,4,0,0,22,5,5,Mumbai,Maharashtra,direct,Shadowfax,0
+KT101685,2026-08-25 08:53:00,399,1,0,0,8,8,1,Indore,Madhya Pradesh,whatsapp_broadcast,Xpressbees,0
+KT100851,2026-04-30 21:59:00,848,2,0,0,21,4,3,Jaipur,Rajasthan,whatsapp_broadcast,Shadowfax,0
+KT101329,2026-09-23 23:20:00,2999,3,0,0,23,9,2,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT100601,2026-06-25 14:21:00,449,1,0,0,14,6,3,Darbhanga,Bihar,meta_ads,Xpressbees,1
+KT101190,2026-05-19 06:40:00,1148,2,0,0,6,5,1,Gorakhpur,Uttar Pradesh,influencer,Delhivery,1
+KT101477,2026-09-06 05:04:00,449,1,0,0,5,9,6,Chennai,Tamil Nadu,whatsapp_broadcast,Xpressbees,0
+KT100803,2026-08-04 17:02:00,1198,2,0,0,17,8,1,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT101011,2026-07-02 21:54:00,499,1,1,1,21,7,3,Lucknow,Uttar Pradesh,meta_ads,Ecom Express,1
+KT100123,2026-05-27 00:21:00,1547,3,0,0,0,5,2,Indore,Madhya Pradesh,meta_ads,BlueDart,1
+KT100826,2026-04-02 17:58:00,299,1,0,0,17,4,3,Patna,Bihar,meta_ads,Delhivery,1
+KT101877,2026-07-02 10:13:00,699,1,0,0,10,7,3,Gorakhpur,Uttar Pradesh,google_ads,Shadowfax,0
+KT100036,2026-08-01 12:27:00,449,1,0,0,12,8,5,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101462,2026-06-22 12:28:00,798,2,0,0,12,6,0,Delhi,Delhi,google_ads,Delhivery,0
+KT101095,2026-09-29 18:32:00,1148,2,0,0,18,9,1,Guwahati,Assam,instagram_organic,Xpressbees,1
+KT101027,2026-08-23 09:35:00,599,1,0,0,9,8,6,Gorakhpur,Uttar Pradesh,meta_ads,Shadowfax,1
+KT151675,2026-08-27 15:06:00,798,2,1,0,15,8,3,Patna,Bihar,google_ads,BlueDart,0
+KT100505,2026-04-29 09:09:00,998,2,0,0,9,4,2,Delhi,Delhi,meta_ads,Delhivery,0
+KT100659,2026-07-11 18:59:00,598,2,2,0,18,7,5,Pune,Maharashtra,influencer,Shadowfax,0
+KT100303,2026-08-25 06:37:00,998,2,0,0,6,8,1,Mumbai,Maharashtra,influencer,Delhivery,0
+KT100047,2026-09-30 20:21:00,299,1,0,0,20,9,2,Sagar,Madhya Pradesh,whatsapp_broadcast,Xpressbees,1
+KT101643,2026-05-27 21:40:00,449,1,3,1,21,5,2,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT100838,2026-07-19 01:03:00,399,1,0,0,1,7,6,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT100524,2026-07-02 12:25:00,848,2,0,0,12,7,3,Darbhanga,Bihar,instagram_organic,Xpressbees,1
+KT101350,2026-05-12 12:53:00,1697,3,0,0,12,5,1,Darbhanga,Bihar,whatsapp_broadcast,Shadowfax,1
+KT100933,2026-06-17 19:57:00,449,1,0,0,19,6,2,Darbhanga,Bihar,direct,BlueDart,0
+KT100762,2026-08-14 04:18:00,1098,2,0,0,4,8,4,Hyderabad,Telangana,meta_ads,Xpressbees,1
+KT101897,2026-07-13 19:16:00,599,1,0,0,19,7,0,Kota,Rajasthan,influencer,Xpressbees,1
+KT101434,2026-05-18 17:01:00,1398,2,0,0,17,5,0,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT100800,2026-07-12 06:23:00,1547,3,0,0,6,7,6,Jaipur,Rajasthan,instagram_organic,Delhivery,0
+KT100032,2026-08-17 11:33:00,1198,2,0,0,11,8,0,Delhi,Delhi,direct,Ecom Express,0
+KT100553,2026-06-29 21:01:00,299,1,4,0,21,6,0,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT151745,2026-05-11 13:22:00,898,2,0,0,13,5,0,Darbhanga,Bihar,meta_ads,Ecom Express,0
+KT100340,2026-09-07 17:42:00,299,1,3,0,17,9,0,Lucknow,Uttar Pradesh,influencer,Ecom Express,0
+KT100606,2026-05-04 16:05:00,449,1,0,0,16,5,0,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT100846,2026-09-18 09:22:00,349,1,0,0,9,9,4,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101398,2026-05-22 04:27:00,1697,3,0,0,4,5,4,Gorakhpur,Uttar Pradesh,influencer,Delhivery,1
+KT101633,2026-09-15 21:31:00,1896,4,0,0,21,9,1,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101777,2026-04-10 02:03:00,948,2,0,0,2,4,4,Pune,Maharashtra,direct,Delhivery,0
+KT100499,2026-07-05 20:21:00,299,1,0,0,20,7,6,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100221,2026-08-12 21:53:00,449,1,0,0,21,8,2,Sagar,Madhya Pradesh,meta_ads,Delhivery,1
+KT100143,2026-06-05 17:52:00,1647,3,0,0,17,6,4,Chennai,Tamil Nadu,meta_ads,Xpressbees,1
+KT101592,2026-08-06 14:30:00,599,1,0,0,14,8,3,Delhi,Delhi,influencer,Shadowfax,0
+KT100156,2026-09-24 12:22:00,699,1,0,0,12,9,3,Delhi,Delhi,direct,Xpressbees,0
+KT100097,2026-04-24 05:51:00,349,1,0,0,5,4,4,Guwahati,Assam,direct,Shadowfax,0
+KT100835,2026-05-30 15:26:00,349,1,0,0,15,5,5,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101108,2026-04-20 07:48:00,449,1,0,0,7,4,0,Delhi,Delhi,google_ads,Delhivery,0
+KT101854,2026-07-19 22:18:00,699,1,0,0,22,7,6,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT100415,2026-08-18 04:06:00,349,1,1,0,4,8,1,Indore,Madhya Pradesh,google_ads,Ecom Express,0
+KT101044,2026-05-31 14:17:00,399,1,3,0,14,5,6,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100916,2026-06-16 03:37:00,2096,4,0,0,3,6,1,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101537,2026-04-20 13:41:00,499,1,4,0,13,4,0,Hyderabad,Telangana,direct,Shadowfax,0
+KT100876,2026-06-17 16:50:00,299,1,2,0,16,6,2,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101485,2026-09-25 16:31:00,599,1,0,0,16,9,4,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT100059,2026-09-27 03:12:00,399,1,4,0,3,9,6,Mumbai,Maharashtra,whatsapp_broadcast,BlueDart,0
+KT100073,2026-05-16 03:58:00,399,1,2,0,3,5,5,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100336,2026-04-10 18:17:00,399,1,1,0,18,4,4,Bengaluru,Karnataka,instagram_organic,Xpressbees,0
+KT100034,2026-05-26 14:28:00,499,1,0,0,14,5,1,Jaipur,Rajasthan,google_ads,Delhivery,1
+KT100387,2026-09-10 03:38:00,449,1,0,0,3,9,3,Hyderabad,Telangana,influencer,Delhivery,1
+KT101200,2026-04-04 19:26:00,349,1,4,1,19,4,5,Kolkata,West Bengal,direct,Delhivery,0
+KT101341,2026-09-25 09:08:00,1647,3,0,0,9,9,4,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT101246,2026-08-13 00:12:00,1797,3,5,0,0,8,3,Hyderabad,Telangana,meta_ads,Delhivery,1
+KT101002,2026-06-23 22:53:00,1198,2,0,0,22,6,1,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,0
+KT100200,2026-04-24 00:30:00,599,1,0,0,0,4,4,Jaipur,Rajasthan,influencer,Ecom Express,1
+KT101902,2026-08-05 01:47:00,399,1,0,0,1,8,2,Bengaluru,Karnataka,influencer,Ecom Express,0
+KT100061,2026-08-16 08:59:00,399,1,0,0,8,8,6,Delhi,Delhi,meta_ads,BlueDart,1
+KT100011,2026-04-27 11:49:00,1497,3,0,0,11,4,0,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT101903,2026-09-12 12:59:00,1398,2,5,0,12,9,5,Bareilly,Uttar Pradesh,google_ads,Ecom Express,0
+KT101220,2026-07-02 06:22:00,349,1,0,0,6,7,3,Delhi,Delhi,direct,Delhivery,0
+KT100386,2026-05-09 09:19:00,599,1,0,0,9,5,5,Delhi,Delhi,direct,Shadowfax,1
+KT101055,2026-08-31 20:50:00,699,1,0,0,20,8,0,Gorakhpur,Uttar Pradesh,meta_ads,Delhivery,1
+KT101520,2026-07-02 01:35:00,698,2,0,0,1,7,3,Hyderabad,Telangana,direct,Shadowfax,0
+KT100443,2026-04-22 11:38:00,1846,4,0,0,11,4,2,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101133,2026-08-29 05:41:00,598,2,0,0,5,8,5,Chennai,Tamil Nadu,instagram_organic,Xpressbees,0
+KT101782,2026-06-03 20:36:00,399,1,5,1,20,6,2,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100614,2026-05-12 20:59:00,1497,3,0,0,20,5,1,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT101153,2026-07-22 17:00:00,1546,4,0,0,17,7,2,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT100804,2026-09-04 07:01:00,1597,3,0,0,7,9,4,Jaipur,Rajasthan,meta_ads,Shadowfax,1
+KT101726,2026-05-18 10:24:00,299,1,0,0,10,5,0,Mumbai,Maharashtra,meta_ads,BlueDart,0
+KT100000,2026-04-07 23:17:00,1796,4,0,0,23,4,1,Kolkata,West Bengal,meta_ads,Xpressbees,0
+KT100627,2026-06-24 08:55:00,349,1,0,0,8,6,2,Bengaluru,Karnataka,influencer,Shadowfax,0
+KT101710,2026-05-07 05:26:00,2999,1,0,0,5,5,3,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100759,2026-05-12 04:58:00,1547,3,3,2,4,5,1,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT100613,2026-07-27 07:06:00,1497,3,0,0,7,7,0,Jaipur,Rajasthan,whatsapp_broadcast,Delhivery,0
+KT100822,2026-08-09 10:04:00,2999,3,0,0,10,8,6,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101905,2026-09-24 12:47:00,1297,3,0,0,12,9,3,Hyderabad,Telangana,google_ads,Delhivery,0
+KT100997,2026-09-17 04:00:00,449,1,0,0,4,9,3,Bareilly,Uttar Pradesh,whatsapp_broadcast,Xpressbees,0
+KT101908,2026-09-19 23:20:00,1697,3,0,0,23,9,5,Hyderabad,Telangana,meta_ads,Shadowfax,1
+KT100416,2026-08-13 19:49:00,1497,3,5,0,19,8,3,Nagaon,Assam,direct,Delhivery,0
+KT101539,2026-07-06 20:41:00,2199,2,5,0,20,7,0,Patna,Bihar,instagram_organic,BlueDart,1
+KT101261,2026-06-25 14:14:00,299,1,4,1,14,6,3,Mumbai,Maharashtra,influencer,Xpressbees,0
+KT101066,2026-09-29 23:14:00,1347,3,0,0,23,9,1,Bengaluru,Karnataka,direct,Shadowfax,0
+KT101861,2026-08-24 11:59:00,798,2,0,0,11,8,0,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT101144,2026-06-18 19:44:00,449,1,0,0,19,6,3,Bengaluru,Karnataka,meta_ads,Shadowfax,1
+KT100736,2026-09-01 02:09:00,349,1,0,0,2,9,1,Kota,Rajasthan,whatsapp_broadcast,Delhivery,0
+KT100727,2026-08-15 13:52:00,499,1,0,0,13,8,5,Sagar,Madhya Pradesh,influencer,Ecom Express,0
+KT100577,2026-08-07 08:34:00,2046,4,0,0,8,8,4,Mumbai,Maharashtra,meta_ads,BlueDart,1
+KT100852,2026-07-01 04:36:00,349,1,0,0,4,7,2,Indore,Madhya Pradesh,instagram_organic,Xpressbees,0
+KT101741,2026-06-05 15:14:00,1098,2,0,0,15,6,4,Jaipur,Rajasthan,google_ads,Delhivery,0
+KT101159,2026-05-03 00:32:00,299,1,0,0,0,5,6,Chennai,Tamil Nadu,influencer,Xpressbees,0
+KT100769,2026-08-13 02:52:00,449,1,0,0,2,8,3,Delhi,Delhi,meta_ads,Ecom Express,0
+KT101412,2026-09-21 01:40:00,2999,4,0,0,1,9,0,Kota,Rajasthan,whatsapp_broadcast,Xpressbees,0
+KT100953,2026-06-07 11:48:00,798,2,0,0,11,6,6,Delhi,Delhi,direct,Xpressbees,0
+KT101691,2026-06-22 07:24:00,449,1,0,0,7,6,0,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT101448,2026-07-08 15:02:00,748,2,0,0,15,7,2,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT101050,2026-04-19 13:20:00,1097,3,0,0,13,4,6,Guwahati,Assam,google_ads,Delhivery,1
+KT101570,2026-04-29 06:04:00,1098,2,0,0,6,4,2,Mumbai,Maharashtra,whatsapp_broadcast,Xpressbees,0
+KT101696,2026-07-14 01:16:00,1347,3,0,0,1,7,1,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT101019,2026-08-17 22:09:00,1198,2,0,0,22,8,0,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT101704,2026-07-24 05:47:00,1247,3,1,0,5,7,4,Jaipur,Rajasthan,influencer,Xpressbees,0
+KT100630,2026-06-06 22:20:00,299,1,0,0,22,6,5,Bengaluru,Karnataka,whatsapp_broadcast,Xpressbees,0
+KT101318,2026-04-22 16:34:00,2999,3,0,0,16,4,2,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101819,2026-04-22 22:52:00,1198,2,0,0,22,4,2,Delhi,Delhi,influencer,Ecom Express,0
+KT100969,2026-05-12 15:39:00,748,2,0,0,15,5,1,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101017,2026-08-06 20:32:00,1547,3,0,0,20,8,3,Delhi,Delhi,google_ads,Delhivery,0
+KT100399,2026-04-17 10:14:00,499,1,0,0,10,4,4,Mumbai,Maharashtra,meta_ads,BlueDart,1
+KT101322,2026-07-30 13:15:00,1297,3,0,0,13,7,3,Hyderabad,Telangana,influencer,Shadowfax,0
+KT101016,2026-07-20 00:31:00,1447,3,4,1,0,7,0,Mumbai,Maharashtra,google_ads,Delhivery,1
+KT100856,2026-09-26 22:06:00,399,1,0,0,22,9,5,Mumbai,Maharashtra,influencer,Shadowfax,0
+KT100252,2026-09-29 14:17:00,948,2,3,0,14,9,1,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT101910,2026-05-10 06:37:00,2199,2,2,0,6,5,6,Delhi,Delhi,instagram_organic,Delhivery,1
+KT100718,2026-07-09 11:17:00,299,1,0,0,11,7,3,Lucknow,Uttar Pradesh,whatsapp_broadcast,Delhivery,1
+KT101652,2026-06-16 07:24:00,1048,2,0,0,7,6,1,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT101661,2026-05-07 17:26:00,1697,3,0,0,17,5,3,Kolkata,West Bengal,influencer,Xpressbees,0
+KT101786,2026-07-02 04:05:00,998,2,0,0,4,7,3,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,1
+KT100375,2026-07-13 08:35:00,349,1,0,0,8,7,0,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100501,2026-04-21 22:35:00,1247,3,0,0,22,4,1,Indore,Madhya Pradesh,google_ads,Delhivery,1
+KT100273,2026-05-30 06:06:00,948,2,0,0,6,5,5,Pune,Maharashtra,influencer,BlueDart,0
+KT100402,2026-09-08 14:07:00,948,2,0,0,14,9,1,Pune,Maharashtra,instagram_organic,BlueDart,0
+KT100549,2026-05-26 18:41:00,1647,3,0,0,18,5,1,Delhi,Delhi,google_ads,Delhivery,0
+KT101245,2026-06-03 22:48:00,848,2,2,0,22,6,2,Delhi,Delhi,instagram_organic,Delhivery,0
+KT101921,2026-04-10 20:02:00,1397,3,4,2,20,4,4,Gorakhpur,Uttar Pradesh,meta_ads,Ecom Express,1
+KT100141,2026-06-07 07:23:00,2199,1,4,2,7,6,6,Jaipur,Rajasthan,meta_ads,Xpressbees,1
+KT101334,2026-05-28 12:18:00,349,1,0,0,12,5,3,Lucknow,Uttar Pradesh,meta_ads,Delhivery,1
+KT100390,2026-06-02 22:51:00,449,1,4,0,22,6,1,Nagaon,Assam,direct,Xpressbees,1
+KT101583,2026-09-14 20:23:00,748,2,0,0,20,9,0,Pune,Maharashtra,influencer,Ecom Express,1
+KT101893,2026-05-10 17:13:00,1297,3,5,0,17,5,6,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100739,2026-07-13 03:00:00,699,1,4,0,3,7,0,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT101326,2026-04-15 22:57:00,349,1,0,0,22,4,2,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100426,2026-08-04 13:45:00,599,1,0,0,13,8,1,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100559,2026-04-17 11:28:00,848,2,0,0,11,4,4,Bengaluru,Karnataka,meta_ads,Shadowfax,1
+KT101347,2026-07-07 18:26:00,499,1,0,0,18,7,1,Bengaluru,Karnataka,instagram_organic,BlueDart,0
+KT100417,2026-07-31 14:20:00,699,1,1,0,14,7,4,Jaipur,Rajasthan,google_ads,Shadowfax,0
+KT101916,2026-09-28 16:36:00,1897,3,3,0,16,9,0,Kolkata,West Bengal,meta_ads,Shadowfax,0
+KT101442,2026-08-15 10:37:00,898,2,2,0,10,8,5,Darbhanga,Bihar,direct,Delhivery,1
+KT100394,2026-05-11 05:25:00,2999,2,0,0,5,5,0,Sagar,Madhya Pradesh,google_ads,Ecom Express,1
+KT100722,2026-07-06 02:34:00,499,1,0,0,2,7,0,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT101487,2026-05-04 09:25:00,599,1,0,0,9,5,0,Guwahati,Assam,meta_ads,Shadowfax,0
+KT101333,2026-05-30 22:31:00,2296,4,0,0,22,5,5,Jaipur,Rajasthan,whatsapp_broadcast,Shadowfax,0
+KT101634,2026-04-20 11:09:00,299,1,0,0,11,4,0,Kolkata,West Bengal,meta_ads,Delhivery,1
+KT100407,2026-08-15 05:51:00,2499,1,0,0,5,8,5,Indore,Madhya Pradesh,direct,Delhivery,0
+KT101783,2026-06-19 13:35:00,1297,3,0,0,13,6,4,Darbhanga,Bihar,whatsapp_broadcast,Shadowfax,0
+KT100607,2026-05-11 18:47:00,1796,4,0,0,18,5,0,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100783,2026-08-15 13:10:00,399,1,0,0,13,8,5,Pune,Maharashtra,meta_ads,Xpressbees,1
+KT100127,2026-05-22 19:55:00,1198,2,0,0,19,5,4,Lucknow,Uttar Pradesh,influencer,Shadowfax,0
+KT101887,2026-05-20 08:52:00,948,2,1,2,8,5,2,Lucknow,Uttar Pradesh,google_ads,Delhivery,1
+KT100244,2026-05-31 23:37:00,349,1,0,0,23,5,6,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101399,2026-08-29 17:43:00,299,1,3,0,17,8,5,Kolkata,West Bengal,influencer,Delhivery,0
+KT100837,2026-06-15 00:35:00,499,1,0,0,0,6,0,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT100550,2026-05-02 15:46:00,399,1,0,0,15,5,5,Bengaluru,Karnataka,whatsapp_broadcast,Ecom Express,0
+KT101953,2026-09-26 02:01:00,349,1,0,0,2,9,5,Indore,Madhya Pradesh,instagram_organic,Delhivery,0
+KT100655,2026-06-22 17:20:00,449,1,3,0,17,6,0,Chennai,Tamil Nadu,influencer,BlueDart,0
+KT101675,2026-08-27 15:05:00,798,2,1,0,15,8,3,Patna,Bihar,google_ads,BlueDart,0
+KT100600,2026-09-08 05:42:00,449,1,0,0,5,9,1,Chennai,Tamil Nadu,meta_ads,Xpressbees,1
+KT101060,2026-07-24 02:46:00,299,1,0,0,2,7,4,Guwahati,Assam,meta_ads,Delhivery,1
+KT100556,2026-09-22 12:40:00,998,2,0,0,12,9,1,Patna,Bihar,whatsapp_broadcast,Delhivery,1
+KT100980,2026-05-28 21:31:00,449,1,0,0,21,5,3,Pune,Maharashtra,google_ads,Shadowfax,0
+KT101454,2026-05-24 16:45:00,449,1,0,0,16,5,6,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT101463,2026-09-23 19:33:00,699,1,0,0,19,9,2,Delhi,Delhi,meta_ads,Ecom Express,0
+KT101842,2026-07-12 20:01:00,648,2,0,0,20,7,6,Kolkata,West Bengal,meta_ads,Shadowfax,1
+KT100871,2026-08-11 17:38:00,1447,3,3,0,17,8,1,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100779,2026-09-06 23:01:00,299,1,5,0,23,9,6,Mumbai,Maharashtra,direct,BlueDart,0
+KT100051,2026-09-21 05:01:00,399,1,4,0,5,9,0,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100488,2026-07-13 01:37:00,699,1,0,0,1,7,0,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101357,2026-06-13 05:33:00,399,1,0,0,5,6,5,Gorakhpur,Uttar Pradesh,direct,Shadowfax,0
+KT100591,2026-04-28 21:05:00,748,2,0,0,21,4,1,Darbhanga,Bihar,meta_ads,Ecom Express,1
+KT101593,2026-08-08 23:13:00,1048,2,1,0,23,8,5,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT100237,2026-08-26 10:35:00,449,1,4,1,10,8,2,Delhi,Delhi,google_ads,Xpressbees,0
+KT100698,2026-04-26 04:14:00,698,2,0,0,4,4,6,Bengaluru,Karnataka,meta_ads,Delhivery,1
+KT100569,2026-06-26 03:24:00,748,2,5,1,3,6,4,Kolkata,West Bengal,instagram_organic,Shadowfax,1
+KT101538,2026-04-24 22:33:00,399,1,0,0,22,4,4,Delhi,Delhi,google_ads,Xpressbees,0
+KT100096,2026-08-08 04:40:00,299,1,0,0,4,8,5,Chennai,Tamil Nadu,google_ads,Shadowfax,1
+KT101010,2026-09-19 16:41:00,499,1,0,0,16,9,5,Bareilly,Uttar Pradesh,meta_ads,Delhivery,1
+KT101760,2026-05-06 00:52:00,998,2,1,0,0,5,2,Patna,Bihar,influencer,Shadowfax,0
+KT100235,2026-06-17 02:08:00,1497,3,1,1,2,6,2,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101221,2026-06-14 17:38:00,449,1,2,1,17,6,6,Delhi,Delhi,meta_ads,Delhivery,0
+KT100795,2026-04-27 12:00:00,699,1,0,0,12,4,0,Chennai,Tamil Nadu,instagram_organic,Shadowfax,0
+KT100150,2026-07-09 09:14:00,1946,4,4,0,9,7,3,Bengaluru,Karnataka,direct,Shadowfax,0
+KT100706,2026-08-25 03:52:00,2999,2,0,0,3,8,1,Delhi,Delhi,instagram_organic,Ecom Express,0
+KT100181,2026-09-14 02:50:00,798,2,0,0,2,9,0,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101146,2026-09-07 06:20:00,599,1,0,0,6,9,0,Delhi,Delhi,direct,BlueDart,0
+KT101888,2026-05-30 19:18:00,1148,2,0,0,19,5,5,Darbhanga,Bihar,meta_ads,Delhivery,1
+KT101945,2026-05-19 02:11:00,399,1,0,0,2,5,1,Mumbai,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT100412,2026-08-17 12:48:00,1198,2,0,0,12,8,0,Hyderabad,Telangana,whatsapp_broadcast,Xpressbees,0
+KT100863,2026-05-20 13:58:00,499,1,1,0,13,5,2,Delhi,Delhi,instagram_organic,Shadowfax,0
+KT101598,2026-04-13 07:38:00,349,1,0,0,7,4,0,Sagar,Madhya Pradesh,google_ads,Delhivery,0
+KT101248,2026-08-14 21:56:00,948,2,0,0,21,8,4,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101165,2026-06-12 02:43:00,1899,1,0,0,2,6,4,Chennai,Tamil Nadu,whatsapp_broadcast,Shadowfax,0
+KT101065,2026-06-09 17:22:00,599,1,0,0,17,6,1,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101418,2026-04-25 09:59:00,1198,2,0,0,9,4,5,Bengaluru,Karnataka,influencer,Shadowfax,0
+KT101354,2026-04-28 13:18:00,748,2,0,0,13,4,1,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT101285,2026-05-20 15:52:00,399,1,0,0,15,5,2,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101206,2026-05-21 02:14:00,399,1,0,0,2,5,3,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100023,2026-07-19 09:36:00,798,2,0,0,9,7,6,Gorakhpur,Uttar Pradesh,meta_ads,BlueDart,0
+KT100229,2026-05-08 03:22:00,1899,1,2,1,3,5,4,Indore,Madhya Pradesh,direct,Shadowfax,0
+KT101315,2026-09-05 18:31:00,349,1,0,0,18,9,5,Pune,Maharashtra,google_ads,Delhivery,0
+KT101545,2026-09-22 11:47:00,699,1,0,0,11,9,1,Lucknow,Uttar Pradesh,google_ads,Xpressbees,0
+KT100965,2026-09-25 01:49:00,349,1,0,0,1,9,4,Jaipur,Rajasthan,instagram_organic,Delhivery,0
+KT100563,2026-07-11 19:33:00,699,1,0,0,19,7,5,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101523,2026-06-12 05:32:00,399,1,0,0,5,6,4,Hyderabad,Telangana,meta_ads,Delhivery,1
+KT100388,2026-04-07 17:17:00,349,1,4,0,17,4,1,Kolkata,West Bengal,whatsapp_broadcast,Shadowfax,0
+KT101276,2026-07-23 20:28:00,1696,4,0,0,20,7,3,Lucknow,Uttar Pradesh,direct,Delhivery,0
+KT101656,2026-05-18 13:46:00,1447,3,0,0,13,5,0,Bengaluru,Karnataka,instagram_organic,Shadowfax,0
+KT101099,2026-05-19 18:51:00,1397,3,2,0,18,5,1,Delhi,Delhi,google_ads,Delhivery,0
+KT100890,2026-07-16 16:59:00,2499,1,4,0,16,7,3,Hyderabad,Telangana,google_ads,Delhivery,0
+KT100921,2026-06-07 10:07:00,1098,2,0,0,10,6,6,Darbhanga,Bihar,whatsapp_broadcast,Shadowfax,1
+KT100242,2026-05-09 18:03:00,1298,2,0,0,18,5,5,Sagar,Madhya Pradesh,google_ads,Ecom Express,1
+KT101622,2026-09-04 10:56:00,1247,3,0,0,10,9,4,Patna,Bihar,meta_ads,Delhivery,1
+KT101047,2026-04-07 05:37:00,1197,3,0,0,5,4,1,Mumbai,Maharashtra,google_ads,Ecom Express,0
+KT101839,2026-08-01 23:00:00,449,1,0,0,23,8,5,Bengaluru,Karnataka,meta_ads,BlueDart,1
+KT100677,2026-05-05 08:22:00,798,2,0,0,8,5,1,Nagaon,Assam,meta_ads,BlueDart,0
+KT101020,2026-09-25 07:26:00,399,1,0,0,7,9,4,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT101015,2026-04-18 15:05:00,699,1,2,0,15,4,5,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT101936,2026-08-31 00:31:00,399,1,0,0,0,8,0,Jaipur,Rajasthan,influencer,Xpressbees,0
+KT100513,2026-05-16 01:27:00,748,2,0,0,1,5,5,Delhi,Delhi,meta_ads,Delhivery,1
+KT100693,2026-04-20 06:28:00,699,1,0,0,6,4,0,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101568,2026-05-02 01:53:00,349,1,0,0,1,5,5,Pune,Maharashtra,instagram_organic,Delhivery,0
+KT100918,2026-05-20 21:53:00,499,1,0,0,21,5,2,Guwahati,Assam,whatsapp_broadcast,Xpressbees,1
+KT101145,2026-06-09 22:01:00,449,1,0,0,22,6,1,Hyderabad,Telangana,direct,Shadowfax,0
+KT100022,2026-09-26 04:40:00,2046,4,0,0,4,9,5,Chennai,Tamil Nadu,direct,Shadowfax,0
+KT101915,2026-07-04 15:57:00,349,1,5,0,15,7,5,Hyderabad,Telangana,instagram_organic,Xpressbees,0
+KT100588,2026-06-14 22:05:00,998,2,0,0,22,6,6,Pune,Maharashtra,instagram_organic,Xpressbees,0
+KT101867,2026-07-12 19:36:00,848,2,0,0,19,7,6,Delhi,Delhi,google_ads,Shadowfax,0
+KT101692,2026-09-04 15:48:00,399,1,0,0,15,9,4,Hyderabad,Telangana,influencer,BlueDart,0
+KT101565,2026-06-09 08:06:00,1148,2,0,0,8,6,1,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101913,2026-04-11 09:38:00,1147,3,0,0,9,4,5,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT100498,2026-07-13 06:10:00,299,1,4,1,6,7,0,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT100665,2026-07-12 18:15:00,699,1,5,0,18,7,6,Lucknow,Uttar Pradesh,direct,Delhivery,1
+KT101830,2026-08-30 14:02:00,898,2,0,0,14,8,6,Pune,Maharashtra,meta_ads,Delhivery,0
+KT150806,2026-07-01 07:44:00,499,1,2,0,7,7,2,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100927,2026-09-27 02:16:00,399,1,0,0,2,9,6,Pune,Maharashtra,meta_ads,Delhivery,1
+KT101929,2026-05-09 11:01:00,1147,3,0,0,11,5,5,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT101721,2026-07-22 15:04:00,699,1,0,0,15,7,2,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101488,2026-08-11 09:07:00,1447,3,1,0,9,8,1,Delhi,Delhi,meta_ads,Shadowfax,1
+KT100908,2026-04-10 03:29:00,748,2,4,0,3,4,4,Mumbai,Maharashtra,meta_ads,BlueDart,0
+KT100211,2026-05-18 21:22:00,399,1,3,2,21,5,0,Kolkata,West Bengal,meta_ads,BlueDart,1
+KT100311,2026-05-11 00:09:00,1148,2,0,0,0,5,0,Guwahati,Assam,whatsapp_broadcast,Xpressbees,0
+KT101706,2026-07-20 07:19:00,599,1,0,0,7,7,0,Delhi,Delhi,instagram_organic,BlueDart,0
+KT101076,2026-06-28 21:48:00,898,2,0,0,21,6,6,Bengaluru,Karnataka,instagram_organic,BlueDart,0
+KT100019,2026-04-27 22:49:00,1797,3,0,0,22,4,0,Kolkata,West Bengal,google_ads,Ecom Express,1
+KT100130,2026-05-25 21:27:00,599,1,0,0,21,5,0,Kolkata,West Bengal,meta_ads,Xpressbees,0
+KT100678,2026-07-26 08:01:00,499,1,0,0,8,7,6,Bengaluru,Karnataka,whatsapp_broadcast,BlueDart,1
+KT100742,2026-08-29 07:57:00,699,1,0,0,7,8,5,Bengaluru,Karnataka,direct,Xpressbees,1
+KT101561,2026-07-20 23:11:00,898,2,0,0,23,7,0,Indore,Madhya Pradesh,influencer,Delhivery,1
+KT100763,2026-07-14 06:02:00,948,2,0,0,6,7,1,Bareilly,Uttar Pradesh,whatsapp_broadcast,Delhivery,1
+KT101610,2026-04-27 23:41:00,1198,2,0,0,23,4,0,Delhi,Delhi,influencer,Ecom Express,0
+KT100084,2026-05-27 09:02:00,699,1,0,0,9,5,2,Mumbai,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT101793,2026-04-11 12:13:00,1048,2,0,0,12,4,5,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT101611,2026-04-30 04:27:00,449,1,1,0,4,4,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100420,2026-06-02 18:31:00,399,1,3,0,18,6,1,Mumbai,Maharashtra,direct,Ecom Express,0
+KT100456,2026-06-06 07:15:00,1298,2,1,0,7,6,5,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT101433,2026-09-04 00:36:00,599,1,0,0,0,9,4,Mumbai,Maharashtra,google_ads,Delhivery,1
+KT100575,2026-07-23 10:34:00,499,1,0,0,10,7,3,Pune,Maharashtra,google_ads,BlueDart,1
+KT100517,2026-07-06 22:48:00,349,1,1,0,22,7,0,Delhi,Delhi,meta_ads,Shadowfax,0
+KT100734,2026-09-02 19:33:00,299,1,0,0,19,9,2,Patna,Bihar,direct,Delhivery,0
+KT101192,2026-05-14 16:35:00,1447,3,0,0,16,5,3,Delhi,Delhi,meta_ads,Xpressbees,0
+KT100248,2026-08-17 18:48:00,1347,3,5,0,18,8,0,Bengaluru,Karnataka,whatsapp_broadcast,Ecom Express,0
+KT101497,2026-09-18 10:28:00,748,2,0,0,10,9,4,Indore,Madhya Pradesh,instagram_organic,Xpressbees,0
+KT101100,2026-06-07 13:47:00,2146,4,0,0,13,6,6,Hyderabad,Telangana,instagram_organic,Delhivery,0
+KT100512,2026-05-21 12:18:00,1197,3,0,0,12,5,3,Guwahati,Assam,meta_ads,Delhivery,1
+KT100534,2026-04-27 12:30:00,1198,2,0,0,12,4,0,Bengaluru,Karnataka,google_ads,Ecom Express,0
+KT101282,2026-09-17 15:11:00,1397,3,0,0,15,9,3,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,1
+KT101332,2026-08-20 04:49:00,699,1,0,0,4,8,3,Kolkata,West Bengal,whatsapp_broadcast,Delhivery,0
+KT101677,2026-09-09 18:26:00,399,1,0,0,18,9,2,Lucknow,Uttar Pradesh,influencer,Shadowfax,1
+KT100139,2026-07-07 11:37:00,349,1,0,0,11,7,1,Patna,Bihar,instagram_organic,Delhivery,1
+KT100631,2026-09-20 21:25:00,399,1,0,0,21,9,6,Lucknow,Uttar Pradesh,influencer,Delhivery,1
+KT100660,2026-05-30 21:45:00,699,1,0,0,21,5,5,Chennai,Tamil Nadu,meta_ads,Ecom Express,1
+KT101072,2026-06-10 14:58:00,1697,3,0,0,14,6,2,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,0
+KT101447,2026-05-10 05:50:00,998,2,0,0,5,5,6,Indore,Madhya Pradesh,whatsapp_broadcast,Xpressbees,1
+KT101449,2026-09-28 13:48:00,798,2,1,1,13,9,0,Pune,Maharashtra,google_ads,Xpressbees,0
+KT101265,2026-05-03 21:50:00,798,2,0,0,21,5,6,Patna,Bihar,whatsapp_broadcast,Ecom Express,0
+KT100503,2026-06-14 11:08:00,798,2,0,0,11,6,6,Patna,Bihar,instagram_organic,BlueDart,0
+KT101934,2026-06-06 14:48:00,1048,2,0,0,14,6,5,Kolkata,West Bengal,direct,Delhivery,0
+KT100305,2026-07-04 04:57:00,2296,4,0,0,4,7,5,Lucknow,Uttar Pradesh,direct,Shadowfax,1
+KT100754,2026-04-25 08:44:00,748,2,0,0,8,4,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101085,2026-06-19 18:44:00,998,2,0,0,18,6,4,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT101312,2026-05-19 02:25:00,699,1,2,1,2,5,1,Bareilly,Uttar Pradesh,meta_ads,Shadowfax,1
+KT101241,2026-04-21 01:24:00,1796,4,0,0,1,4,1,Chennai,Tamil Nadu,google_ads,Ecom Express,1
+KT100070,2026-05-19 23:07:00,499,1,0,0,23,5,1,Delhi,Delhi,meta_ads,Delhivery,0
+KT100935,2026-06-19 02:16:00,1048,2,0,0,2,6,4,Delhi,Delhi,whatsapp_broadcast,Ecom Express,0
+KT100943,2026-09-01 04:31:00,1148,2,0,0,4,9,1,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,1
+KT101803,2026-08-08 16:57:00,299,1,0,0,16,8,5,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100576,2026-07-18 05:54:00,1899,1,2,0,5,7,5,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100874,2026-05-26 16:16:00,1696,4,0,0,16,5,1,Nagaon,Assam,instagram_organic,Delhivery,0
+KT101262,2026-05-11 19:23:00,748,2,5,0,19,5,0,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT101828,2026-07-27 16:21:00,1197,3,0,0,16,7,0,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100991,2026-09-05 17:43:00,499,1,0,0,17,9,5,Kolkata,West Bengal,whatsapp_broadcast,Xpressbees,0
+KT100028,2026-04-12 10:47:00,1098,2,0,0,10,4,6,Indore,Madhya Pradesh,meta_ads,Ecom Express,0
+KT100014,2026-09-06 10:05:00,299,1,0,0,10,9,6,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101203,2026-06-26 08:02:00,748,2,0,0,8,6,4,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT101761,2026-09-23 20:13:00,2499,2,2,1,20,9,2,Delhi,Delhi,direct,Xpressbees,0
+KT101856,2026-07-27 02:29:00,2346,4,0,0,2,7,0,Lucknow,Uttar Pradesh,meta_ads,Delhivery,0
+KT100817,2026-07-14 20:08:00,399,1,0,0,20,7,1,Mumbai,Maharashtra,instagram_organic,Ecom Express,1
+KT150767,2026-06-11 05:31:00,2999,3,0,0,5,6,3,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101678,2026-05-29 03:22:00,299,1,0,0,3,5,4,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT100475,2026-07-19 20:31:00,399,1,0,0,20,7,6,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT100288,2026-05-21 23:41:00,1946,4,5,0,23,5,3,Pune,Maharashtra,direct,Delhivery,0
+KT101602,2026-09-24 14:59:00,1747,3,0,0,14,9,3,Pune,Maharashtra,direct,Delhivery,0
+KT101933,2026-09-08 11:55:00,499,1,0,0,11,9,1,Delhi,Delhi,meta_ads,Delhivery,0
+KT100430,2026-07-09 14:07:00,748,2,0,0,14,7,3,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101804,2026-08-04 07:30:00,399,1,5,0,7,8,1,Pune,Maharashtra,meta_ads,BlueDart,0
+KT100944,2026-08-01 04:45:00,998,2,0,0,4,8,5,Mumbai,Maharashtra,instagram_organic,Xpressbees,0
+KT100922,2026-08-02 18:30:00,599,1,0,0,18,8,6,Mumbai,Maharashtra,direct,Shadowfax,0
+KT101083,2026-09-30 10:47:00,1797,3,2,0,10,9,2,Chennai,Tamil Nadu,google_ads,Shadowfax,0
+KT100367,2026-09-01 11:34:00,399,1,0,0,11,9,1,Kolkata,West Bengal,direct,Delhivery,0
+KT100966,2026-06-21 11:42:00,449,1,0,0,11,6,6,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT101063,2026-09-02 10:16:00,2999,1,0,0,10,9,2,Delhi,Delhi,direct,BlueDart,1
+KT101107,2026-09-18 21:21:00,499,1,0,0,21,9,4,Sagar,Madhya Pradesh,google_ads,Shadowfax,0
+KT101162,2026-06-03 21:13:00,848,2,0,0,21,6,2,Pune,Maharashtra,instagram_organic,Delhivery,0
+KT100292,2026-07-18 02:35:00,1896,4,0,0,2,7,5,Lucknow,Uttar Pradesh,influencer,Xpressbees,1
+KT100947,2026-04-09 16:47:00,499,1,0,0,16,4,3,Bengaluru,Karnataka,google_ads,BlueDart,0
+KT101441,2026-08-02 22:07:00,848,2,0,0,22,8,6,Gorakhpur,Uttar Pradesh,google_ads,Delhivery,1
+KT100471,2026-06-07 13:03:00,499,1,0,0,13,6,6,Delhi,Delhi,meta_ads,Ecom Express,1
+KT100163,2026-09-05 23:33:00,699,1,3,1,23,9,5,Hyderabad,Telangana,influencer,Xpressbees,0
+KT100473,2026-06-22 07:36:00,998,2,2,1,7,6,0,Patna,Bihar,influencer,Delhivery,0
+KT100986,2026-04-19 17:41:00,349,1,2,0,17,4,6,Lucknow,Uttar Pradesh,direct,Delhivery,1
+KT101701,2026-08-02 14:39:00,399,1,0,0,14,8,6,Kolkata,West Bengal,meta_ads,BlueDart,0
+KT100470,2026-04-29 16:42:00,499,1,0,0,16,4,2,Patna,Bihar,direct,Ecom Express,0
+KT100343,2026-08-10 11:08:00,299,1,0,0,11,8,0,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT101216,2026-07-13 18:58:00,349,1,0,0,18,7,0,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101492,2026-05-20 14:34:00,1646,4,5,1,14,5,2,Bengaluru,Karnataka,whatsapp_broadcast,Shadowfax,0
+KT100140,2026-09-04 08:43:00,1899,2,0,0,8,9,4,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT100185,2026-04-23 07:30:00,898,2,0,0,7,4,3,Darbhanga,Bihar,meta_ads,Delhivery,1
+KT100507,2026-06-04 22:51:00,1397,3,0,0,22,6,3,Indore,Madhya Pradesh,whatsapp_broadcast,Xpressbees,0
+KT100674,2026-04-08 01:06:00,699,1,0,0,1,4,2,Kolkata,West Bengal,influencer,Ecom Express,0
+KT100136,2026-04-27 22:33:00,698,2,0,0,22,4,0,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100522,2026-05-01 23:58:00,1397,3,0,0,23,5,4,Kota,Rajasthan,google_ads,Xpressbees,0
+KT101097,2026-07-27 03:18:00,798,2,0,0,3,7,0,Delhi,Delhi,direct,Shadowfax,1
+KT101756,2026-08-27 05:17:00,598,2,2,0,5,8,3,Pune,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101182,2026-06-12 20:45:00,648,2,0,0,20,6,4,Lucknow,Uttar Pradesh,direct,Shadowfax,0
+KT100250,2026-05-31 15:32:00,848,2,0,0,15,5,6,Kolkata,West Bengal,direct,BlueDart,0
+KT101305,2026-05-10 11:28:00,1899,2,3,0,11,5,6,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101355,2026-06-18 23:37:00,798,2,4,0,23,6,3,Jaipur,Rajasthan,meta_ads,Xpressbees,0
+KT100622,2026-05-06 00:16:00,499,1,1,0,0,5,2,Lucknow,Uttar Pradesh,whatsapp_broadcast,Shadowfax,0
+KT100177,2026-04-24 14:32:00,1298,2,5,0,14,4,4,Lucknow,Uttar Pradesh,meta_ads,Delhivery,1
+KT101185,2026-07-24 10:50:00,399,1,0,0,10,7,4,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100038,2026-06-11 18:14:00,349,1,0,0,18,6,3,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT101386,2026-07-08 04:07:00,2499,1,0,0,4,7,2,Hyderabad,Telangana,instagram_organic,Delhivery,0
+KT101343,2026-06-11 00:36:00,699,1,0,0,0,6,3,Hyderabad,Telangana,direct,Shadowfax,0
+KT101717,2026-08-16 09:11:00,699,1,4,0,9,8,6,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT100027,2026-07-26 17:09:00,1098,2,0,0,17,7,6,Pune,Maharashtra,google_ads,Xpressbees,0
+KT101935,2026-07-05 04:30:00,848,2,1,1,4,7,6,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT101094,2026-05-16 01:03:00,299,1,0,0,1,5,5,Patna,Bihar,instagram_organic,BlueDart,0
+KT100033,2026-05-30 15:01:00,898,2,0,0,15,5,5,Mumbai,Maharashtra,direct,BlueDart,0
+KT100199,2026-08-30 15:53:00,599,1,0,0,15,8,6,Kota,Rajasthan,google_ads,Delhivery,0
+KT100331,2026-08-26 00:58:00,1097,3,0,0,0,8,2,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101707,2026-05-19 15:27:00,399,1,0,0,15,5,1,Pune,Maharashtra,google_ads,Shadowfax,0
+KT101771,2026-04-30 00:55:00,599,1,5,0,0,4,3,Bengaluru,Karnataka,influencer,Shadowfax,0
+KT100077,2026-05-06 08:19:00,399,1,0,0,8,5,2,Hyderabad,Telangana,google_ads,Shadowfax,0
+KT100162,2026-08-31 18:32:00,699,1,3,1,18,8,0,Delhi,Delhi,google_ads,Shadowfax,0
+KT100598,2026-07-09 02:02:00,699,1,5,2,2,7,3,Bengaluru,Karnataka,google_ads,BlueDart,1
+KT100296,2026-04-29 10:58:00,299,1,0,0,10,4,2,Hyderabad,Telangana,meta_ads,Shadowfax,1
+KT100309,2026-05-08 10:09:00,798,2,0,0,10,5,4,Indore,Madhya Pradesh,google_ads,Xpressbees,0
+KT100109,2026-09-22 22:25:00,1347,3,2,0,22,9,1,Bengaluru,Karnataka,influencer,Delhivery,0
+KT101018,2026-04-28 23:43:00,2999,3,0,0,23,4,1,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101365,2026-06-06 03:47:00,698,2,0,0,3,6,5,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT100972,2026-05-04 09:06:00,1547,3,3,1,9,5,0,Guwahati,Assam,meta_ads,Delhivery,0
+KT101450,2026-07-05 13:49:00,1098,2,3,0,13,7,6,Kolkata,West Bengal,google_ads,Shadowfax,0
+KT100189,2026-05-18 03:44:00,698,2,4,0,3,5,0,Patna,Bihar,instagram_organic,Delhivery,1
+KT101694,2026-09-01 06:13:00,1797,3,0,0,6,9,1,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,0
+KT101872,2026-09-11 07:28:00,798,2,0,0,7,9,4,Guwahati,Assam,meta_ads,Delhivery,1
+KT101831,2026-05-01 05:21:00,599,1,4,1,5,5,4,Mumbai,Maharashtra,meta_ads,Delhivery,1
+KT101396,2026-06-01 18:21:00,299,1,0,0,18,6,0,Bareilly,Uttar Pradesh,meta_ads,Delhivery,1
+KT100370,2026-04-22 02:04:00,1596,4,0,0,2,4,2,Bengaluru,Karnataka,instagram_organic,BlueDart,0
+KT100104,2026-08-05 12:22:00,349,1,0,0,12,8,2,Darbhanga,Bihar,influencer,Delhivery,1
+KT101862,2026-04-10 14:13:00,299,1,0,0,14,4,4,Guwahati,Assam,instagram_organic,Xpressbees,0
+KT100466,2026-06-05 22:30:00,748,2,0,0,22,6,4,Hyderabad,Telangana,whatsapp_broadcast,Delhivery,0
+KT101330,2026-04-20 21:51:00,898,2,0,0,21,4,0,Guwahati,Assam,meta_ads,Shadowfax,0
+KT101466,2026-07-06 02:26:00,1048,2,0,0,2,7,0,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100293,2026-06-09 04:55:00,1897,3,0,0,4,6,1,Bengaluru,Karnataka,direct,Shadowfax,1
+KT100896,2026-09-16 23:25:00,748,2,0,0,23,9,2,Delhi,Delhi,direct,Ecom Express,0
+KT100142,2026-05-11 02:17:00,499,1,0,0,2,5,0,,Rajasthan,instagram_organic,Delhivery,1
+KT101621,2026-09-07 08:23:00,998,2,0,0,8,9,0,Delhi,Delhi,meta_ads,Delhivery,0
+KT101101,2026-08-26 17:57:00,449,1,0,0,17,8,2,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101260,2026-09-20 01:52:00,399,1,0,0,1,9,6,Delhi,Delhi,meta_ads,Delhivery,0
+KT101179,2026-04-02 20:09:00,449,1,3,0,20,4,3,Mumbai,Maharashtra,google_ads,Delhivery,0
+KT101825,2026-06-09 20:36:00,449,1,0,0,20,6,1,Bengaluru,Karnataka,google_ads,Ecom Express,1
+KT100536,2026-07-13 16:49:00,599,1,0,0,16,7,0,Delhi,Delhi,meta_ads,Delhivery,0
+KT100003,2026-07-29 16:16:00,499,1,0,0,16,7,2,Kolkata,West Bengal,meta_ads,Xpressbees,0
+KT101231,2026-09-18 17:35:00,1298,2,0,0,17,9,4,Kota,Rajasthan,whatsapp_broadcast,Xpressbees,1
+KT100321,2026-09-14 14:26:00,299,1,0,0,14,9,0,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT151799,2026-08-29 11:21:00,449,1,0,0,11,8,5,Chennai,Tamil Nadu,instagram_organic,Xpressbees,0
+KT101339,2026-09-17 22:25:00,798,2,2,0,22,9,3,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT100981,2026-09-30 16:20:00,698,2,0,0,16,9,2,Delhi,Delhi,meta_ads,Delhivery,0
+KT101857,2026-04-22 05:57:00,299,1,0,0,5,4,2,Delhi,Delhi,meta_ads,Ecom Express,0
+KT101008,2026-05-28 07:22:00,848,2,0,0,7,5,3,Delhi,Delhi,direct,Xpressbees,0
+KT100052,2026-09-14 08:15:00,1796,4,0,0,8,9,0,,Telangana,meta_ads,Ecom Express,0
+KT101514,2026-09-16 21:10:00,998,2,0,0,21,9,2,Delhi,Delhi,whatsapp_broadcast,Shadowfax,0
+KT101889,2026-06-12 08:57:00,399,1,0,0,8,6,4,Delhi,Delhi,google_ads,Shadowfax,0
+KT101480,2026-05-07 20:12:00,1547,3,5,0,20,5,3,Sagar,Madhya Pradesh,meta_ads,Delhivery,0
+KT101188,2026-06-03 17:42:00,699,1,0,0,17,6,2,Mumbai,Maharashtra,direct,Delhivery,1
+KT101247,2026-08-21 04:58:00,848,2,2,0,4,8,4,Darbhanga,Bihar,meta_ads,Delhivery,0
+KT101164,2026-06-18 23:17:00,599,1,0,0,23,6,3,Hyderabad,Telangana,influencer,BlueDart,0
+KT100745,2026-09-15 12:02:00,848,2,0,0,12,9,1,Mumbai,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT100882,2026-09-01 16:36:00,1198,2,0,0,16,9,1,Kolkata,West Bengal,direct,Shadowfax,0
+KT100457,2026-09-30 22:26:00,748,2,0,0,22,9,2,Mumbai,Maharashtra,direct,Delhivery,0
+KT101401,2026-09-04 18:22:00,599,1,0,0,18,9,4,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100950,2026-09-04 10:53:00,1397,3,0,0,10,9,4,Pune,Maharashtra,meta_ads,BlueDart,0
+KT101848,2026-07-04 03:02:00,1198,2,0,0,3,7,5,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT100121,2026-09-15 10:00:00,399,1,0,0,10,9,1,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT101886,2026-07-26 00:41:00,748,2,4,0,0,7,6,Jaipur,Rajasthan,whatsapp_broadcast,Delhivery,0
+KT100306,2026-09-12 01:08:00,699,1,3,0,1,9,5,Kolkata,West Bengal,influencer,Shadowfax,1
+KT100401,2026-05-21 03:34:00,599,1,0,0,3,5,3,Mumbai,Maharashtra,google_ads,Delhivery,0
+KT100905,2026-09-04 01:31:00,798,2,0,0,1,9,4,Bengaluru,Karnataka,influencer,Shadowfax,1
+KT100628,2026-05-26 18:42:00,699,1,0,0,18,5,1,Lucknow,Uttar Pradesh,meta_ads,Delhivery,1
+KT101061,2026-08-31 12:59:00,599,1,0,0,12,8,0,Delhi,Delhi,instagram_organic,Delhivery,0
+KT100458,2026-09-02 20:42:00,1048,2,0,0,20,9,2,Mumbai,Maharashtra,influencer,Delhivery,0
+KT100696,2026-08-12 08:57:00,449,1,0,0,8,8,2,Patna,Bihar,influencer,Ecom Express,0
+KT100409,2026-04-07 04:56:00,2046,4,0,0,4,4,1,Indore,Madhya Pradesh,meta_ads,BlueDart,1
+KT101512,2026-08-30 15:55:00,699,1,0,0,15,8,6,Sagar,Madhya Pradesh,meta_ads,Ecom Express,0
+KT101012,2026-04-10 11:45:00,599,1,0,0,11,4,4,Chennai,Tamil Nadu,google_ads,Delhivery,0
+KT101077,2026-05-24 07:31:00,449,1,0,0,7,5,6,Lucknow,Uttar Pradesh,instagram_organic,Shadowfax,1
+KT101670,2026-05-02 07:50:00,1048,2,0,0,7,5,5,Delhi,Delhi,influencer,Shadowfax,0
+KT101051,2026-09-01 13:35:00,699,1,0,0,13,9,1,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT101737,2026-04-23 21:24:00,349,1,0,0,21,4,3,Indore,Madhya Pradesh,influencer,Xpressbees,1
+KT100233,2026-04-20 01:32:00,1048,2,4,0,1,4,0,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100847,2026-09-15 14:25:00,449,1,5,2,14,9,1,Chennai,Tamil Nadu,meta_ads,Delhivery,1
+KT101131,2026-08-21 21:01:00,1547,3,0,0,21,8,4,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT101647,2026-09-05 16:57:00,299,1,0,0,16,9,5,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101730,2026-04-19 05:58:00,499,1,0,0,5,4,6,Sagar,Madhya Pradesh,meta_ads,Ecom Express,0
+KT101079,2026-08-20 17:42:00,2199,2,0,0,17,8,3,Darbhanga,Bihar,google_ads,Shadowfax,0
+KT100113,2026-04-15 19:25:00,349,1,0,0,19,4,2,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT101850,2026-08-23 18:29:00,299,1,5,0,18,8,6,Delhi,Delhi,direct,Ecom Express,0
+KT101048,2026-04-21 16:27:00,349,1,0,0,16,4,1,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT100157,2026-07-03 19:15:00,599,1,0,0,19,7,4,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT101894,2026-07-01 21:16:00,399,1,0,0,21,7,2,Pune,Maharashtra,direct,Delhivery,0
+KT100124,2026-08-20 13:53:00,1697,3,0,0,13,8,3,Lucknow,Uttar Pradesh,influencer,Xpressbees,0
+KT100773,2026-05-24 03:04:00,699,1,0,0,3,5,6,Chennai,Tamil Nadu,google_ads,Xpressbees,0
+KT101606,2026-07-21 21:12:00,748,2,0,0,21,7,1,Mumbai,Maharashtra,direct,Delhivery,0
+KT101882,2026-06-19 20:55:00,599,1,5,1,20,6,4,Bengaluru,Karnataka,influencer,Shadowfax,1
+KT100349,2026-05-20 02:37:00,1397,3,2,0,2,5,2,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT100988,2026-08-27 10:08:00,449,1,0,0,10,8,3,Hyderabad,Telangana,instagram_organic,Delhivery,1
+KT101548,2026-09-24 19:10:00,399,1,0,0,19,9,3,Pune,Maharashtra,meta_ads,Ecom Express,1
+KT100152,2026-04-02 17:23:00,399,1,5,0,17,4,3,Chennai,Tamil Nadu,instagram_organic,Shadowfax,0
+KT100361,2026-05-17 14:00:00,349,1,3,1,14,5,6,Lucknow,Uttar Pradesh,direct,BlueDart,0
+KT100449,2026-07-14 14:56:00,1247,3,0,0,14,7,1,Jaipur,Rajasthan,google_ads,Delhivery,0
+KT101624,2026-04-05 00:45:00,1846,4,0,0,0,4,6,Kolkata,West Bengal,meta_ads,Shadowfax,1
+KT100243,2026-07-09 23:46:00,1298,2,0,0,23,7,3,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT101875,2026-08-20 13:20:00,699,1,0,0,13,8,3,Chennai,Tamil Nadu,meta_ads,Shadowfax,1
+KT151207,2026-09-05 10:52:00,1098,2,0,0,10,9,5,Pune,Maharashtra,meta_ads,Shadowfax,1
+KT100691,2026-05-18 07:55:00,1746,4,1,0,7,5,0,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100713,2026-06-25 20:32:00,349,1,0,0,20,6,3,Darbhanga,Bihar,meta_ads,Delhivery,1
+KT100344,2026-08-05 04:14:00,399,1,0,0,4,8,2,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT101148,2026-09-24 14:42:00,349,1,0,0,14,9,3,Delhi,Delhi,meta_ads,Ecom Express,0
+KT102001,2026-05-13 13:31:00,499,1,0,0,13,5,2,Madhubani,Bihar,meta_ads,Delhivery,1
+KT101129,2026-05-08 21:43:00,1198,2,5,2,21,5,4,Guwahati,Assam,whatsapp_broadcast,Shadowfax,0
+KT101785,2026-08-08 00:02:00,349,1,0,0,0,8,5,Patna,Bihar,influencer,Delhivery,0
+KT101106,2026-08-24 23:42:00,449,1,0,0,23,8,0,Sagar,Madhya Pradesh,google_ads,Shadowfax,0
+KT100568,2026-09-12 07:11:00,299,1,0,0,7,9,5,Darbhanga,Bihar,instagram_organic,Delhivery,0
+KT101382,2026-08-08 21:58:00,299,1,0,0,21,8,5,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101435,2026-06-30 13:06:00,499,1,4,0,13,6,1,Lucknow,Uttar Pradesh,influencer,Delhivery,0
+KT101745,2026-05-11 13:20:00,898,2,0,0,13,5,0,Darbhanga,Bihar,meta_ads,Ecom Express,0
+KT101004,2026-08-08 15:28:00,2196,4,0,0,15,8,5,Delhi,Delhi,influencer,Delhivery,0
+KT101210,2026-09-21 23:21:00,399,1,0,0,23,9,0,Mumbai,Maharashtra,meta_ads,Ecom Express,1
+KT101748,2026-07-20 10:47:00,499,1,4,0,10,7,0,Kolkata,West Bengal,meta_ads,Shadowfax,0
+KT100274,2026-04-05 19:58:00,599,1,0,0,19,4,6,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100262,2026-06-15 04:20:00,948,2,3,1,4,6,0,Hyderabad,Telangana,influencer,Shadowfax,0
+KT101420,2026-09-01 08:21:00,449,1,5,0,8,9,1,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,0
+KT100362,2026-08-21 07:45:00,449,1,0,0,7,8,4,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101289,2026-05-21 15:36:00,2999,1,0,0,15,5,3,Kota,Rajasthan,meta_ads,Ecom Express,1
+KT101629,2026-07-02 08:53:00,349,1,1,0,8,7,3,Hyderabad,Telangana,whatsapp_broadcast,BlueDart,0
+KT100707,2026-07-03 13:54:00,748,2,0,0,13,7,4,Pune,Maharashtra,meta_ads,Delhivery,1
+KT100175,2026-07-11 23:36:00,1098,2,0,0,23,7,5,Bengaluru,Karnataka,meta_ads,Delhivery,1
+KT100884,2026-04-09 09:31:00,1048,2,0,0,9,4,3,Hyderabad,Telangana,meta_ads,Shadowfax,1
+KT101919,2026-04-30 20:10:00,1197,3,1,1,20,4,3,Bengaluru,Karnataka,google_ads,Ecom Express,0
+KT150226,2026-09-21 06:29:00,1647,3,1,0,6,9,0,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT101642,2026-09-02 07:43:00,399,1,0,0,7,9,2,Bareilly,Uttar Pradesh,meta_ads,Delhivery,1
+KT100539,2026-04-10 20:34:00,1497,3,0,0,20,4,4,Pune,Maharashtra,meta_ads,BlueDart,0
+KT100521,2026-09-04 16:31:00,1048,2,0,0,16,9,4,Sagar,Madhya Pradesh,whatsapp_broadcast,Delhivery,1
+KT101524,2026-04-14 21:49:00,2499,2,0,0,21,4,1,Mumbai,Maharashtra,influencer,Ecom Express,1
+KT101788,2026-04-13 19:16:00,399,1,4,2,19,4,0,Bengaluru,Karnataka,direct,Shadowfax,1
+KT101847,2026-07-28 23:56:00,1447,3,0,0,23,7,1,Kolkata,West Bengal,direct,Shadowfax,0
+KT101198,2026-05-28 15:10:00,2446,4,5,1,15,5,3,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT100541,2026-08-26 05:25:00,699,1,0,0,5,8,2,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT100371,2026-04-05 15:46:00,499,1,0,0,15,4,6,Bengaluru,Karnataka,google_ads,Delhivery,0
+KT100326,2026-04-26 15:50:00,599,1,4,2,15,4,6,Chennai,Tamil Nadu,meta_ads,Delhivery,1
+KT101530,2026-09-24 04:16:00,499,1,0,0,4,9,3,Mumbai,Maharashtra,influencer,Xpressbees,0
+KT101457,2026-04-08 01:30:00,449,1,4,1,1,4,2,Bengaluru,Karnataka,influencer,Delhivery,0
+KT101286,2026-05-04 22:34:00,798,2,0,0,22,5,0,Hyderabad,Telangana,instagram_organic,Ecom Express,0
+KT101237,2026-08-16 16:56:00,699,1,0,0,16,8,6,Delhi,Delhi,direct,Xpressbees,1
+KT101906,2026-05-26 23:31:00,1397,3,0,0,23,5,1,Lucknow,Uttar Pradesh,meta_ads,BlueDart,0
+KT101161,2026-08-15 10:21:00,748,2,0,0,10,8,5,Bengaluru,Karnataka,direct,BlueDart,0
+KT101385,2026-05-01 15:42:00,1447,3,0,0,15,5,4,Patna,Bihar,meta_ads,Delhivery,0
+KT101664,2026-04-08 00:29:00,1047,3,0,0,0,4,2,Gorakhpur,Uttar Pradesh,influencer,Shadowfax,1
+KT100111,2026-07-05 15:38:00,1447,3,0,0,15,7,6,Mumbai,Maharashtra,google_ads,Delhivery,0
+KT100255,2026-07-14 08:07:00,599,1,0,0,8,7,1,Guwahati,Assam,meta_ads,Shadowfax,0
+KT100639,2026-08-17 02:09:00,599,1,0,0,2,8,0,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101057,2026-08-27 08:58:00,1047,3,0,0,8,8,3,Delhi,Delhi,meta_ads,Delhivery,0
+KT100508,2026-07-04 03:02:00,1148,2,0,0,3,7,5,Delhi,Delhi,direct,Ecom Express,1
+KT101432,2026-04-30 21:58:00,599,1,0,0,21,4,3,Lucknow,Uttar Pradesh,instagram_organic,Delhivery,1
+KT100048,2026-06-01 22:09:00,1198,2,0,0,22,6,0,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT101490,2026-09-14 07:51:00,2199,3,0,0,7,9,0,Pune,Maharashtra,meta_ads,Xpressbees,1
+KT100686,2026-06-06 09:24:00,299,1,0,0,9,6,5,Lucknow,Uttar Pradesh,direct,Shadowfax,1
+KT101883,2026-06-16 19:40:00,399,1,0,0,19,6,1,Pune,Maharashtra,meta_ads,Xpressbees,0
+KT101535,2026-07-18 15:18:00,699,1,0,0,15,7,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100320,2026-09-11 18:06:00,299,1,2,0,18,9,4,Mumbai,Maharashtra,instagram_organic,Shadowfax,0
+KT101781,2026-05-01 00:14:00,599,1,0,0,0,5,4,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT100562,2026-07-18 03:19:00,998,2,0,0,3,7,5,Hyderabad,Telangana,instagram_organic,Xpressbees,0
+KT101504,2026-08-15 18:13:00,748,2,0,0,18,8,5,Bareilly,Uttar Pradesh,meta_ads,BlueDart,1
+KT101587,2026-05-29 18:11:00,499,1,0,0,18,5,4,Guwahati,Assam,direct,BlueDart,0
+KT101006,2026-08-01 17:34:00,748,2,0,0,17,8,5,Mumbai,Maharashtra,influencer,Shadowfax,1
+KT100841,2026-07-17 11:59:00,1247,3,0,0,11,7,4,Jaipur,Rajasthan,instagram_organic,Delhivery,0
+KT101780,2026-04-11 16:33:00,449,1,0,0,16,4,5,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT100806,2026-07-01 07:40:00,499,1,2,0,7,7,2,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100898,2026-09-07 15:17:00,698,2,0,0,15,9,0,Pune,Maharashtra,direct,Delhivery,0
+KT101126,2026-09-03 06:15:00,1496,4,0,0,6,9,3,Mumbai,Maharashtra,instagram_organic,Delhivery,1
+KT101789,2026-09-06 02:32:00,698,2,0,0,2,9,6,Jaipur,Rajasthan,instagram_organic,Shadowfax,0
+KT100227,2026-05-31 15:58:00,299,1,0,0,15,5,6,Mumbai,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT100465,2026-05-18 21:04:00,998,2,1,0,21,5,0,Darbhanga,Bihar,whatsapp_broadcast,BlueDart,0
+KT101739,2026-08-13 02:58:00,299,1,1,0,2,8,3,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT100327,2026-09-05 19:34:00,349,1,3,2,19,9,5,Lucknow,Uttar Pradesh,meta_ads,Delhivery,1
+KT100716,2026-08-16 19:11:00,399,1,4,0,19,8,6,Mumbai,Maharashtra,direct,Delhivery,0
+KT100125,2026-05-22 06:39:00,599,1,0,0,6,5,4,Kolkata,West Bengal,instagram_organic,Ecom Express,0
+KT101199,2026-08-01 18:30:00,1098,2,0,0,18,8,5,Bengaluru,Karnataka,direct,Xpressbees,0
+KT100748,2026-08-15 13:02:00,599,1,3,1,13,8,5,Mumbai,Maharashtra,influencer,Delhivery,1
+KT101149,2026-09-07 16:46:00,1547,3,0,0,16,9,0,Sagar,Madhya Pradesh,influencer,Shadowfax,1
+KT101534,2026-09-18 01:17:00,699,1,3,0,1,9,4,Chennai,Tamil Nadu,meta_ads,BlueDart,0
+KT100067,2026-06-01 06:04:00,1447,3,4,0,6,6,0,Indore,Madhya Pradesh,influencer,Xpressbees,0
+KT100264,2026-07-07 00:11:00,1298,2,0,0,0,7,1,Bengaluru,Karnataka,instagram_organic,Delhivery,0
+KT100555,2026-08-14 14:59:00,1347,3,2,0,14,8,4,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101578,2026-09-23 03:46:00,499,1,0,0,3,9,2,Bareilly,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100497,2026-05-02 16:49:00,299,1,0,0,16,5,5,Pune,Maharashtra,direct,Ecom Express,1
+KT101529,2026-04-22 01:21:00,599,1,5,0,1,4,2,Hyderabad,Telangana,whatsapp_broadcast,Shadowfax,1
+KT101797,2026-09-12 09:41:00,1646,4,0,0,9,9,5,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,1
+KT101230,2026-04-26 16:12:00,1597,3,0,0,16,4,6,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100382,2026-07-29 08:02:00,2999,1,0,0,8,7,2,Bengaluru,Karnataka,direct,Xpressbees,1
+KT100962,2026-07-02 10:46:00,599,1,0,0,10,7,3,Kota,Rajasthan,google_ads,Shadowfax,1
+KT101362,2026-08-20 19:54:00,449,1,2,2,19,8,3,Hyderabad,Telangana,influencer,Ecom Express,0
+KT100808,2026-07-06 00:10:00,1098,2,0,0,0,7,0,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT101586,2026-09-12 16:01:00,349,1,0,0,16,9,5,Hyderabad,Telangana,instagram_organic,Shadowfax,1
+KT101045,2026-05-30 11:16:00,1247,3,0,0,11,5,5,Indore,Madhya Pradesh,meta_ads,Xpressbees,0
+KT101283,2026-06-26 12:56:00,1647,3,0,0,12,6,4,Kolkata,West Bengal,google_ads,Xpressbees,0
+KT100699,2026-07-28 03:23:00,699,1,0,0,3,7,1,Guwahati,Assam,direct,BlueDart,0
+KT100554,2026-05-09 03:13:00,299,1,4,0,3,5,5,Patna,Bihar,meta_ads,Shadowfax,0
+KT101747,2026-05-02 22:44:00,1697,3,2,1,22,5,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101234,2026-06-28 12:12:00,399,1,0,0,12,6,6,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100126,2026-06-04 04:53:00,1148,2,2,1,4,6,3,Kolkata,West Bengal,influencer,BlueDart,1
+KT101391,2026-09-19 13:21:00,599,1,3,0,13,9,5,Bengaluru,Karnataka,influencer,Delhivery,0
+KT100438,2026-07-12 04:53:00,349,1,0,0,4,7,6,Guwahati,Assam,whatsapp_broadcast,Delhivery,0
+KT101096,2026-09-01 00:21:00,349,1,0,0,0,9,1,Hyderabad,Telangana,whatsapp_broadcast,Delhivery,0
+KT101073,2026-08-15 11:59:00,997,3,0,0,11,8,5,Delhi,Delhi,meta_ads,Shadowfax,0
+KT100459,2026-06-23 14:25:00,599,1,0,0,14,6,1,Hyderabad,Telangana,direct,Xpressbees,0
+KT101269,2026-07-11 09:41:00,399,1,3,0,9,7,5,Bengaluru,Karnataka,whatsapp_broadcast,Shadowfax,0
+KT101577,2026-06-23 03:31:00,299,1,0,0,3,6,1,Kolkata,West Bengal,direct,Delhivery,0
+KT101493,2026-07-03 08:04:00,349,1,0,0,8,7,4,Delhi,Delhi,whatsapp_broadcast,Xpressbees,0
+KT100155,2026-04-29 07:40:00,499,1,0,0,7,4,2,Delhi,Delhi,influencer,Ecom Express,0
+KT101349,2026-06-03 08:54:00,699,1,5,0,8,6,2,Chennai,Tamil Nadu,meta_ads,Xpressbees,0
+KT101769,2026-05-31 17:49:00,798,2,0,0,17,5,6,Mumbai,Maharashtra,influencer,Ecom Express,0
+KT101926,2026-05-06 15:44:00,798,2,0,0,15,5,2,Gorakhpur,Uttar Pradesh,instagram_organic,BlueDart,1
+KT100069,2026-06-01 07:19:00,449,1,0,0,7,6,0,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT101389,2026-06-03 01:03:00,599,1,4,0,1,6,2,Guwahati,Assam,google_ads,Delhivery,0
+KT100974,2026-06-10 17:37:00,698,2,1,0,17,6,2,Lucknow,Uttar Pradesh,google_ads,Shadowfax,0
+KT101369,2026-09-10 18:50:00,349,1,2,0,18,9,3,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101719,2026-08-13 03:36:00,449,1,0,0,3,8,3,Delhi,Delhi,google_ads,Delhivery,0
+KT101752,2026-07-11 20:32:00,2499,3,0,0,20,7,5,Bengaluru,Karnataka,meta_ads,Delhivery,1
+KT100941,2026-09-24 09:39:00,998,2,0,0,9,9,3,Lucknow,Uttar Pradesh,influencer,Ecom Express,0
+KT101823,2026-09-13 01:19:00,449,1,0,0,1,9,6,Bengaluru,Karnataka,direct,Xpressbees,0
+KT100009,2026-04-18 07:23:00,848,2,0,0,7,4,5,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101446,2026-07-31 16:29:00,1098,2,0,0,16,7,4,Sagar,Madhya Pradesh,google_ads,BlueDart,0
+KT101028,2026-07-26 22:30:00,1097,3,3,0,22,7,6,Lucknow,Uttar Pradesh,meta_ads,Delhivery,0
+KT100695,2026-04-10 12:38:00,1047,3,0,0,12,4,4,Hyderabad,Telangana,influencer,Delhivery,0
+KT100209,2026-07-05 15:26:00,349,1,0,0,15,7,6,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT100275,2026-08-12 13:41:00,299,1,0,0,13,8,2,Indore,Madhya Pradesh,meta_ads,BlueDart,1
+KT101625,2026-08-12 03:14:00,699,1,0,0,3,8,2,Sagar,Madhya Pradesh,meta_ads,Shadowfax,0
+KT101564,2026-08-05 01:00:00,798,2,5,1,1,8,2,Mumbai,Maharashtra,direct,Delhivery,0
+KT100081,2026-04-30 00:54:00,499,1,0,0,0,4,3,Patna,Bihar,meta_ads,Shadowfax,1
+KT100168,2026-07-15 13:19:00,349,1,0,0,13,7,2,Darbhanga,Bihar,meta_ads,Shadowfax,0
+KT100787,2026-07-15 21:18:00,1597,3,0,0,21,7,2,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100989,2026-09-03 08:26:00,399,1,0,0,8,9,3,Lucknow,Uttar Pradesh,whatsapp_broadcast,Delhivery,0
+KT101796,2026-05-06 22:19:00,449,1,0,0,22,5,2,Pune,Maharashtra,meta_ads,Xpressbees,1
+KT101798,2026-05-25 08:17:00,1098,2,4,0,8,5,0,Pune,Maharashtra,google_ads,Delhivery,0
+KT100234,2026-08-29 23:29:00,1198,2,0,0,23,8,5,Bengaluru,Karnataka,influencer,Xpressbees,0
+KT100020,2026-06-02 14:36:00,598,2,0,0,14,6,1,Darbhanga,Bihar,direct,Xpressbees,1
+KT100764,2026-08-21 08:07:00,499,1,5,0,8,8,4,Delhi,Delhi,google_ads,Xpressbees,1
+KT101270,2026-04-26 06:42:00,499,1,0,0,6,4,6,Delhi,Delhi,direct,Xpressbees,0
+KT100369,2026-05-11 17:25:00,699,1,0,0,17,5,0,Delhi,Delhi,direct,Delhivery,0
+KT101195,2026-05-06 08:25:00,848,2,0,0,8,5,2,Pune,Maharashtra,meta_ads,Ecom Express,0
+KT100482,2026-07-06 04:00:00,698,2,0,0,4,7,0,Mumbai,Maharashtra,direct,Shadowfax,0
+KT100348,2026-05-31 03:57:00,449,1,0,0,3,5,6,Indore,Madhya Pradesh,google_ads,Delhivery,1
+KT100455,2026-04-18 04:09:00,1148,2,2,0,4,4,5,Darbhanga,Bihar,meta_ads,Ecom Express,0
+KT100179,2026-08-17 14:03:00,1148,2,1,0,14,8,0,Delhi,Delhi,meta_ads,Ecom Express,0
+KT100380,2026-05-21 22:32:00,1647,3,0,0,22,5,3,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT100815,2026-05-07 08:27:00,599,1,0,0,8,5,3,Mumbai,Maharashtra,direct,Ecom Express,0
+KT101229,2026-06-20 18:28:00,848,2,0,0,18,6,5,Patna,Bihar,instagram_organic,Xpressbees,0
+KT100182,2026-09-23 19:49:00,798,2,0,0,19,9,2,Kolkata,West Bengal,direct,Ecom Express,0
+KT100789,2026-07-04 05:18:00,1147,3,0,0,5,7,5,Chennai,Tamil Nadu,whatsapp_broadcast,Ecom Express,0
+KT100879,2026-06-20 22:02:00,2199,4,0,0,22,6,5,Pune,Maharashtra,meta_ads,BlueDart,0
+KT100771,2026-04-02 12:24:00,449,1,0,0,12,4,3,Guwahati,Assam,direct,Ecom Express,0
+KT100755,2026-04-01 22:53:00,299,1,0,0,22,4,2,Delhi,Delhi,influencer,Delhivery,1
+KT101895,2026-09-18 19:20:00,698,2,0,0,19,9,4,Delhi,Delhi,direct,Xpressbees,0
+KT101698,2026-07-31 18:44:00,2097,3,0,0,18,7,4,Patna,Bihar,instagram_organic,Xpressbees,1
+KT100231,2026-04-24 12:16:00,848,2,1,0,12,4,4,Kota,Rajasthan,meta_ads,Ecom Express,0
+KT100583,2026-08-19 15:01:00,299,1,0,0,15,8,2,Jaipur,Rajasthan,whatsapp_broadcast,Xpressbees,1
+KT100638,2026-04-03 11:39:00,349,1,0,0,11,4,4,Patna,Bihar,meta_ads,Delhivery,1
+KT100636,2026-08-10 01:15:00,599,1,0,0,1,8,0,Pune,Maharashtra,meta_ads,Shadowfax,1
+KT101845,2026-06-07 16:58:00,898,2,0,0,16,6,6,Lucknow,Uttar Pradesh,google_ads,Delhivery,0
+KT100619,2026-05-26 22:09:00,1147,3,5,0,22,5,1,Chennai,Tamil Nadu,influencer,Delhivery,0
+KT101414,2026-05-30 06:16:00,1899,2,0,0,6,5,5,Patna,Bihar,influencer,Xpressbees,1
+KT101160,2026-08-31 17:29:00,897,3,0,0,17,8,0,Kolkata,West Bengal,instagram_organic,Xpressbees,0
+KT150716,2026-08-16 19:15:00,399,1,4,0,19,8,6,Mumbai,Maharashtra,direct,Delhivery,0
+KT101516,2026-05-17 22:19:00,898,2,2,0,22,5,6,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100031,2026-04-03 18:55:00,299,1,0,0,18,4,4,Hyderabad,Telangana,influencer,Xpressbees,0
+KT100618,2026-04-04 15:07:00,898,2,3,0,15,4,5,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,0
+KT100909,2026-07-11 22:09:00,998,2,5,1,22,7,5,Indore,Madhya Pradesh,direct,Delhivery,1
+KT101425,2026-08-20 18:06:00,349,1,2,0,18,8,3,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101628,2026-08-09 17:42:00,449,1,0,0,17,8,6,Chennai,Tamil Nadu,meta_ads,Xpressbees,0
+KT100297,2026-05-21 02:33:00,1047,3,0,0,2,5,3,Pune,Maharashtra,influencer,BlueDart,0
+KT101143,2026-04-27 22:30:00,998,2,0,0,22,4,0,Bareilly,Uttar Pradesh,instagram_organic,Xpressbees,0
+KT101542,2026-06-24 07:11:00,1147,3,0,0,7,6,2,Lucknow,Uttar Pradesh,instagram_organic,Delhivery,0
+KT101376,2026-07-22 17:32:00,998,2,0,0,17,7,2,Mumbai,Maharashtra,direct,Xpressbees,0
+KT101550,2026-08-16 02:21:00,499,1,0,0,2,8,6,Delhi,Delhi,direct,Shadowfax,0
+KT100012,2026-06-11 02:49:00,299,1,0,0,2,6,3,Hyderabad,Telangana,google_ads,Shadowfax,1
+KT100812,2026-06-12 10:24:00,648,2,0,0,10,6,4,Indore,Madhya Pradesh,meta_ads,Xpressbees,0
+KT100544,2026-08-21 13:26:00,998,2,5,0,13,8,4,Chennai,Tamil Nadu,influencer,Xpressbees,0
+KT100147,2026-08-24 01:25:00,748,2,1,0,1,8,0,Mumbai,Maharashtra,google_ads,Xpressbees,0
+KT101120,2026-08-30 17:31:00,2097,3,0,0,17,8,6,Jaipur,Rajasthan,whatsapp_broadcast,BlueDart,1
+KT150333,2026-05-08 19:00:00,599,1,0,0,19,5,4,Bengaluru,Karnataka,direct,Delhivery,0
+KT100603,2026-07-28 22:30:00,848,2,1,0,22,7,1,Bengaluru,Karnataka,whatsapp_broadcast,Ecom Express,0
+KT100397,2026-05-14 11:26:00,399,1,0,0,11,5,3,Patna,Bihar,instagram_organic,Delhivery,0
+KT101127,2026-08-11 08:27:00,299,1,5,0,8,8,1,Pune,Maharashtra,instagram_organic,Xpressbees,0
+KT100993,2026-07-30 11:57:00,748,2,0,0,11,7,3,Kolkata,West Bengal,influencer,Ecom Express,0
+KT100532,2026-08-23 22:59:00,648,2,0,0,22,8,6,Kota,Rajasthan,meta_ads,Xpressbees,1
+KT101174,2026-09-19 06:38:00,1247,3,3,0,6,9,5,Gorakhpur,Uttar Pradesh,google_ads,Xpressbees,0
+KT101937,2026-07-13 11:31:00,349,1,0,0,11,7,0,Kota,Rajasthan,influencer,Xpressbees,0
+KT100483,2026-08-03 06:48:00,1497,3,2,0,6,8,0,Mumbai,Maharashtra,google_ads,Shadowfax,0
+KT100780,2026-07-06 01:07:00,1398,2,0,0,1,7,0,Bengaluru,Karnataka,influencer,Delhivery,0
+KT101169,2026-07-10 20:46:00,349,1,0,0,20,7,4,Sagar,Madhya Pradesh,whatsapp_broadcast,Shadowfax,0
+KT100050,2026-07-08 10:11:00,1697,3,0,0,10,7,2,Darbhanga,Bihar,meta_ads,Xpressbees,1
+KT100744,2026-08-08 23:38:00,698,2,0,0,23,8,5,Pune,Maharashtra,direct,Delhivery,0
+KT101429,2026-04-12 02:45:00,2999,2,0,0,2,4,6,Pune,Maharashtra,influencer,Delhivery,0
+KT101452,2026-04-08 09:13:00,848,2,0,0,9,4,2,Patna,Bihar,meta_ads,Xpressbees,0
+KT100042,2026-06-30 16:04:00,599,1,0,0,16,6,1,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT100486,2026-08-08 02:09:00,1996,4,0,0,2,8,5,Indore,Madhya Pradesh,meta_ads,Delhivery,0
+KT100205,2026-04-11 04:43:00,848,2,0,0,4,4,5,Pune,Maharashtra,direct,Shadowfax,0
+KT100285,2026-07-07 20:41:00,2096,4,0,0,20,7,1,Lucknow,Uttar Pradesh,direct,Delhivery,0
+KT101702,2026-07-02 09:54:00,349,1,0,0,9,7,3,Chennai,Tamil Nadu,direct,BlueDart,0
+KT101402,2026-09-20 12:49:00,449,1,5,0,12,9,6,Lucknow,Uttar Pradesh,google_ads,Xpressbees,0
+KT100128,2026-06-22 19:03:00,699,1,0,0,19,6,0,Mumbai,Maharashtra,whatsapp_broadcast,BlueDart,0
+KT100770,2026-07-12 02:09:00,1697,3,1,0,2,7,6,Hyderabad,Telangana,meta_ads,Ecom Express,1
+KT101800,2026-05-13 09:33:00,798,2,0,0,9,5,2,Sagar,Madhya Pradesh,influencer,Delhivery,1
+KT100078,2026-06-21 09:47:00,349,1,0,0,9,6,6,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100313,2026-05-13 01:51:00,1396,4,0,0,1,5,2,Guwahati,Assam,direct,Shadowfax,1
+KT101559,2026-05-21 05:06:00,2499,2,0,0,5,5,3,Pune,Maharashtra,instagram_organic,Shadowfax,1
+KT100342,2026-09-08 14:34:00,699,1,1,0,14,9,1,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100335,2026-09-17 16:28:00,299,1,0,0,16,9,3,Mumbai,Maharashtra,google_ads,BlueDart,0
+KT101438,2026-06-24 00:54:00,998,2,0,0,0,6,2,Lucknow,Uttar Pradesh,influencer,Xpressbees,0
+KT100834,2026-05-06 21:40:00,1047,3,0,0,21,5,2,Delhi,Delhi,meta_ads,Xpressbees,1
+KT101814,2026-06-25 09:59:00,2199,2,0,0,9,6,3,Bareilly,Uttar Pradesh,meta_ads,Ecom Express,0
+KT100460,2026-09-15 00:19:00,898,2,0,0,0,9,1,Bengaluru,Karnataka,meta_ads,Xpressbees,1
+KT100208,2026-08-26 00:54:00,1597,3,0,0,0,8,2,Hyderabad,Telangana,influencer,Ecom Express,1
+KT101400,2026-08-18 23:31:00,998,2,0,0,23,8,1,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101117,2026-04-02 03:53:00,1796,4,1,0,3,4,3,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100733,2026-07-18 08:32:00,349,1,0,0,8,7,5,Lucknow,Uttar Pradesh,google_ads,Shadowfax,0
+KT101865,2026-07-02 10:32:00,499,1,0,0,10,7,3,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT101372,2026-08-19 00:24:00,499,1,0,0,0,8,2,Mumbai,Maharashtra,google_ads,Ecom Express,0
+KT100832,2026-09-13 22:46:00,499,1,3,1,22,9,6,Delhi,Delhi,google_ads,Delhivery,0
+KT100196,2026-06-17 11:26:00,599,1,2,0,11,6,2,Jaipur,Rajasthan,whatsapp_broadcast,Shadowfax,0
+KT151103,2026-06-30 04:48:00,699,1,0,0,4,6,1,Kolkata,West Bengal,direct,Ecom Express,0
+KT101294,2026-05-22 11:56:00,1148,2,0,0,11,5,4,Bengaluru,Karnataka,whatsapp_broadcast,Shadowfax,0
+KT101381,2026-07-27 00:05:00,998,2,0,0,0,7,0,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101521,2026-09-13 18:52:00,599,1,0,0,18,9,6,Chennai,Tamil Nadu,google_ads,Shadowfax,0
+KT101531,2026-07-12 01:56:00,349,1,0,0,1,7,6,Hyderabad,Telangana,influencer,Delhivery,0
+KT100004,2026-07-02 09:15:00,1198,2,1,1,9,7,3,Kolkata,West Bengal,google_ads,Xpressbees,0
+KT101104,2026-08-22 13:32:00,399,1,0,0,13,8,5,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101236,2026-09-25 05:26:00,399,1,0,0,5,9,4,Indore,Madhya Pradesh,instagram_organic,Delhivery,0
+KT100747,2026-09-12 02:41:00,499,1,0,0,2,9,5,Chennai,Tamil Nadu,meta_ads,BlueDart,1
+KT101651,2026-04-29 11:12:00,998,2,0,0,11,4,2,Kolkata,West Bengal,meta_ads,Xpressbees,1
+KT100813,2026-08-01 17:03:00,299,1,0,0,17,8,5,Jaipur,Rajasthan,direct,Ecom Express,0
+KT100462,2026-07-21 17:44:00,1297,3,0,0,17,7,1,Chennai,Tamil Nadu,instagram_organic,Ecom Express,1
+KT101727,2026-06-19 22:36:00,399,1,3,1,22,6,4,Patna,Bihar,instagram_organic,Delhivery,1
+KT100702,2026-07-28 15:45:00,299,1,0,0,15,7,1,Pune,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT101855,2026-04-19 18:34:00,1797,3,0,0,18,4,6,Kolkata,West Bengal,instagram_organic,Ecom Express,0
+KT100797,2026-09-28 03:37:00,1597,3,0,0,3,9,0,Gorakhpur,Uttar Pradesh,instagram_organic,Ecom Express,1
+KT100543,2026-08-13 03:15:00,1097,3,0,0,3,8,3,Guwahati,Assam,influencer,Shadowfax,0
+KT100083,2026-09-13 05:35:00,1048,2,2,0,5,9,6,Bengaluru,Karnataka,whatsapp_broadcast,Shadowfax,0
+KT100481,2026-08-15 03:49:00,1397,3,0,0,3,8,5,Indore,Madhya Pradesh,google_ads,Delhivery,0
+KT100300,2026-04-24 01:24:00,449,1,0,0,1,4,4,Kolkata,West Bengal,whatsapp_broadcast,Shadowfax,1
+KT100222,2026-06-11 04:23:00,1697,3,0,0,4,6,3,Jaipur,Rajasthan,google_ads,Ecom Express,1
+KT100990,2026-06-25 12:46:00,1198,2,0,0,12,6,3,Hyderabad,Telangana,direct,Ecom Express,1
+KT100888,2026-06-22 07:02:00,898,2,3,0,7,6,0,Kolkata,West Bengal,direct,Delhivery,0
+KT100165,2026-09-19 00:24:00,1148,2,0,0,0,9,5,Lucknow,Uttar Pradesh,meta_ads,Delhivery,0
+KT100254,2026-04-29 08:36:00,1048,2,0,0,8,4,2,Kolkata,West Bengal,meta_ads,Ecom Express,0
+KT100290,2026-08-16 05:25:00,299,1,0,0,5,8,6,Gorakhpur,Uttar Pradesh,meta_ads,Delhivery,1
+KT100794,2026-04-21 06:14:00,898,2,2,0,6,4,1,Delhi,Delhi,meta_ads,Delhivery,0
+KT101250,2026-06-08 05:39:00,1697,3,0,0,5,6,0,Hyderabad,Telangana,instagram_organic,Shadowfax,0
+KT101001,2026-07-17 06:55:00,399,1,2,0,6,7,4,Mumbai,Maharashtra,influencer,Shadowfax,0
+KT101637,2026-05-11 04:36:00,399,1,4,0,4,5,0,Delhi,Delhi,meta_ads,Delhivery,0
+KT100247,2026-07-25 21:28:00,2499,3,3,0,21,7,5,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT101142,2026-06-05 00:29:00,2199,3,3,1,0,6,4,Delhi,Delhi,direct,BlueDart,1
+KT101373,2026-05-30 00:48:00,898,2,1,0,0,5,5,Kolkata,West Bengal,instagram_organic,Delhivery,0
+KT101720,2026-08-08 18:38:00,599,1,0,0,18,8,5,Mumbai,Maharashtra,instagram_organic,Xpressbees,1
+KT101891,2026-04-03 10:33:00,499,1,0,0,10,4,4,Sagar,Madhya Pradesh,google_ads,Shadowfax,1
+KT101712,2026-08-16 20:38:00,449,1,0,0,20,8,6,Kolkata,West Bengal,direct,Delhivery,0
+KT101620,2026-08-21 06:24:00,299,1,0,0,6,8,4,Patna,Bihar,google_ads,Shadowfax,1
+KT101735,2026-06-24 03:19:00,299,1,0,0,3,6,2,Guwahati,Assam,instagram_organic,Delhivery,0
+KT100967,2026-06-30 12:41:00,699,1,0,0,12,6,1,Hyderabad,Telangana,whatsapp_broadcast,Xpressbees,0
+KT101075,2026-04-06 05:40:00,399,1,0,0,5,4,0,Gorakhpur,Uttar Pradesh,whatsapp_broadcast,Shadowfax,1
+KT100855,2026-05-27 13:53:00,898,2,5,0,13,5,2,Guwahati,Assam,meta_ads,Delhivery,0
+KT100878,2026-08-31 08:25:00,349,1,0,0,8,8,0,Delhi,Delhi,meta_ads,Shadowfax,0
+KT101809,2026-08-21 01:57:00,648,2,0,0,1,8,4,Hyderabad,Telangana,meta_ads,Shadowfax,0
+KT101709,2026-05-02 21:39:00,399,1,0,0,21,5,5,Lucknow,Uttar Pradesh,instagram_organic,Shadowfax,0
+KT100574,2026-08-25 09:51:00,399,1,5,0,9,8,1,Nagaon,Assam,instagram_organic,Delhivery,0
+KT100056,2026-09-05 13:15:00,798,2,0,0,13,9,5,Hyderabad,Telangana,direct,Delhivery,0
+KT101918,2026-09-26 16:24:00,299,1,0,0,16,9,5,Gorakhpur,Uttar Pradesh,influencer,Ecom Express,0
+KT100138,2026-05-17 19:42:00,1397,3,0,0,19,5,6,Patna,Bihar,direct,Delhivery,0
+KT100354,2026-06-17 11:49:00,748,2,0,0,11,6,2,Pune,Maharashtra,instagram_organic,Delhivery,0
+KT100956,2026-05-22 01:28:00,599,1,0,0,1,5,4,Kolkata,West Bengal,direct,BlueDart,0
+KT101125,2026-05-07 04:15:00,1946,4,0,0,4,5,3,Pune,Maharashtra,whatsapp_broadcast,Ecom Express,1
+KT101502,2026-08-30 12:41:00,399,1,4,1,12,8,6,Delhi,Delhi,whatsapp_broadcast,Ecom Express,0
+KT100775,2026-09-28 21:09:00,599,1,0,0,21,9,0,Delhi,Delhi,google_ads,Xpressbees,0
+KT101469,2026-05-06 21:16:00,699,1,3,1,21,5,2,Bareilly,Uttar Pradesh,google_ads,Xpressbees,1
+KT101778,2026-04-26 02:52:00,798,2,0,0,2,4,6,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100294,2026-08-10 22:09:00,598,2,0,0,22,8,0,Mumbai,Maharashtra,meta_ads,Delhivery,1
+KT100584,2026-06-15 06:23:00,948,2,0,0,6,6,0,Chennai,Tamil Nadu,meta_ads,Shadowfax,0
+KT100431,2026-07-06 02:31:00,998,2,3,0,2,7,0,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100005,2026-07-05 14:57:00,598,2,0,0,14,7,6,Jaipur,Rajasthan,influencer,Shadowfax,0
+KT101348,2026-08-26 09:01:00,1098,2,0,0,9,8,2,Chennai,Tamil Nadu,whatsapp_broadcast,BlueDart,0
+KT101039,2026-09-11 21:49:00,898,2,4,0,21,9,4,Delhi,Delhi,meta_ads,Ecom Express,0
+KT100169,2026-07-15 07:47:00,2999,3,0,0,7,7,2,Sagar,Madhya Pradesh,meta_ads,Delhivery,1
+KT100115,2026-05-16 10:40:00,449,1,3,0,10,5,5,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101811,2026-06-23 19:10:00,1647,3,0,0,19,6,1,Patna,Bihar,meta_ads,Delhivery,0
+KT100277,2026-06-16 19:34:00,2499,1,2,0,19,6,1,Hyderabad,Telangana,whatsapp_broadcast,Shadowfax,0
+KT100557,2026-07-01 17:20:00,449,1,0,0,17,7,2,Hyderabad,Telangana,meta_ads,Shadowfax,1
+KT100608,2026-07-02 01:19:00,399,1,0,0,1,7,3,Hyderabad,Telangana,direct,Xpressbees,0
+KT100236,2026-07-23 15:30:00,1397,3,5,0,15,7,3,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101314,2026-09-20 12:49:00,1396,4,0,0,12,9,6,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT100626,2026-07-22 02:07:00,499,1,0,0,2,7,2,Nagaon,Assam,instagram_organic,Shadowfax,1
+KT150345,2026-09-04 21:30:00,2999,1,0,0,21,9,4,Chennai,Tamil Nadu,meta_ads,Xpressbees,1
+KT101324,2026-07-03 09:26:00,599,1,0,0,9,7,4,Bengaluru,Karnataka,meta_ads,BlueDart,0
+KT100979,2026-06-27 09:41:00,1198,2,3,2,9,6,5,Jaipur,Rajasthan,direct,Shadowfax,0
+KT101277,2026-08-28 12:56:00,449,1,0,0,12,8,4,Pune,Maharashtra,meta_ads,Delhivery,1
+KT101390,2026-04-28 13:25:00,449,1,0,0,13,4,1,Delhi,Delhi,instagram_organic,Delhivery,0
+KT101476,2026-08-05 09:04:00,299,1,0,0,9,8,2,Mumbai,Maharashtra,google_ads,Shadowfax,0
+KT100709,2026-08-23 23:47:00,449,1,0,0,23,8,6,Mumbai,Maharashtra,influencer,Delhivery,1
+KT101626,2026-06-12 23:40:00,399,1,0,0,23,6,4,Hyderabad,Telangana,instagram_organic,Xpressbees,0
+KT100788,2026-04-24 10:44:00,1147,3,4,0,10,4,4,Bengaluru,Karnataka,influencer,Delhivery,0
+KT101575,2026-07-22 20:14:00,1997,3,0,0,20,7,2,Lucknow,Uttar Pradesh,whatsapp_broadcast,Xpressbees,0
+KT100037,2026-06-20 21:16:00,1048,2,0,0,21,6,5,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100107,2026-05-13 06:51:00,898,2,4,0,6,5,2,Guwahati,Assam,meta_ads,Ecom Express,0
+KT101513,2026-07-11 03:08:00,2199,1,0,0,3,7,5,Delhi,Delhi,meta_ads,Shadowfax,0
+KT101829,2026-08-18 08:20:00,1846,4,0,0,8,8,1,Delhi,Delhi,instagram_organic,Ecom Express,0
+KT100310,2026-04-05 11:35:00,399,1,0,0,11,4,6,Mumbai,Maharashtra,meta_ads,Xpressbees,1
+KT100307,2026-06-08 20:34:00,399,1,1,0,20,6,0,Mumbai,Maharashtra,google_ads,BlueDart,0
+KT101868,2026-05-29 20:05:00,598,2,0,0,20,5,4,Patna,Bihar,meta_ads,Delhivery,1
+KT101266,2026-04-04 16:54:00,798,2,5,1,16,4,5,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT100687,2026-04-26 23:43:00,499,1,2,0,23,4,6,Bengaluru,Karnataka,direct,Ecom Express,0
+KT101885,2026-06-03 04:21:00,1398,2,0,0,4,6,2,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101093,2026-07-25 21:25:00,449,1,0,0,21,7,5,Bengaluru,Karnataka,direct,Shadowfax,0
+KT100819,2026-05-07 07:12:00,1697,3,0,0,7,5,3,Jaipur,Rajasthan,instagram_organic,Delhivery,0
+KT101042,2026-07-23 06:54:00,1597,3,0,0,6,7,3,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101338,2026-08-21 05:36:00,2999,3,0,0,5,8,4,Mumbai,Maharashtra,direct,Xpressbees,0
+KT101775,2026-06-08 15:38:00,449,1,0,0,15,6,0,Jaipur,Rajasthan,google_ads,Delhivery,0
+KT100961,2026-04-21 04:05:00,499,1,0,0,4,4,1,Kolkata,West Bengal,whatsapp_broadcast,BlueDart,0
+KT100766,2026-09-04 11:07:00,748,2,0,0,11,9,4,Pune,Maharashtra,influencer,Xpressbees,0
+KT100671,2026-08-30 22:17:00,1846,4,2,0,22,8,6,Patna,Bihar,whatsapp_broadcast,Delhivery,0
+KT100533,2026-07-07 03:14:00,449,1,0,0,3,7,1,Delhi,Delhi,meta_ads,Delhivery,1
+KT100064,2026-09-23 16:59:00,1347,3,0,0,16,9,2,Delhi,Delhi,meta_ads,Delhivery,0
+KT101879,2026-05-12 11:11:00,699,1,0,0,11,5,1,Bengaluru,Karnataka,meta_ads,Shadowfax,1
+KT100410,2026-07-17 12:54:00,1696,4,3,1,12,7,4,Chennai,Tamil Nadu,meta_ads,Delhivery,1
+KT100679,2026-05-28 18:33:00,998,2,0,0,18,5,3,Delhi,Delhi,direct,Shadowfax,0
+KT101123,2026-04-02 15:54:00,1497,3,0,0,15,4,3,Mumbai,Maharashtra,instagram_organic,Xpressbees,0
+KT100339,2026-07-06 20:06:00,449,1,0,0,20,7,0,Delhi,Delhi,meta_ads,Shadowfax,1
+KT150372,2026-06-26 04:06:00,898,2,0,0,4,6,4,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,1
+KT101930,2026-08-06 09:30:00,399,1,0,0,9,8,3,Bengaluru,Karnataka,influencer,Ecom Express,0
+KT101388,2026-04-21 22:19:00,1247,3,0,0,22,4,1,Pune,Maharashtra,influencer,Delhivery,0
+KT101423,2026-08-03 10:49:00,648,2,0,0,10,8,0,Chennai,Tamil Nadu,google_ads,Delhivery,1
+KT101310,2026-05-18 21:39:00,449,1,1,1,21,5,0,Sagar,Madhya Pradesh,influencer,BlueDart,0
+KT100883,2026-07-05 22:08:00,698,2,0,0,22,7,6,Kolkata,West Bengal,meta_ads,Delhivery,1
+KT100002,2026-05-29 01:51:00,948,2,0,0,1,5,4,Indore,Madhya Pradesh,direct,Xpressbees,0
+KT100086,2026-08-26 20:17:00,1996,4,0,0,20,8,2,Pune,Maharashtra,whatsapp_broadcast,Ecom Express,1
+KT100719,2026-09-06 19:36:00,399,1,2,0,19,9,6,Chennai,Tamil Nadu,influencer,Ecom Express,0
+KT101792,2026-08-03 16:40:00,1397,3,3,0,16,8,0,Kota,Rajasthan,influencer,Xpressbees,1
+KT100998,2026-05-17 02:16:00,698,2,0,0,2,5,6,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100055,2026-06-17 15:15:00,399,1,0,0,15,6,2,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100791,2026-08-06 06:30:00,1147,3,4,0,6,8,3,Jaipur,Rajasthan,meta_ads,BlueDart,0
+KT100564,2026-08-30 19:18:00,1298,2,0,0,19,8,6,Chennai,Tamil Nadu,meta_ads,Ecom Express,0
+KT100782,2026-08-11 14:37:00,499,1,0,0,14,8,1,Pune,Maharashtra,meta_ads,BlueDart,0
+KT101952,2026-04-27 07:09:00,1397,3,0,0,7,4,0,Kolkata,West Bengal,influencer,Delhivery,0
+KT100160,2026-06-12 19:01:00,1397,3,0,0,19,6,4,Lucknow,Uttar Pradesh,google_ads,Xpressbees,0
+KT100599,2026-05-03 22:56:00,449,1,0,0,22,5,6,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,1
+KT100730,2026-09-01 13:35:00,599,1,3,1,13,9,1,Pune,Maharashtra,meta_ads,Shadowfax,1
+KT101404,2026-06-29 02:41:00,748,2,0,0,2,6,0,Chennai,Tamil Nadu,meta_ads,Ecom Express,1
+KT100523,2026-07-25 08:21:00,998,2,0,0,8,7,5,Mumbai,Maharashtra,google_ads,Ecom Express,1
+KT101574,2026-07-01 20:44:00,1048,2,0,0,20,7,2,Jaipur,Rajasthan,meta_ads,Shadowfax,0
+KT101532,2026-08-05 13:00:00,998,2,0,0,13,8,2,Hyderabad,Telangana,google_ads,Shadowfax,1
+KT101202,2026-05-14 05:21:00,599,1,0,0,5,5,3,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101572,2026-08-02 00:46:00,499,1,0,0,0,8,6,Guwahati,Assam,influencer,Ecom Express,0
+KT101383,2026-09-06 17:58:00,449,1,0,0,17,9,6,Lucknow,Uttar Pradesh,direct,Delhivery,0
+KT100432,2026-08-16 01:52:00,1447,3,0,0,1,8,6,Delhi,Delhi,direct,Delhivery,1
+KT101112,2026-05-20 11:17:00,299,1,0,0,11,5,2,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT101267,2026-09-29 07:21:00,1198,2,0,0,7,9,1,Bengaluru,Karnataka,google_ads,Shadowfax,1
+KT100322,2026-09-18 09:54:00,2499,2,0,0,9,9,4,Patna,Bihar,influencer,Delhivery,0
+KT100149,2026-05-13 05:54:00,1447,3,2,0,5,5,2,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT100030,2026-09-06 21:15:00,1397,3,0,0,21,9,6,Gorakhpur,Uttar Pradesh,instagram_organic,Delhivery,0
+KT101650,2026-07-08 13:25:00,1846,4,0,0,13,7,2,Lucknow,Uttar Pradesh,meta_ads,Delhivery,0
+KT100959,2026-09-03 04:07:00,499,1,0,0,4,9,3,Bengaluru,Karnataka,instagram_organic,Xpressbees,0
+KT101461,2026-06-02 19:07:00,499,1,0,0,19,6,1,Gorakhpur,Uttar Pradesh,google_ads,Ecom Express,0
+KT101483,2026-05-28 23:10:00,349,1,0,0,23,5,3,Hyderabad,Telangana,direct,Delhivery,1
+KT100617,2026-05-27 11:14:00,699,1,4,0,11,5,2,Gorakhpur,Uttar Pradesh,meta_ads,Ecom Express,1
+KT101307,2026-09-20 18:51:00,1198,2,0,0,18,9,6,Mumbai,Maharashtra,direct,Delhivery,0
+KT100176,2026-09-08 17:53:00,349,1,2,0,17,9,1,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101197,2026-08-20 12:56:00,1596,4,5,0,12,8,3,Mumbai,Maharashtra,instagram_organic,Delhivery,0
+KT101818,2026-07-27 10:12:00,349,1,0,0,10,7,0,Chennai,Tamil Nadu,meta_ads,Shadowfax,1
+KT100758,2026-06-15 06:08:00,1197,3,5,0,6,6,0,Kolkata,West Bengal,whatsapp_broadcast,Shadowfax,0
+KT100246,2026-05-10 03:23:00,898,2,0,0,3,5,6,Mumbai,Maharashtra,meta_ads,Ecom Express,0
+KT100939,2026-05-17 07:27:00,449,1,0,0,7,5,6,Delhi,Delhi,influencer,BlueDart,0
+KT100864,2026-06-27 22:26:00,1297,3,0,0,22,6,5,Pune,Maharashtra,meta_ads,Delhivery,0
+KT100323,2026-06-01 17:25:00,499,1,4,1,17,6,0,Delhi,Delhi,direct,Ecom Express,0
+KT100919,2026-09-02 14:06:00,798,2,0,0,14,9,2,Delhi,Delhi,instagram_organic,Delhivery,0
+KT101866,2026-09-22 14:01:00,299,1,0,0,14,9,1,Pune,Maharashtra,influencer,Ecom Express,0
+KT101409,2026-08-30 11:01:00,499,1,2,0,11,8,6,Delhi,Delhi,instagram_organic,Ecom Express,0
+KT101139,2026-09-23 10:42:00,998,2,0,0,10,9,2,Mumbai,Maharashtra,instagram_organic,BlueDart,0
+KT100968,2026-05-14 20:28:00,499,1,3,1,20,5,3,Chennai,Tamil Nadu,whatsapp_broadcast,Delhivery,0
+KT100881,2026-09-16 13:23:00,948,2,2,1,13,9,2,Chennai,Tamil Nadu,influencer,Ecom Express,1
+KT100091,2026-04-19 00:37:00,698,2,2,0,0,4,6,Mumbai,Maharashtra,google_ads,BlueDart,0
+KT100094,2026-06-21 08:52:00,299,1,1,0,8,6,6,Jaipur,Rajasthan,instagram_organic,Xpressbees,0
+KT101817,2026-06-23 21:14:00,399,1,4,1,21,6,1,Hyderabad,Telangana,meta_ads,BlueDart,0
+KT100258,2026-06-19 18:27:00,599,1,0,0,18,6,4,Mumbai,Maharashtra,whatsapp_broadcast,Xpressbees,0
+KT101544,2026-07-08 22:03:00,1397,3,0,0,22,7,2,Kolkata,West Bengal,influencer,Delhivery,0
+KT100146,2026-06-07 07:17:00,1247,3,0,0,7,6,6,,Delhi,influencer,Ecom Express,0
+KT101024,2026-08-14 07:34:00,499,1,0,0,7,8,4,Hyderabad,Telangana,whatsapp_broadcast,Ecom Express,1
+KT101191,2026-08-20 13:42:00,399,1,0,0,13,8,3,Mumbai,Maharashtra,influencer,Delhivery,0
+KT100861,2026-08-04 03:07:00,399,1,0,0,3,8,1,Delhi,Delhi,whatsapp_broadcast,Ecom Express,0
+KT100396,2026-06-06 22:34:00,299,1,1,0,22,6,5,Bareilly,Uttar Pradesh,instagram_organic,Ecom Express,1
+KT100623,2026-05-26 02:10:00,599,1,0,0,2,5,1,Chennai,Tamil Nadu,influencer,Delhivery,1
+KT100357,2026-04-03 14:02:00,349,1,0,0,14,4,4,Mumbai,Maharashtra,whatsapp_broadcast,Xpressbees,1
+KT101058,2026-08-23 21:57:00,2046,4,0,0,21,8,6,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT101631,2026-04-23 16:38:00,449,1,0,0,16,4,3,Delhi,Delhi,google_ads,Xpressbees,0
+KT100845,2026-09-20 12:57:00,1198,2,1,0,12,9,6,Delhi,Delhi,meta_ads,Xpressbees,0
+KT101156,2026-05-18 02:58:00,349,1,0,0,2,5,0,Pune,Maharashtra,instagram_organic,Xpressbees,1
+KT100133,2026-08-03 14:21:00,798,2,0,0,14,8,0,Delhi,Delhi,meta_ads,Ecom Express,1
+KT100408,2026-06-23 17:29:00,349,1,0,0,17,6,1,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT101007,2026-04-08 00:42:00,349,1,0,0,0,4,2,Jaipur,Rajasthan,whatsapp_broadcast,Delhivery,1
+KT100425,2026-08-08 22:30:00,1297,3,0,0,22,8,5,Mumbai,Maharashtra,instagram_organic,BlueDart,0
+KT100776,2026-07-29 06:19:00,1347,3,0,0,6,7,2,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT100364,2026-04-28 07:42:00,1447,3,0,0,7,4,1,Kolkata,West Bengal,meta_ads,BlueDart,0
+KT101660,2026-07-31 02:29:00,699,1,0,0,2,7,4,Darbhanga,Bihar,meta_ads,Ecom Express,1
+KT101658,2026-05-24 18:47:00,998,2,0,0,18,5,6,Bengaluru,Karnataka,google_ads,Shadowfax,0
+KT100358,2026-04-16 22:16:00,1346,4,0,0,22,4,3,Lucknow,Uttar Pradesh,meta_ads,BlueDart,1
+KT100439,2026-09-07 13:03:00,1098,2,5,1,13,9,0,Delhi,Delhi,direct,Xpressbees,0
+KT100489,2026-07-31 00:21:00,1398,2,0,0,0,7,4,Delhi,Delhi,meta_ads,BlueDart,1
+KT101705,2026-08-14 14:19:00,798,2,0,0,14,8,4,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101708,2026-04-10 14:11:00,947,3,0,0,14,4,4,Hyderabad,Telangana,direct,Xpressbees,0
+KT101426,2026-05-16 00:54:00,1298,2,0,0,0,5,5,Bareilly,Uttar Pradesh,influencer,Delhivery,0
+KT101032,2026-07-14 21:11:00,1447,3,0,0,21,7,1,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101614,2026-07-14 11:53:00,2199,2,5,1,11,7,1,Delhi,Delhi,direct,Delhivery,0
+KT100931,2026-08-22 04:35:00,699,1,0,0,4,8,5,Mumbai,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT101588,2026-08-08 00:38:00,299,1,0,0,0,8,5,Mumbai,Maharashtra,influencer,Delhivery,0
+KT101580,2026-08-26 13:01:00,499,1,0,0,13,8,2,Patna,Bihar,direct,Shadowfax,1
+KT100332,2026-07-21 07:10:00,399,1,3,1,7,7,1,Pune,Maharashtra,meta_ads,Xpressbees,1
+KT100983,2026-08-31 02:40:00,399,1,1,1,2,8,0,Kota,Rajasthan,instagram_organic,Shadowfax,0
+KT100859,2026-04-07 08:24:00,1846,4,0,0,8,4,1,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT101271,2026-05-16 11:42:00,1447,3,0,0,11,5,5,Kolkata,West Bengal,meta_ads,Shadowfax,0
+KT100850,2026-06-13 20:16:00,948,2,5,1,20,6,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101259,2026-04-18 10:32:00,599,1,0,0,10,4,5,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT100887,2026-05-03 22:38:00,1396,4,0,0,22,5,6,Delhi,Delhi,influencer,Shadowfax,0
+KT100373,2026-08-05 05:40:00,2999,3,0,0,5,8,2,,Bihar,meta_ads,Delhivery,1
+KT101774,2026-05-13 20:46:00,1496,4,2,0,20,5,2,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT101613,2026-07-22 13:54:00,599,1,5,1,13,7,2,Darbhanga,Bihar,whatsapp_broadcast,Shadowfax,1
+KT101665,2026-04-15 14:03:00,299,1,1,0,14,4,2,Hyderabad,Telangana,direct,Shadowfax,0
+KT100784,2026-04-14 05:12:00,2999,2,4,1,5,4,1,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,1
+KT101815,2026-08-30 15:00:00,1048,2,0,0,15,8,6,Pune,Maharashtra,google_ads,Shadowfax,0
+KT100207,2026-05-18 12:18:00,1896,4,0,0,12,5,0,Delhi,Delhi,whatsapp_broadcast,BlueDart,0
+KT101204,2026-04-06 12:50:00,499,1,4,0,12,4,0,Lucknow,Uttar Pradesh,google_ads,Xpressbees,0
+KT100071,2026-07-16 09:09:00,948,2,4,0,9,7,3,Sagar,Madhya Pradesh,meta_ads,BlueDart,0
+KT100241,2026-08-14 13:50:00,699,1,4,1,13,8,4,Bengaluru,Karnataka,meta_ads,Shadowfax,1
+KT100312,2026-08-07 09:45:00,699,1,3,2,9,8,4,Sagar,Madhya Pradesh,whatsapp_broadcast,Delhivery,1
+KT100102,2026-05-07 03:54:00,599,1,0,0,3,5,3,Lucknow,Uttar Pradesh,direct,Ecom Express,0
+KT100844,2026-09-23 21:43:00,449,1,4,0,21,9,2,Chennai,Tamil Nadu,whatsapp_broadcast,Ecom Express,0
+KT100119,2026-04-29 18:42:00,848,2,0,0,18,4,2,Mumbai,Maharashtra,instagram_organic,Ecom Express,1
+KT100572,2026-07-12 14:53:00,399,1,0,0,14,7,6,Lucknow,Uttar Pradesh,instagram_organic,BlueDart,0
+KT101681,2026-09-04 12:25:00,449,1,3,0,12,9,4,Pune,Maharashtra,whatsapp_broadcast,Delhivery,0
+KT100579,2026-06-18 20:23:00,648,2,0,0,20,6,3,Pune,Maharashtra,direct,Xpressbees,0
+KT101639,2026-07-06 08:14:00,1048,2,0,0,8,7,0,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101682,2026-05-20 22:41:00,349,1,0,0,22,5,2,Kolkata,West Bengal,whatsapp_broadcast,Shadowfax,0
+KT100446,2026-09-28 04:12:00,299,1,0,0,4,9,0,Delhi,Delhi,google_ads,Delhivery,0
+KT100858,2026-06-13 01:10:00,299,1,0,0,1,6,5,Chennai,Tamil Nadu,direct,Delhivery,0
+KT100647,2026-07-10 12:23:00,499,1,0,0,12,7,4,Delhi,Delhi,meta_ads,Shadowfax,0
+KT100994,2026-09-22 11:05:00,699,1,0,0,11,9,1,Bengaluru,Karnataka,instagram_organic,Xpressbees,1
+KT101645,2026-09-11 03:26:00,449,1,0,0,3,9,4,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT100178,2026-04-23 10:29:00,599,1,0,0,10,4,3,Guwahati,Assam,google_ads,Delhivery,1
+KT100232,2026-07-09 15:17:00,599,1,0,0,15,7,3,Pune,Maharashtra,google_ads,Shadowfax,0
+KT101716,2026-06-06 03:16:00,998,2,0,0,3,6,5,Hyderabad,Telangana,influencer,Ecom Express,1
+KT101291,2026-05-23 19:28:00,449,1,0,0,19,5,5,Pune,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT101581,2026-07-11 01:05:00,299,1,0,0,1,7,5,Chennai,Tamil Nadu,meta_ads,Shadowfax,1
+KT100903,2026-07-11 00:28:00,449,1,0,0,0,7,5,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT101264,2026-06-25 16:41:00,948,2,5,2,16,6,3,Patna,Bihar,direct,Ecom Express,1
+KT101308,2026-05-14 13:44:00,299,1,2,0,13,5,3,Mumbai,Maharashtra,influencer,Delhivery,0
+KT101853,2026-05-27 09:04:00,848,2,0,0,9,5,2,Lucknow,Uttar Pradesh,direct,Ecom Express,0
+KT101176,2026-07-07 18:48:00,748,2,0,0,18,7,1,Delhi,Delhi,meta_ads,BlueDart,0
+KT101297,2026-08-19 00:23:00,699,1,3,0,0,8,2,Bengaluru,Karnataka,direct,Shadowfax,0
+KT100220,2026-06-02 09:29:00,1298,2,0,0,9,6,1,Delhi,Delhi,google_ads,Delhivery,0
+KT100885,2026-07-14 13:19:00,449,1,0,0,13,7,1,Lucknow,Uttar Pradesh,influencer,Delhivery,0
+KT101189,2026-07-29 01:08:00,948,2,0,0,1,7,2,Darbhanga,Bihar,whatsapp_broadcast,BlueDart,1
+KT100079,2026-09-01 15:37:00,449,1,0,0,15,9,1,Mumbai,Maharashtra,whatsapp_broadcast,Ecom Express,0
+KT100545,2026-06-21 22:53:00,699,1,0,0,22,6,6,Hyderabad,Telangana,influencer,Delhivery,1
+KT101955,2026-07-14 16:53:00,1298,2,0,0,16,7,1,Lucknow,Uttar Pradesh,meta_ads,Delhivery,1
+KT100729,2026-05-27 21:07:00,1899,2,0,0,21,5,2,Bengaluru,Karnataka,meta_ads,Shadowfax,1
+KT100987,2026-05-08 16:14:00,948,2,0,0,16,5,4,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT101380,2026-04-11 15:41:00,349,1,2,0,15,4,5,Mumbai,Maharashtra,meta_ads,Delhivery,0
+KT101722,2026-08-19 13:02:00,599,1,0,0,13,8,2,Nagaon,Assam,instagram_organic,Shadowfax,1
+KT101618,2026-06-12 21:48:00,599,1,0,0,21,6,4,Jaipur,Rajasthan,instagram_organic,Ecom Express,0
+KT101092,2026-04-14 07:29:00,1098,2,5,1,7,4,1,Kolkata,West Bengal,direct,Xpressbees,0
+KT100223,2026-06-21 20:26:00,299,1,0,0,20,6,6,Pune,Maharashtra,instagram_organic,Delhivery,1
+KT101023,2026-05-30 00:54:00,1298,2,4,0,0,5,5,Hyderabad,Telangana,whatsapp_broadcast,Xpressbees,0
+KT101758,2026-09-18 10:30:00,798,2,0,0,10,9,4,Lucknow,Uttar Pradesh,direct,Xpressbees,0
+KT100836,2026-09-24 16:00:00,449,1,0,0,16,9,3,Chennai,Tamil Nadu,direct,Delhivery,0
+KT101858,2026-04-15 01:16:00,499,1,5,2,1,4,2,Mumbai,Maharashtra,google_ads,BlueDart,1
+KT101194,2026-05-25 20:58:00,1547,3,0,0,20,5,0,Delhi,Delhi,google_ads,BlueDart,1
+KT100750,2026-06-15 14:55:00,499,1,0,0,14,6,0,Pune,Maharashtra,meta_ads,Delhivery,0
+KT100785,2026-08-29 18:09:00,349,1,4,1,18,8,5,Jaipur,Rajasthan,meta_ads,Delhivery,1
+KT101422,2026-07-15 16:01:00,1247,3,0,0,16,7,2,Indore,Madhya Pradesh,meta_ads,Ecom Express,0
+KT101392,2026-08-19 17:46:00,948,2,0,0,17,8,2,Darbhanga,Bihar,meta_ads,Xpressbees,1
+KT100949,2026-05-18 11:05:00,2999,2,0,0,11,5,0,Bareilly,Uttar Pradesh,google_ads,Shadowfax,1
+KT101071,2026-08-01 18:18:00,449,1,0,0,18,8,5,Kota,Rajasthan,influencer,Shadowfax,0
+KT100805,2026-04-01 13:38:00,349,1,0,0,13,4,2,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT100923,2026-09-14 22:55:00,299,1,0,0,22,9,0,Kolkata,West Bengal,meta_ads,Delhivery,0
+KT150114,2026-05-27 11:17:00,349,1,0,0,11,5,2,Jaipur,Rajasthan,meta_ads,Ecom Express,0
+KT101683,2026-06-13 13:57:00,499,1,0,0,13,6,5,Hyderabad,Telangana,google_ads,Shadowfax,0
+KT101579,2026-08-17 16:16:00,1597,3,0,0,16,8,0,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT100422,2026-08-19 20:20:00,1547,3,0,0,20,8,2,Chennai,Tamil Nadu,meta_ads,Delhivery,1
+KT101022,2026-04-06 10:21:00,1197,3,0,0,10,4,0,Delhi,Delhi,influencer,Xpressbees,0
+KT101233,2026-06-03 07:34:00,399,1,0,0,7,6,2,Pune,Maharashtra,direct,Delhivery,0
+KT101594,2026-05-21 11:16:00,1247,3,0,0,11,5,3,Sagar,Madhya Pradesh,instagram_organic,Delhivery,1
+KT100581,2026-04-18 13:22:00,1098,2,0,0,13,4,5,Chennai,Tamil Nadu,direct,BlueDart,0
+KT101268,2026-06-08 19:32:00,2499,1,0,0,19,6,0,Pune,Maharashtra,meta_ads,Delhivery,0
+KT101590,2026-04-17 21:05:00,1697,3,0,0,21,4,4,Bareilly,Uttar Pradesh,direct,BlueDart,1
+KT101293,2026-08-19 11:18:00,349,1,5,0,11,8,2,Hyderabad,Telangana,meta_ads,Ecom Express,0
+KT101456,2026-09-11 00:12:00,399,1,0,0,0,9,4,Mumbai,Maharashtra,influencer,Delhivery,0
+KT100807,2026-05-25 09:32:00,1098,2,3,0,9,5,0,Bengaluru,Karnataka,meta_ads,Shadowfax,0
+KT100184,2026-07-16 14:57:00,1198,2,0,0,14,7,3,Delhi,Delhi,instagram_organic,Shadowfax,1
+KT101833,2026-08-22 16:18:00,599,1,0,0,16,8,5,Delhi,Delhi,meta_ads,BlueDart,0
+KT101218,2026-05-09 00:15:00,699,1,0,0,0,5,5,Jaipur,Rajasthan,direct,Shadowfax,0
+KT100441,2026-05-09 05:26:00,898,2,4,0,5,5,5,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT101787,2026-09-25 21:38:00,1098,2,0,0,21,9,4,Lucknow,Uttar Pradesh,direct,Delhivery,1
+KT100985,2026-05-07 13:56:00,2999,2,0,0,13,5,3,Jaipur,Rajasthan,whatsapp_broadcast,Ecom Express,0
+KT101603,2026-09-30 23:04:00,748,2,0,0,23,9,2,Bengaluru,Karnataka,google_ads,Xpressbees,1
+KT100330,2026-04-17 12:18:00,499,1,0,0,12,4,4,Delhi,Delhi,direct,Delhivery,1
+KT101754,2026-07-24 05:31:00,998,2,0,0,5,7,4,Sagar,Madhya Pradesh,google_ads,Ecom Express,1
+KT100464,2026-08-04 03:20:00,2146,4,0,0,3,8,1,Patna,Bihar,google_ads,Delhivery,1
+KT101284,2026-09-08 05:48:00,499,1,0,0,5,9,1,Delhi,Delhi,meta_ads,Delhivery,1
+KT101617,2026-09-05 02:27:00,449,1,0,0,2,9,5,Kolkata,West Bengal,meta_ads,BlueDart,1
+KT100256,2026-09-08 10:53:00,1547,3,0,0,10,9,1,Kolkata,West Bengal,meta_ads,Xpressbees,1
+KT100043,2026-08-13 16:39:00,399,1,3,0,16,8,3,Indore,Madhya Pradesh,meta_ads,BlueDart,0
+KT101328,2026-06-20 00:27:00,449,1,3,0,0,6,5,Delhi,Delhi,meta_ads,Xpressbees,0
+KT100385,2026-05-03 10:48:00,648,2,0,0,10,5,6,Mumbai,Maharashtra,direct,Delhivery,0
+KT100171,2026-08-09 19:10:00,1148,2,0,0,19,8,6,Lucknow,Uttar Pradesh,meta_ads,Xpressbees,0
+KT100869,2026-04-19 00:41:00,499,1,3,0,0,4,6,Bengaluru,Karnataka,meta_ads,Xpressbees,0
+KT101904,2026-08-13 00:43:00,699,1,4,0,0,8,3,Chennai,Tamil Nadu,instagram_organic,Delhivery,0
+KT100704,2026-04-08 05:47:00,1197,3,0,0,5,4,2,Delhi,Delhi,whatsapp_broadcast,Delhivery,0
+KT100164,2026-05-08 14:02:00,1198,2,0,0,14,5,4,Pune,Maharashtra,whatsapp_broadcast,Xpressbees,0
+KT101084,2026-04-16 16:48:00,748,2,0,0,16,4,3,Chennai,Tamil Nadu,influencer,Ecom Express,0
+KT100268,2026-05-11 19:36:00,1447,3,0,0,19,5,0,Jaipur,Rajasthan,direct,BlueDart,1
+KT101317,2026-07-24 19:33:00,1298,2,0,0,19,7,4,Darbhanga,Bihar,whatsapp_broadcast,Ecom Express,1
+KT100960,2026-04-26 23:34:00,349,1,0,0,23,4,6,Guwahati,Assam,instagram_organic,BlueDart,0
+KT101219,2026-09-05 09:30:00,599,1,2,0,9,9,5,Patna,Bihar,instagram_organic,BlueDart,1
+KT101923,2026-06-04 19:17:00,599,1,0,0,19,6,3,Bengaluru,Karnataka,whatsapp_broadcast,Delhivery,0
+KT101183,2026-08-14 23:13:00,648,2,4,0,23,8,4,Darbhanga,Bihar,influencer,Delhivery,0
+KT100925,2026-06-27 14:34:00,399,1,0,0,14,6,5,Delhi,Delhi,meta_ads,Delhivery,0
+KT101468,2026-07-18 23:41:00,998,2,1,1,23,7,5,Indore,Madhya Pradesh,influencer,Delhivery,0
+KT100868,2026-06-29 22:57:00,1297,3,0,0,22,6,0,Pune,Maharashtra,meta_ads,Shadowfax,1
+KT101296,2026-07-24 16:10:00,1597,3,0,0,16,7,4,Hyderabad,Telangana,whatsapp_broadcast,Delhivery,0
+KT100701,2026-04-08 08:33:00,1198,2,0,0,8,4,2,Jaipur,Rajasthan,direct,Shadowfax,0
+KT100134,2026-09-08 02:46:00,1048,2,5,0,2,9,1,Indore,Madhya Pradesh,instagram_organic,Delhivery,0
+KT101770,2026-05-01 16:30:00,998,2,1,0,16,5,4,Jaipur,Rajasthan,meta_ads,Delhivery,0
+KT100403,2026-06-22 05:12:00,449,1,0,0,5,6,0,Jaipur,Rajasthan,direct,Delhivery,0
+KT100930,2026-05-05 12:31:00,599,1,5,0,12,5,1,Pune,Maharashtra,meta_ads,Shadowfax,0
+KT101627,2026-07-29 04:42:00,1397,3,0,0,4,7,2,Hyderabad,Telangana,meta_ads,Delhivery,0
+KT101635,2026-07-30 11:05:00,699,1,1,0,11,7,3,Mumbai,Maharashtra,meta_ads,Xpressbees,0
+KT101478,2026-05-28 12:40:00,399,1,0,0,12,5,3,Patna,Bihar,google_ads,Delhivery,0
+KT101763,2026-06-24 16:57:00,648,2,0,0,16,6,2,Hyderabad,Telangana,meta_ads,Delhivery,1
+KT101663,2026-09-23 11:47:00,1497,3,2,0,11,9,2,Pune,Maharashtra,influencer,BlueDart,0
+KT101508,2026-09-29 12:40:00,599,1,4,0,12,9,1,Pune,Maharashtra,influencer,Delhivery,0
+KT101940,2026-04-07 18:16:00,1098,2,5,1,18,4,1,Delhi,Delhi,influencer,Delhivery,0
+KT100711,2026-08-25 18:10:00,1347,3,0,0,18,8,1,Mumbai,Maharashtra,meta_ads,Shadowfax,0
+KT100724,2026-09-12 08:49:00,599,1,5,0,8,9,5,Darbhanga,Bihar,whatsapp_broadcast,BlueDart,1
+KT101178,2026-06-09 01:54:00,998,2,0,0,1,6,1,Jaipur,Rajasthan,google_ads,Delhivery,0
+KT101824,2026-07-28 15:50:00,898,2,0,0,15,7,1,Pune,Maharashtra,meta_ads,Delhivery,0
+KT100954,2026-05-18 20:25:00,699,1,0,0,20,5,0,Bengaluru,Karnataka,influencer,Delhivery,1
+KT100765,2026-08-28 20:48:00,499,1,0,0,20,8,4,Darbhanga,Bihar,whatsapp_broadcast,Shadowfax,0
+KT150193,2026-06-18 15:37:00,349,1,0,0,15,6,3,Chennai,Tamil Nadu,meta_ads,Delhivery,0
+KT101690,2026-06-16 07:32:00,748,2,0,0,7,6,1,Jaipur,Rajasthan,whatsapp_broadcast,Shadowfax,0
+KT100217,2026-06-26 05:01:00,349,1,0,0,5,6,4,Bengaluru,Karnataka,meta_ads,Ecom Express,0
+KT100560,2026-04-04 16:06:00,1796,4,0,0,16,4,5,Mumbai,Maharashtra,meta_ads,Delhivery,1
+KT101070,2026-07-02 21:28:00,599,1,0,0,21,7,3,Jaipur,Rajasthan,google_ads,BlueDart,0
+KT101807,2026-08-17 14:03:00,449,1,0,0,14,8,0,Jaipur,Rajasthan,direct,Delhivery,1
+KT100802,2026-08-13 06:22:00,2999,1,0,0,6,8,3,Gorakhpur,Uttar Pradesh,instagram_organic,Delhivery,0
+KT101367,2026-07-23 12:42:00,699,1,0,0,12,7,3,Sagar,Madhya Pradesh,meta_ads,Delhivery,0
+KT100046,2026-05-22 19:08:00,349,1,0,0,19,5,4,Delhi,Delhi,meta_ads,Shadowfax,1
+KT101141,2026-06-10 18:24:00,1098,2,0,0,18,6,2,Bengaluru,Karnataka,direct,Delhivery,0
+KT101410,2026-09-12 03:41:00,699,1,4,1,3,9,5,Lucknow,Uttar Pradesh,meta_ads,Shadowfax,0
+KT100463,2026-07-29 14:48:00,399,1,0,0,14,7,2,Hyderabad,Telangana,meta_ads,Xpressbees,0
+KT101725,2026-04-20 15:21:00,299,1,0,0,15,4,0,Kolkata,West Bengal,influencer,Delhivery,0
+KT100621,2026-07-31 21:23:00,848,2,0,0,21,7,4,Guwahati,Assam,influencer,Ecom Express,1
+KT101693,2026-09-17 05:55:00,1398,2,3,0,5,9,3,Pune,Maharashtra,influencer,Xpressbees,0
+KT100605,2026-05-25 23:08:00,699,1,0,0,23,5,0,Bengaluru,Karnataka,meta_ads,Delhivery,0
+KT101151,2026-04-12 21:44:00,1997,3,0,0,21,4,6,Jaipur,Rajasthan,influencer,Shadowfax,0
+KT100867,2026-06-02 05:46:00,998,2,3,1,5,6,1,Jaipur,Rajasthan,influencer,Delhivery,0
+KT101132,2026-07-15 07:33:00,1697,3,0,0,7,7,2,Mumbai,Maharashtra,whatsapp_broadcast,Xpressbees,0
+KT101644,2026-08-13 18:17:00,499,1,4,0,18,8,3,Mumbai,Maharashtra,whatsapp_broadcast,Shadowfax,0
+KT100400,2026-06-03 07:16:00,399,1,0,0,7,6,2,Chennai,Tamil Nadu,meta_ads,Delhivery,1

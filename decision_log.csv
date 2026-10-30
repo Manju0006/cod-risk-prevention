@@ -1,0 +1,6 @@
+
+decision_id,order_reference,predicted_rto_risk,prior_rto_count,recommended_action,reason,prepaid_discount_inr,human_review_required,record_type
+SYN-001,SYNTHETIC-ORDER-001,0.08,0,Ship as-is,Low risk below 20 percent threshold,0,No,Synthetic example
+SYN-002,SYNTHETIC-ORDER-002,0.2179,0,Ship after WhatsApp confirmation,Moderate risk; request customer confirmation,0,No,Synthetic example
+SYN-003,SYNTHETIC-ORDER-003,0.45,1,Nudge to prepaid,Elevated risk; offer prepaid incentive,20,No,Synthetic example
+SYN-004,SYNTHETIC-ORDER-004,0.72,2,Hold for manual review,High risk with repeat RTO history; do not auto-cancel,0,Yes,Synthetic example
